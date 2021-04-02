@@ -1,0 +1,930 @@
+/* screen - editorial */
+
+.border-1px-cararra {
+  border: 1px solid var(--cararra);
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.border-3px-black {
+  border: 3px solid var(--black);
+}
+.editorial {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2569px;
+  min-width: 600px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+.editorial .about-us-C61RwL {
+  background-color: transparent;
+  bottom: calc(21.21% - 4px);
+  height: 18px;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 51px;
+}
+.editorial .browse-C61RwL {
+  background-color: transparent;
+  bottom: calc(22.27% - 4px);
+  height: 18px;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 40px;
+}
+.editorial .browse-poi346 {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  left: calc(43.07% - 22px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 50px;
+}
+.editorial .component-21-1-MXGsu3 {
+  background-color: transparent;
+  background-image: url(../img/path-34@1x.png);
+  background-size: 100% 100%;
+  height: 21px;
+  position: absolute;
+  right: 1.40%;
+  top: 0px;
+  width: 21px;
+}
+.editorial .component-22-1-Ebfosa {
+  background-color: transparent;
+  height: 177px;
+  left: 224px;
+  position: absolute;
+  top: 0px;
+  width: 522px;
+}
+.editorial .contact-us-C61RwL {
+  background-color: transparent;
+  bottom: 433px;
+  height: 18px;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 60px;
+}
+.editorial .customer-service954-787-0304-C61RwL {
+  background-color: transparent;
+  bottom: calc(19.76% - 12px);
+  color: var(--gray);
+  font-family: "Overpass", Helvetica;
+  font-size: 12px;
+  height: 59px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  right: 7px;
+  text-align: left;
+  width: 161px;
+}
+.editorial .design-in-stree-wearfear-of-god-C61RwL {
+  background-color: transparent;
+  color: var(--gray);
+  font-family: "Overpass", Helvetica;
+  font-size: 10px;
+  height: 44px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 12px;
+  text-align: center;
+  top: 137px;
+  width: 153px;
+}
+.editorial .editorial-C61RwL {
+  background-color: transparent;
+  height: 266px;
+  left: 16px;
+  position: absolute;
+  top: calc(44.59% - 119px);
+  width: calc(100.00% - 54px);
+}
+.editorial .editorial-VMr6Om {
+  background-color: transparent;
+  bottom: 460px;
+  height: 18px;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 45px;
+}
+.editorial .editorial-photo-1-C61RwL {
+  background-color: transparent;
+  height: 262px;
+  left: 29px;
+  position: absolute;
+  top: 173px;
+  width: calc(100.00% - 79px);
+}
+.editorial .editorial-poi346 {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(43.21% - 24px);
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+.editorial .email-8s4xvg {
+  background-color: transparent;
+  height: 84.21%;
+  left: 5.45%;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 26.32%;
+  white-space: nowrap;
+  width: 15.76%;
+}
+.editorial .email-KdigvU {
+  background-color: transparent;
+  height: 84.21%;
+  left: 5.45%;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 26.32%;
+  white-space: nowrap;
+  width: 15.76%;
+}
+.editorial .email-subscription-C61RwL {
+  background-color: transparent;
+  bottom: calc(36.23% - 15px);
+  color: var(--white);
+  font-family: 'Overpass', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: 42px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: calc(49.67% - 146px);
+  text-align: left;
+  white-space: nowrap;
+  width: 294px;
+}
+.editorial .fa-qs-C61RwL {
+  background-color: transparent;
+  bottom: calc(20.15% - 4px);
+  height: 18px;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 29px;
+}
+.editorial .finding-the-face-mask-for-you-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 700;
+  height: 42px;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 133px;
+  width: 117px;
+}
+.editorial .finding-the-face-mask-for-you-VMr6Om {
+  background-color: transparent;
+  height: 29px;
+  left: calc(46.60% - 136px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 472px;
+  white-space: nowrap;
+  width: 291px;
+}
+.editorial .given-the-curre-ngs-for-the-pub-C61RwL {
+  background-color: transparent;
+  height: 328px;
+  left: calc(42.06% - 154px);
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: calc(25.15% - 82px);
+  width: 367px;
+}
+.editorial .given-the-incre-facial-gear-ha-C61RwL {
+  background-color: transparent;
+  height: 403px;
+  left: calc(47.57% - 187px);
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: calc(38.20% - 154px);
+  width: 394px;
+}
+.editorial .group-163-biSsuR {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 100%;
+  left: 68.09%;
+  position: absolute;
+  top: 0px;
+  width: 31.91%;
+}
+.editorial .group-163-zxXjO7 {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 100%;
+  left: 51.61%;
+  position: absolute;
+  top: 0px;
+  width: 48.39%;
+}
+.editorial .group-164-biSsuR {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 100%;
+  left: 34.04%;
+  position: absolute;
+  top: 0px;
+  width: 31.91%;
+}
+.editorial .group-164-zxXjO7 {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 48.39%;
+}
+.editorial .group-172-FYBPGC {
+  background-color: transparent;
+  height: 100%;
+  left: 102.49%;
+  position: relative;
+  top: 0px;
+  width: 99.04%;
+}
+.editorial .group-172-sovy2d {
+  background-color: transparent;
+  height: 100%;
+  left: -101.43%;
+  position: relative;
+  top: 0px;
+  width: 97.43%;
+}
+.editorial .group-173-HPnu8y {
+  background-color: transparent;
+  background-image: url(../img/path-34@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  position: absolute;
+  right: 323px;
+  top: 0px;
+  width: 21px;
+}
+.editorial .group-174-biSsuR {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31.91%;
+}
+.editorial .group-179-Ebfosa {
+  background-color: var(--white);
+  box-shadow: -5px 0px 15px rgba(0,0,0,0.051);;
+  height: calc(100.00% - 131px);
+  left: 0px;
+  position: absolute;
+  top: 131px;
+  width: 100%;
+}
+.editorial .group-5-3cZhlu {
+  background-color: transparent;
+  background-image: url(../img/path-27@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% - 1px);
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 12px;
+}
+.editorial .group-6-3cZhlu {
+  background-color: transparent;
+  background-image: url(../img/path-28@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% - 1px);
+  left: calc(34.59% - 4px);
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+.editorial .group-7-3cZhlu {
+  background-color: transparent;
+  background-image: url(../img/path-30@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  position: absolute;
+  right: calc(32.50% - 4px);
+  top: 1px;
+  width: 12px;
+}
+.editorial .group-8-C61RwL {
+  background-color: transparent;
+  bottom: calc(22.02% - 3px);
+  height: 12px;
+  position: absolute;
+  right: 50px;
+  width: 116px;
+}
+.editorial .ivan-ipstaff-writer-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Overpass", Helvetica;
+  font-size: 15px;
+  height: 41px;
+  left: calc(18.96% - 12px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(48.52% - 20px);
+  white-space: nowrap;
+  width: 62px;
+}
+.editorial .line-2-KKTDyW {
+  background-color: transparent;
+  bottom: calc(49.93% - 1px);
+  height: 2px;
+  left: calc(31.93% - 2px);
+  position: absolute;
+  width: 7px;
+}
+.editorial .line-2-xxWNWV {
+  background-color: transparent;
+  height: 2px;
+  position: absolute;
+  right: calc(31.93% - 2px);
+  top: calc(49.93% - 1px);
+  width: 7px;
+}
+.editorial .line-4-C61RwL {
+  background-color: transparent;
+  height: 6px;
+  left: 49px;
+  position: absolute;
+  top: 175px;
+  width: 68px;
+}
+.editorial .log-in-Ebfosa {
+  background-color: transparent;
+  bottom: calc(15.11% - 3px);
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(41.83% - 17px);
+  text-align: left;
+  white-space: nowrap;
+  width: 41px;
+}
+.editorial .log-in-aIywlF {
+  background-color: transparent;
+  height: 21px;
+  position: absolute;
+  right: calc(23.69% - 83px);
+  top: calc(7.93% - 2px);
+  width: 350px;
+}
+.editorial .mask-group-1-HPnu8y {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.editorial .mask-group-1-MXGsu3 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 19px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  width: 522px;
+}
+.editorial .membership-C61RwL {
+  background-color: transparent;
+  bottom: 487px;
+  height: 18px;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 69px;
+}
+.editorial .membership-poi346 {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  left: calc(49.89% - 42px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 85px;
+}
+.editorial .name-7mv9Nr {
+  background-color: transparent;
+  height: 84.21%;
+  left: 5.45%;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 26.32%;
+  white-space: nowrap;
+  width: 16.97%;
+}
+.editorial .nav-C61RwL {
+  background-color: transparent;
+  height: 210px;
+  left: -672px;
+  position: fixed;
+  top: -131px;
+  width: calc(100.00% + 1320px);
+}
+.editorial .password-Udz9Uv {
+  background-color: transparent;
+  height: 84.21%;
+  left: 5.45%;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 26.32%;
+  white-space: nowrap;
+  width: 27.88%;
+}
+.editorial .password-vOAwsG {
+  background-color: transparent;
+  height: 84.21%;
+  left: 5.45%;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 26.32%;
+  white-space: nowrap;
+  width: 27.88%;
+}
+.editorial .path-13-3cZhlu {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+.editorial .path-292-Ebfosa {
+  background-color: transparent;
+  bottom: 4.46%;
+  height: 7px;
+  left: calc(50.00% - 7px);
+  position: absolute;
+  width: 13px;
+}
+.editorial .path-31-d71PT4 {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: calc(100.00% - 5px);
+}
+.editorial .path-32-d71PT4 {
+  background-color: transparent;
+  height: 3px;
+  left: calc(49.94% - 2px);
+  position: absolute;
+  top: calc(49.94% - 2px);
+  width: 3px;
+}
+.editorial .path-37-C61RwL {
+  background-color: transparent;
+  height: 17px;
+  left: 13px;
+  position: absolute;
+  top: 149px;
+  width: 11px;
+}
+.editorial .path-38-C61RwL {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: 13px;
+  top: 149px;
+  width: 11px;
+}
+.editorial .path-5-KKTDyW {
+  background-color: transparent;
+  bottom: calc(49.13% - 6px);
+  height: 12px;
+  position: absolute;
+  right: calc(31.78% - 2px);
+  width: 7px;
+}
+.editorial .path-5-xxWNWV {
+  background-color: transparent;
+  height: 12px;
+  left: calc(31.78% - 2px);
+  position: absolute;
+  top: calc(49.12% - 6px);
+  width: 7px;
+}
+.editorial .placeholder-person-Ebfosa {
+  background-color: transparent;
+  border-radius: 11px;
+  bottom: calc(15.96% - 4px);
+  height: 22px;
+  position: absolute;
+  right: 711px;
+  width: 22px;
+}
+.editorial .posted-10222020-C61RwL {
+  background-color: transparent;
+  color: var(--silver);
+  font-family: 'Overpass', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: 16px;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 444px;
+  white-space: nowrap;
+  width: 85px;
+}
+.editorial .privacy-policy-C61RwL {
+  background-color: transparent;
+  bottom: calc(20.15% - 4px);
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(49.72% - 36px);
+  text-align: left;
+  white-space: nowrap;
+  width: 73px;
+}
+.editorial .rectangle-24-C61RwL {
+  background-color: var(--black);
+  bottom: calc(32.52% - 101px);
+  height: 312px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.editorial .rectangle-255-Ebfosa {
+  background-color: var(--white);
+  box-shadow: -5px 0px 15px rgba(0,0,0,0.051);;
+  height: calc(100.00% - 131px);
+  left: 0px;
+  position: absolute;
+  top: 131px;
+  width: 100%;
+}
+.editorial .rectangle-57-C61RwL {
+  background-color: var(--white);
+  border-radius: 27px;
+  bottom: calc(34.01% - 16px);
+  height: 46px;
+  left: 59px;
+  position: absolute;
+  width: calc(100.00% - 130px);
+}
+.editorial .rectangle-58-C61RwL {
+  background-color: var(--fire-bush);
+  border-radius: 24px;
+  bottom: calc(34.11% - 10px);
+  height: 30px;
+  position: absolute;
+  right: 80px;
+  width: 153px;
+}
+.editorial .rental-policy-C61RwL {
+  background-color: transparent;
+  bottom: calc(22.27% - 4px);
+  height: 18px;
+  left: calc(49.53% - 34px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 69px;
+}
+.editorial .safety-is-fashion-C61RwL {
+  background-color: transparent;
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 700;
+  height: 29px;
+  left: calc(49.80% - 56px);
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 144px;
+  width: 112px;
+}
+.editorial .sign-up-Ebfosa {
+  background-color: transparent;
+  bottom: calc(15.11% - 3px);
+  height: 18px;
+  left: calc(41.69% - 20px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 49px;
+}
+.editorial .sign-up-for-membership-C61RwL {
+  background-color: transparent;
+  bottom: calc(34.09% - 6px);
+  color: var(--white);
+  font-family: 'Overpass', Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 700;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  right: 87px;
+  text-align: left;
+  white-space: nowrap;
+  width: 137px;
+}
+.editorial .span0-CUfxsI {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.editorial .span0-JiRN6x {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.editorial .span0-x0UOdQ {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -0.19px;
+}
+.editorial .span1-CUfxsI {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: italic;
+  font-weight: 400;
+}
+.editorial .span1-JiRN6x {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: italic;
+  font-weight: 400;
+}
+.editorial .span1-x0UOdQ {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.editorial .star-with-your-email-C61RwL {
+  background-color: transparent;
+  bottom: calc(34.07% - 6px);
+  color: var(--silver);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 12px;
+  font-style: italic;
+  font-weight: 300;
+  height: 18px;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 144px;
+}
+.editorial .supportthemercerclubnyccom-C61RwL {
+  background-color: transparent;
+  bottom: 495px;
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: 13px;
+  text-align: left;
+  white-space: nowrap;
+  width: 175px;
+}
+.editorial .terms-conditions-C61RwL {
+  background-color: transparent;
+  bottom: calc(21.21% - 4px);
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(46.76% - 50px);
+  text-align: left;
+  white-space: nowrap;
+  width: 106px;
+}
+.editorial .the-history-of-he-air-jordan-1-C61RwL {
+  background-color: transparent;
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 700;
+  height: 44px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(29.49% - 31px);
+  text-align: center;
+  top: 137px;
+  width: 105px;
+}
+.editorial .the-mercer-club-C61RwL {
+  background-color: transparent;
+  bottom: calc(23.03% - 8px);
+  height: 33px;
+  left: 47px;
+  letter-spacing: 0.28px;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 218px;
+}
+.editorial .the-mercer-club-Ebfosa {
+  background-color: transparent;
+  bottom: calc(12.43% - 4px);
+  height: 33px;
+  letter-spacing: 0.28px;
+  line-height: 23px;
+  position: absolute;
+  right: calc(49.94% - 109px);
+  text-align: center;
+  white-space: nowrap;
+  width: 218px;
+}
+.editorial .unique-mediums-on-the-runway-C61RwL {
+  background-color: transparent;
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 700;
+  height: 44px;
+  left: calc(27.69% - 34px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 136px;
+  width: 122px;
+}
+.nunitosans-normal-gray-12px {
+  color: var(--gray);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.nunitosans-normal-silver-10px {
+  color: var(--silver);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 400;
+}
+.overpass-black-black-23px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 900;
+}
+.overpass-bold-black-15px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-20px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-fire-bush-12px {
+  color: var(--fire-bush);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-normal-fire-bush-20px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica;
+  font-size: 20px;
+}
+.overpass-normal-gravel-15px {
+  color: var(--gravel);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-12px {
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-15px {
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --black-haze: rgba(247,247,247,1.0);
+  --cararra: rgba(235,235,235,1.0);
+  --dove-gray: rgba(112,112,112,1.0);
+  --fire-bush: rgba(231,148,42,1.0);
+  --gravel: rgba(74,74,74,1.0);
+  --gray: rgba(126,126,126,1.0);
+  --silver: rgba(192,192,192,1.0);
+  --white: rgba(255,255,255,1.0);
+}

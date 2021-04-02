@@ -1,0 +1,1786 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/privacy-policy.css" />
+    <style>
+      @import url("https://fonts.googleapis.com/css?family=Overpass:400,700,900,600,400italic|Nunito+Sans:400,700,900,300,400italic,700italic,300italic");
+
+      @font-face {
+        font-family: "SegoeUI-Bold";
+        font-style: normal;
+        font-weight: 700;
+        src: url("https://anima-uploads.s3.amazonaws.com/5c584d745e9ae3000a003018/segoeuib.ttf") format("truetype");
+      }
+
+      @font-face {
+        font-family: "SegoeUI-Regular";
+        font-style: normal;
+        font-weight: 400;
+        src: url("https://anima-uploads.s3.amazonaws.com/5c4fb9717d3628000b06e02f/segoe-ui.ttf") format("truetype");
+      }
+
+      .component-wrapper a,
+      .screen a {
+        text-decoration: none;
+        display: contents;
+      }
+
+      .full-width-a {
+        width: 100%;
+      }
+
+      .full-height-a {
+        height: 100%;
+      }
+
+      .screen textarea:focus,
+      .screen input:focus {
+        outline: none;
+      }
+
+      .screen *,
+      .component-wrapper * {
+        box-sizing: border-box;
+        -webkit-font-smoothing: antialiased;
+      }
+
+      .screen div {
+        -webkit-text-size-adjust: none;
+      }
+
+      .container-center-vertical,
+      .container-center-horizontal {
+        pointer-events: none;
+        display: flex;
+        flex-direction: row;
+        padding: 0;
+        margin: 0;
+      }
+
+      .container-center-vertical {
+        align-items: center;
+        height: 100%;
+      }
+
+      .container-center-horizontal {
+        justify-content: center;
+        width: 100%;
+      }
+
+      .container-center-vertical > *,
+      .container-center-horizontal > * {
+        pointer-events: auto;
+        flex-shrink: 0;
+      }
+
+      .component-wrapper,
+      .screen {
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        word-break: break-all;
+        word-break: break-word;
+      }
+
+      .auto-animated div {
+        opacity: 0;
+        position: absolute;
+        --z-index: -1;
+      }
+
+      .auto-animated .container-center-vertical,
+      .auto-animated .container-center-horizontal {
+        opacity: 1;
+      }
+
+      .overlay {
+        position: absolute;
+        opacity: 0;
+        display: none;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        position: fixed;
+      }
+
+      .animate-appear {
+        opacity: 0;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 normal forwards;
+      }
+
+      .animate-disappear {
+        opacity: 1;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 reverse forwards;
+      }
+
+      .animate-nodelay {
+        animation-delay: 0s;
+      }
+
+      @keyframes reveal {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+      .align-self-flex-start {
+        align-self: flex-start;
+      }
+      .align-self-flex-end {
+        align-self: flex-end;
+      }
+      .align-self-flex-center {
+        align-self: center;
+      }
+      .valign-text-middle {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .valign-text-bottom {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+      }
+      input:focus {
+        outline: none;
+      }
+      .component-wrapper,
+      .component-wrapper * {
+        pointer-events: none;
+      }
+
+      .component-wrapper a *,
+      .component-wrapper a,
+      .component-wrapper input,
+      .component-wrapper video,
+      .component-wrapper iframe,
+      .listeners-active,
+      .listeners-active * {
+        pointer-events: auto;
+      }
+
+      .hidden,
+      .hidden * {
+        visibility: hidden;
+        pointer-events: none;
+      }
+
+      .smart-layers-pointers,
+      .smart-layers-pointers * {
+        pointer-events: auto;
+        visibility: visible;
+      }
+
+      .component-wrapper.not-ready,
+      .component-wrapper.not-ready * {
+        visibility: hidden !important;
+      }
+
+      .listeners-active-click,
+      .listeners-active-click * {
+        cursor: pointer;
+      }
+    </style>
+    <meta name="author" content="AnimaApp.com - Design to code, Automated." />
+  </head>
+  <body style="margin: 0; background: rgba(255, 255, 255, 1)">
+    <input type="hidden" id="anPageName" name="page" value="privacy-policy" />
+    <div class="container-center-horizontal">
+      <div class="privacy-policy screen">
+        <div class="privacy-policy-C61RwL">PRIVACY POLICY</div>
+        <div class="x1-overviewthis-nd-any-of-our-s-C61RwL">
+          <span class="span0-gdDxxS">1. Overview<br /></span
+          ><span class="span1-gdDxxS"
+            >This Privacy Policy explains how The Mercer Club, Inc. (“The Mercer Club”, “we”, or “us”) collects,
+            protects, uses and shares information about you when you use themercerclubnyc.com (“Website”), our mobile
+            applications (“App”), and any of our services (collectively, the “Services”), and whether you access the
+            Services directly or through a third party. <br /><br />Please understand that, except as specifically
+            described below, this Privacy Policy does not apply to information collected by third parties, such as other
+            companies, or third-party websites or mobile applications, even if any are linked to or accessible through
+            the Services. If you have any questions or concerns about our information practices, please contact us at
+            founders@themercerclubnyc.com.&nbsp;&nbsp;If you do not want information about you to be used as described
+            in this Privacy Policy, you must stop, or refrain from, using the Services.</span
+          >
+        </div>
+        <img class="karsten-winegea-ie-v-i-unsplash-C61RwL" src="img/karsten-winegeart-cv-ohcie-vi-unsplash@1x.png" />
+        <div class="x2-information-we-collect-C61RwL overpass-bold-black-20px">
+          2.&nbsp;&nbsp;Information We Collect
+        </div>
+        <div class="personal-inform-dress-or-a-pers-C61RwL overpass-normal-gravel-15px">
+          “Personal Information,” as used in this Privacy Policy, is information that directly identifies an individual,
+          such as a person’s name, or information that reasonably allows an individual to be identified indirectly, such
+          as email or home address or a person’s mobile phone number.&nbsp;&nbsp;Personal Information also includes
+          information that is directly combined with such identifying information.<br /><br />Most of the Personal
+          Information we collect is from our customers. This information falls into two (2) general categories:
+          <br /><br />Passive Data Collection. This refers to data automatically collected from customers when they
+          visit the Website or use the Services.<br /><br />User-Submitted Information. This refers to information that
+          customers actively submit to us, which may be provided voluntarily or as required to use our Services.
+        </div>
+        <div class="customers-also-nts-name-and-em-C61RwL overpass-normal-gravel-15px">
+          Customers also sometimes provide us with information about other individuals, such as when a customer sends a
+          gift card or uses our referral services to tell a friend about us. In those cases, we may ask that customer to
+          provide the recipient’s name and email address. (We may also collect Personal Information in any personalized
+          message that is submitted with a gift card or referral.) We will automatically send the recipient email
+          correspondence with the gift card or referral, and invite them to visit the Website or otherwise use the
+          Services. If we receive Personal Information for a referral or gift card, we use that information for the sole
+          purpose of sending this email correspondence, and for tracking the use of the gift card or the success of our
+          referral program.
+        </div>
+        <div class="mobile-device-i-g-fileslike-mos-C61RwL overpass-normal-gravel-15px-2">
+          <span class="span0-iI0MfK">Mobile Device Information<br /></span
+          ><span class="span1-iI0MfK"
+            >When you download or use our App, we receive information about your mobile device. We register your device,
+            and we may use the identifier to send you push notifications about your transactions via the Services.<br /><br /></span
+          ><span class="span2-iI0MfK">Log Files<br /></span
+          ><span class="span3-iI0MfK"
+            >Like most websites, we automatically receive and record certain information about our customers’ behavior
+            on our Website or App and when using our Services. Our servers automatically gather technical information
+            about our Website or App traffic and store it in log files. This information includes Internet protocol (IP)
+            addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time
+            stamp, and other clickstream data. We aggregate this information with other pieces of information to analyze
+            trends, to administer and improve the Services, for example to understand customers’ use of the Website and
+            to make inventory and purchasing decisions that will best serve our customer base. Information from log
+            files may also be used to determine general location information such as city, state or geographic area.<br /><br /></span
+          ><span class="span4-iI0MfK">Third Party Advertisers<br /></span
+          ><span class="span5-iI0MfK"
+            >Third-party advertising companies may also use cookies, web beacons or similar technologies on the Website
+            to collect information (such as click stream information) during your visits to our Website and other
+            websites, as well as during your use of our Services, in order to help us provide you with advertisements
+            about our Services that we believe are likely to be of interest to you. <br /><br /></span
+          ><span class="span6-iI0MfK">User-Submitted Information<br /></span
+          ><span class="span7-iI0MfK"
+            >As a general matter, we may ask you for information, or retain information, that you provide to us in order
+            to provide our Services to you, and to better serve you and our customer base. This category of information
+            includes information submitted electronically, via phone, and in person through our stores. We may also
+            combine this information with Personal Information to provide you with customized and personalized
+            Services.<br /><br />We collect User-Submitted Information in the following ways:<br /><br /></span
+          ><span class="span8-iI0MfK">Registration<br /></span
+          ><span class="span9-iI0MfK"
+            >In order to use some features of the Website, App and Services, including the rental of The Mercer Club’s
+            inventory, you must first create an account with us and agree to the Terms of Service. To create an account,
+            you must provide an email address and create a password. We may also ask you for your birthday. We use the
+            email address you provide to contact you about the products and Services, and to begin to create a tailored
+            experience for you.<br /><br /></span
+          ><span class="span10-iI0MfK">Orders<br /></span
+          ><span class="span11-iI0MfK"
+            >If you order a product from us, we request certain Personal Information from you, whether you access the
+            Services from our App, the Website or otherwise. You must provide contact information (including name,
+            shipping address, telephone number) and a payment method. We use this information for billing purposes, to
+            fill your orders and to communicate with you about your orders. If we have trouble processing an order, we
+            will use this information to contact you. <br /><br />We record what you order and associate it with your
+            account profile. When you return an item, we may ask you for information about your experience, such as, if
+            you wore it and for information regarding how it fit. We record that information to better personalize our
+            Services for you and to improve our Services for others.<br /><br /></span
+          ><span class="span12-iI0MfK">Personalization of Service<br /></span
+          ><span class="span13-iI0MfK"
+            >In order to improve your customer experience, we may request personal characteristics, such as your height,
+            bust, dress size, style and fit preferences, your birthday, and the date and occasion for your rental. We
+            may also ask for your feedback and rating of our products. All of this information is voluntary and helps us
+            improve our Services by enabling us to create a tailored experience for you and our other
+            customers.&nbsp;&nbsp;Although we believe that providing this information will improve the Services we can
+            offer to you, and your experience of the Services, we will not require you to provide it. (Also, although we
+            may request information about personal physical characteristics, we do not ask for uniquely identifying
+            biometric information.)&nbsp;&nbsp;We may also collect geolocation information from your mobile device, if
+            you give us permission through your mobile device to do so.. <br /><br /></span
+          ><span class="span14-iI0MfK">Third-Party Account Credentials<br /></span
+          ><span class="span15-iI0MfK"
+            >If you choose to provide us with your third-party account credentials to such services as Google or
+            Facebook, you understand that some content and/or Personal Information may be shared between the third-party
+            service and us. Any information collected by a third party-service will be used in accordance with that
+            third party’s privacy policy, which we encourage you to review and consider.
+          </span>
+        </div>
+        <div class="x3-how-we-use-your-information-C61RwL overpass-bold-black-20px">
+          3.&nbsp;&nbsp;How We Use Your Information
+        </div>
+        <div class="the-purposes-an-low-in-addition-C61RwL overpass-normal-gravel-15px-2">
+          <span class="span0-CdCIQ1"
+            >The purposes and ways that we may use Personal Information about you are described throughout this Privacy
+            Policy, often in connection with the kinds of Personal Information we collect. Other uses of Personal
+            Information are described below. <br /><br />In addition, we may use aggregate, statistical, and
+            deidentified data, which does not specifically identify any individuals, for any purpose.<br /><br /></span
+          ><span class="span1-CdCIQ1">General Uses of Your Information<br /></span
+          ><span class="span2-CdCIQ1"
+            >We generally use the information we collect, including Personal Information about you, for the following
+            purposes:<br />To Provide Our Services. We use your Personal Information to provide our Services to you,
+            including:</span
+          >
+        </div>
+        <div class="x-to-present-you-in-finding-a-l-C61RwL overpass-normal-gravel-15px">
+          • To present you with products, information and content through the Services,
+          including&nbsp;&nbsp;&nbsp;&nbsp; personalization of the Services;<br /><br />• To process transactions,
+          including financial transactions, related to your use of the Services; <br /><br />• To assist you in finding
+          a location to return an item, using location or geolocation information you provide to us; and<br /><br />• To
+          respond to your questions or requests.<br />
+        </div>
+        <div class="for-communicati-keting-partners-C61RwL overpass-normal-gravel-15px-2">
+          <span class="span0-BnpHHt">For Communications and Marketing <br /></span
+          ><span class="span1-BnpHHt"
+            >We use your Personal Information to communicate with you and provide you with information about The Mercer
+            Club and our marketing partners.</span
+          >
+        </div>
+        <div class="to-develop-and-for-example-by-C61RwL overpass-normal-gravel-15px-2">
+          <span class="span0-GxTPai">To Develop and Improve Our Services <br /></span
+          ><span class="span1-GxTPai"
+            >We may also use your Personal Information as we work to continually improve our Services, our business and
+            our operations. For example, by:</span
+          >
+        </div>
+        <div class="x-analyzing-usag-o-our-customers-C61RwL overpass-normal-gravel-15px">
+          • Analyzing usage or interest in certain features, or identifying items and areas of interest to our
+          customers.
+        </div>
+        <div class="for-compliance-appropriate-to-C61RwL overpass-normal-gravel-15px-2">
+          <span class="span0-zb3KL0">For Compliance, Fraud Prevention and Safety <br /></span
+          ><span class="span1-zb3KL0"
+            >We may use your Personal Information and disclose it to law enforcement, government authorities, and
+            private parties as we believe necessary or appropriate to:
+          </span>
+        </div>
+        <div class="x-protect-our-yo-unauthorized-or-C61RwL overpass-normal-gravel-15px">
+          • Protect our, your or others’ rights, privacy, safety or property;<br />• Enforce the terms and conditions
+          that govern use of our Services, including for legal claims; and <br />• To prevent, identify, investigate and
+          deter any fraudulent, harmful, unauthorized or illegal activity.
+        </div>
+        <div class="to-comply-with-r-any-other-pur-C61RwL overpass-normal-gravel-15px-2">
+          <span class="span0-DBgWvj">To Comply with Law&nbsp;&nbsp;<br /></span
+          ><span class="span1-DBgWvj"
+            >We may use your Personal Information as we believe necessary or appropriate to comply with applicable laws,
+            lawful requests, and legal process.<br /><br /></span
+          ><span class="span2-DBgWvj">As Described or with Your Consent</span
+          ><span class="span3-DBgWvj"
+            >&nbsp;&nbsp;<br />We may use your Personal Information for any other purposes that we describe at the time
+            we collect your Personal Information, or otherwise with your consent.<br /><br /></span
+          ><span class="span4-DBgWvj">Communications from Us<br /></span
+          ><span class="span5-DBgWvj"
+            >We use your contact information to communicate with you about The Mercer Club and our marketing partners in
+            the following ways:</span
+          >
+        </div>
+        <div class="x-to-provide-new-your-account-i-C61RwL overpass-normal-gravel-15px">
+          • To provide newsletters, marketing emails or push notifications with special promotional offers, updates and
+          other relevant marketing content;<br />• To provide announcements about the Services; <br />• To communicate
+          with you about the Services and your account, including updates about the status of your orders; and<br />• To
+          verify your identity and address for your orders and rentals.
+        </div>
+        <div class="we-may-communic-r-mobile-device-C61RwL overpass-normal-gravel-15px">
+          We may communicate with you via phone, email, text messages and push notifications to your mobile device.
+          Standard call, message and data rates charged by your mobile carrier may apply to text messages or other
+          communications received on your mobile device.
+        </div>
+        <div class="cookies-web-bea-rson-has-access-C61RwL overpass-normal-gravel-15px-2">
+          <span class="span0-Yhqu5J">Cookies, Web Beacons and Similar Technologies<br /></span
+          ><span class="span1-Yhqu5J"
+            >A cookie is a small text file that is stored on a computer for record-keeping or tracking purposes. Web
+            beacons (also known as pixel tags or clear GIFs), are graphics that can record whether a person has accessed
+            particular content. We use these and other similar technologies on the Website and App and in connection
+            with our Services.<br /><br />Cookies we utilize may include session cookies, persistent cookies, or similar
+            technologies. A session cookie expires when you close your browser. A persistent cookie is stored on your
+            computer or device for an extended period of time. You can remove persistent cookies by following the
+            directions provided in your Internet browser&#39;s &#34;help&#34; menu. You may also configure your browser
+            to prevent cookies from being set on your computer. (Instructions should be provided in documentation for
+            your browser.) If you reject cookies, your ability to use the Website, App and Services may be limited, and
+            you may not be able to use certain features of the Website, App or Services. We may use cookies for the
+            following purposes.<br />
+            <br />Essential cookies. Essential cookies are required for providing you with features or services that you
+            have requested. For example, certain cookies enable you to log into secure areas of our Services. Disabling
+            these cookies may make certain features and services unavailable.<br /><br />Functional cookies. Functional
+            cookies are used to record your choices and settings regarding our Services, maintain your preferences over
+            time and recognize you when you return to our Services. These cookies help us to personalize our content for
+            you, greet you by name, and remember your preferences (for example, your choice of language or region).<br /><br />Performance/analytical
+            cookies. Performance/analytical cookies allow us to understand how visitors use our Services such as by
+            collecting information about the number of visitors to the Services, what pages visitors view on our
+            Services and how long visitors are viewing pages on the Services. Performance/analytical cookies also help
+            us measure the performance of our advertising campaigns in order to help us improve our campaigns and the
+            Services’ content for those who engage with our advertising. <br /><br />To find out more information about
+            cookies, including information about how to manage and delete cookies, please
+            visit&nbsp;&nbsp;https://www.allaboutcookies.org/.<br /><br />We may use web beacons or similar
+            technologies, which help manage content on the Website and in the Services by tracking what content is
+            effective. These technologies may be used to track the online movements of customers, but in contrast to
+            cookies, which are stored on a computer hard drive, these technologies are embedded in the Website or
+            App.<br />
+            <br />We may also use web beacons in our HTML-based emails to let us know which emails recipients have
+            opened. This allows us to gauge the effectiveness of certain communications and the effectiveness of our
+            marketing campaigns. <br /><br />Surveys or Contests<br />We may provide you the opportunity to participate
+            in surveys or contests on our Website or in connection with our Services.&nbsp;&nbsp;If you participate, we
+            will request certain Personal Information. The requested information typically includes contact information
+            (such as name and email address) and demographic information.<br /><br />We may use this information to
+            notify contest winners and to award prizes, to monitor traffic to our Services, to improve the Services, and
+            to send participants an email newsletter. <br /><br />Additional information practices (and terms and
+            conditions) may apply to any survey or contest, which will be made available with the survey or contest.
+            Please carefully review any additional information provided. <br /><br />Public Feedback and Discussion
+            Boards<br />If you choose to post messages to public message areas or leave feedback for others, that
+            information may become available to anyone. We are not responsible for the use by others of the information
+            you publicly disclose. Additionally, we may, but are not obligated to, collect the information you post in
+            public message areas to resolve disputes, provide customer support and troubleshoot problems as permitted by
+            law. <br /><br />Please be careful and closely consider disclosing any Personal Information in public
+            message areas.</span
+          >
+        </div>
+        <div class="we-may-disclose-you-in-general-C61RwL">
+          <span class="span0-Dtuhcr"></span><span class="span1-Dtuhcr"></span
+          ><span class="span2-Dtuhcr"
+            >We may disclose aggregate, statistical, and deidentified data, which does not specifically identify any
+            individuals, for any purpose.<br />We may also share Personal Information about you, in general:</span
+          >
+        </div>
+        <div class="x4-how-we-disclo-our-information-C61RwL">4.&nbsp;&nbsp;How We Disclose Your Information</div>
+        <div class="x-as-necessary-t-required-by-law-C61RwL">
+          • As necessary to provide the Services; <br />• With service providers;<br />• With our corporate affiliates
+          and business partners; and <br />• For legal reasons or as required by law.
+        </div>
+        <div class="the-purposes-an-in-more-detail-C61RwL">
+          The purposes and ways that we may share Personal Information about you are described below in more detail.
+        </div>
+        <div class="the-mercer-club-on-personally-i-C61RwL">
+          <span class="span0-fsOXV8"></span><span class="span1-fsOXV8"></span
+          ><span class="span2-fsOXV8">The Mercer Club Partners</span
+          ><span class="span3-fsOXV8"
+            ><br />The Mercer Club engages in marketing and promotional activities with carefully screened brands, or,
+            “Partners,” which we think will appeal to our customer base. From time to time, Partners may also be
+            provided with non-personally-identifying or aggregate information demographic information of customers on
+            our Services and statistical information about buying behavior, and Partners may be given opportunities to
+            market to select segments of our customer base indirectly. When we share aggregate or non-personally
+            identifiable customer data, we do so in a way that we believe cannot reasonably be linked with a customer’s
+            Personal Information.<br /><br /></span
+          ><span class="span4-fsOXV8">Service Providers</span
+          ><span class="span5-fsOXV8"
+            ><br />We may provide Personal Information to third parties for use in performing research and business
+            functions (e.g., mailing, maintenance, security, data analytics, communications, CRM, database management
+            services, credit card payment processing or data hosting) on our behalf. These service providers agree to
+            use your Personal Information only in accordance with our instructions, with information used only as
+            described in this Privacy Policy and for no other purpose than to provide the contracted-for services.<br /><br /></span
+          ><span class="span6-fsOXV8">Corporate Affiliate Parties</span><span class="span7-fsOXV8"><br /></span
+          ><span class="span8-fsOXV8"
+            >We may share some or all of your Personal Information with our affiliates (including a parent company,
+            subsidiaries, joint venture partners or other companies that we control or that are under common control
+            with us), in which case we will seek to require those affiliates to honor this Privacy Policy.</span
+          >
+        </div>
+        <div class="as-required-by-law-this-may-in-C61RwL">
+          <span class="span0-NenxNB"></span><span class="span1-NenxNB"></span><span class="span2-NenxNB"></span
+          ><span class="span3-NenxNB"></span><span class="span4-NenxNB">As Required by Law </span
+          ><span class="span5-NenxNB"
+            ><br />We may disclose Personal Information if we have a good-faith belief that doing so is required under
+            applicable law, for example if we receive a subpoena or other judicial or administrative order or otherwise
+            required by law. This may include responding to legal requests from jurisdictions outside of the United
+            States, where we have a good faith belief that the response is required by law in that jurisdiction.<br /><br /></span
+          ><span class="span6-NenxNB">In Connection with Business Transactions</span
+          ><span class="span7-NenxNB"
+            ><br />We may disclose Personal Information in certain corporate transactions, such as in connection with an
+            actual or proposed merger, acquisition, or other sale of or transfer of all or part of our business or
+            assets, including as part of a bankruptcy, liquidation, or other insolvency proceeding.&nbsp;&nbsp;<br /><br />In
+            the event of a change in ownership of The Mercer Club, or a merger with, acquisition by, or transfer or sale
+            of all or a portion of our assets to another entity, we reserve the right to transfer all of your Personal
+            Information, including email addresses and other information about you collected by us (in accordance with
+            this policy), to that entity.<br /><br /></span
+          ><span class="span8-NenxNB">To Protect Rights<br /></span
+          ><span class="span9-NenxNB"
+            >Additionally, we may disclose Personal Information where we, in good faith, deem it appropriate or
+            necessary to prevent violation of the Terms of Service or our other agreements; take precautions against
+            liability; protect the rights, property, or safety of The Mercer Club, any individual, or the general
+            public; maintain and protect the security and integrity of our Services or infrastructure; protect ourselves
+            and our Services from fraudulent, abusive, or unlawful uses; investigate and defend ourselves against
+            third-party claims or allegations; or assist government enforcement agencies.</span
+          >
+        </div>
+        <div class="x5-third-party-w-se-websites-are-C61RwL">
+          <span class="span0-uhDrVD">5.&nbsp;&nbsp;Third Party Websites<br /></span
+          ><span class="span1-uhDrVD"
+            >In the event that that we provide links to other websites that we do not control, whether or not those
+            other websites refer to our branding, this Privacy Policy does not apply to those other websites. Visitors
+            to those websites are advised to carefully read the policies on those individual websites.</span
+          >
+        </div>
+        <div class="x6-your-choicesa-nt-with-the-mer-C61RwL">
+          <span class="span0-KruMCy">6.&nbsp;&nbsp;Your Choices<br /></span
+          ><span class="span1-KruMCy"
+            >Accessing and Requesting Changes to Your Personal Information<br />If you are a customer of The Mercer
+            Club, you may review and change your Personal Information through your customer account.&nbsp;&nbsp;<br />If
+            you do not have a customer account with The Mercer Club, or if you cannot access or change any of your
+            Personal Information through your account, but you still wish to inquire about, access, correct, update or
+            delete Personal Information that we may hold about you, please email us
+            at&nbsp;&nbsp;founders@themercerclubnyc.com. Please understand that, before responding to your request, we
+            may ask you for additional information in order to verify your identity, or take other actions that we
+            believe are appropriate in order to verify your identity.<br />Please also understand that we may not be
+            obligated or able to alter or delete your Personal Information and may retain information to provide you
+            with requested services or fulfill obligations to you, for security reasons, if we are required under
+            applicable law or regulations, for internal business use or for other valid reasons. We are also not
+            obligated to comply with requests that are unreasonably burdensome or expensive, or with requests that would
+            interfere with the rights of another individual.&nbsp;&nbsp;In some circumstances, we may charge a
+            reasonable fee to fulfill your request.<br /><br /></span
+          ><span class="span2-KruMCy">Communications Preferences<br /></span
+          ><span class="span3-KruMCy"
+            >If you would like to change the types of communications you receive from us or how you receive
+            communications from us, or if you would like to opt out of promotional communications, you may do so at any
+            time by updating the communication preferences provided in your customer account. <br />If you do not have a
+            customer account, you may also use the unsubscribe links and instructions that will be present in any
+            promotional emails or other communications that we send. <br />Please understand that, even if you opt out
+            of marketing or promotional communications, we may continue to send non-promotional communications such as
+            confirmations of transactions, changes to the Services or other information about your use of the
+            Services.</span
+          >
+        </div>
+        <div class="do-not-track-se-tners-with-adve-C61RwL">
+          <span class="span0-an3SzE">“Do Not Track” Settings<br /></span
+          ><span class="span1-an3SzE"
+            >Our Website and Services are not at this time configured to read or respond to “do not track” settings or
+            signals in your browser headings.<br /><br /></span
+          ><span class="span2-an3SzE">Tailored Advertisements and Passive Data Collection<br /></span
+          ><span class="span3-an3SzE"
+            >The Mercer Club also partners with advertising companies to place our advertising on third-party websites
+            that we believe will be of interest to you. As described elsewhere in this Privacy Policy, these advertising
+            companies may collect information about your visits to our Website using cookies, web beacons and similar
+            technologies, and these advertising companies may collect information over time and across other websites.
+            In using tailored advertising, we comply with the Network Advertising Initiative (“NAI”) self-regulatory
+            2018 Code of Conduct, Digital Advertising Alliance (“DAA”) Self-Regulatory Principles for Online Behavioral
+            Advertising (“OBA Principles”).&nbsp;&nbsp;<br />To make choices about Interest-Based Ads from participating
+            third parties, including to opt out of receiving behaviorally targeted advertisements from participating
+            organizations, please visit the DAA’s or NAI’s consumer opt out pages, which are located
+            at&nbsp;&nbsp;https://www.networkadvertising.org/choices/,&nbsp;&nbsp;https://optout.networkadvertising.org/
+            or&nbsp;&nbsp;https://www.aboutads.info/choices/.&nbsp;&nbsp;<br />You may also learn more about your
+            choices with respect to data collection by third parties, including about opting out or changing your
+            preferences, at those third parties’ websites. For Google, please
+            see&nbsp;&nbsp;www.google.com/privacy_ads.html, or you may have the option to opt out of Google&#39;s use of
+            cookies using the Google Analytics Opt-out Browser Add-on
+            at&nbsp;&nbsp;https://tools.google.com/dlpage/gaoptout/. Information about Facebook advertising may be
+            available at&nbsp;&nbsp;https://www.facebook.com/help/568137493302217.
+          </span>
+        </div>
+        <div class="x7-securitywe-us-we-make-good-fa-C61RwL">
+          <span class="span0-EJD6Mt">7.&nbsp;&nbsp;Security<br /></span
+          ><span class="span1-EJD6Mt"
+            >We use reasonable security measures to protect against the loss, unauthorized access, misuse, alteration
+            and destruction of Personal Information under our control, both during the transmission and once we receive
+            it. <br /><br />Although we make good faith efforts to maintain the security of such Personal Information,
+            no method of transmission over the Internet or method of electronic data storage is 100% secure, and we
+            cannot guarantee that the information will remain free from unauthorized access, use, disclosure, or
+            alteration. While we work hard to ensure the integrity and security of our network and systems, we cannot
+            guarantee that our security measures will prevent hackers or other unauthorized persons from illegally
+            accessing or obtaining this information.</span
+          >
+        </div>
+        <div class="x8-childrens-pri-rvision-of-a-pa-C61RwL">
+          <span class="span0-RStMOZ">8.&nbsp;&nbsp;Children’s Privacy</span
+          ><span class="span1-RStMOZ"
+            ><br />The Mercer Club and the Services are not intended for or directed toward children under 13 years of
+            age, and children should not use the Services for any purpose unless they have the consent of, and are under
+            the supervision of, a parent or guardian. We ask that individuals do not provide Personal Information
+            through our Website or Services, and if we learn that we have collected or received Personal Information
+            from a child under 13 years of age, we will delete that information <br /><br />Additionally, we may collect
+            Personal Information from teenagers between the ages of 13 and 18, but only if such an individual is of
+            legal age to enter into a binding contract under applicable law, or with the consent and supervision of a
+            parent or legal guardians, as permitted by law.
+          </span>
+        </div>
+        <div class="if-you-are-the-ercerclubnyccom-C61RwL">
+          <span class="span0-nLYbUc"></span
+          ><span class="span1-nLYbUc"
+            >If you are the parent or legal guardian of a child under 13 years of age who has registered on the Website
+            or App or you believe has otherwise provided Personal Information to The Mercer Club, please contact The
+            Mercer Club at founders@themercerclubnyc.com to have the account terminated and information deleted.<br /><br />If
+            you believe that we may have inadvertently collected any Personal Information about a child aged 13 years or
+            younger, please contact us at founders@themercerclubnyc.com or as provided in the “Contact Us” section
+            below.</span
+          >
+        </div>
+        <div class="x9-notices-to-ca-third-partys-d-C61RwL">
+          <span class="span0-qw9aQW">9.&nbsp;&nbsp;Notices to California Residents<br /></span
+          ><span class="span1-qw9aQW"
+            >If you are a resident of the state of California, California’s “Shine the Light” law permits you to request
+            information regarding the disclosure of your Personal Information by us to a third party for the third
+            party&#39;s direct marketing purposes. To make such a request, please send an email to
+            founders@themercerclubnyc.com.<br /><br />In accordance with the California Consumer Privacy Act of 2018
+            (“CCPA”), please see the following summary of Personal Information that we have collected in the past twelve
+            (12) months (preceding the effective date of this Privacy Policy), as well as the sources of that Personal
+            Information, the purposes of collection, and third parties with who we have shared such Personal Information
+            in the past twelve (12) months.&nbsp;&nbsp;<br /><br />In addition, we may use or disclose any Personal
+            Information that we collect as necessary to comply with applicable law or legal obligations as described in
+            this Privacy Policy.<br /><br />Sale of Personal Information. We do not “sell” your Personal Information, as
+            defined under the CCPA, and we have not sold your Personal Information in the past twelve (12) months
+            (preceding the effective date of this Privacy Policy).<br /><br />California Residents’ Rights under the
+            CCPA. Under the CCPA, California residents have certain rights regarding their Personal
+            Information.&nbsp;&nbsp;Subject to certain exceptions, California residents have or may exercise the
+            following rights:</span
+          >
+        </div>
+        <div class="right-to-reques-the-sale-of-th-C61RwL">
+          Right to Request Deletion of Personal Information. A California resident may request that a business delete
+          their Personal Information. <br /><br />Right to Opt-Out of the Sale of Personal Information. A California
+          resident has the right to opt-out of the sale of their Personal Information by a business.<br /><br />Right to
+          Non-Discrimination for Exercise of Consumer Privacy Rights. A California resident has the right not to receive
+          discriminatory treatment by a business for the exercise of privacy rights provided by the CCPA.<br /><br />To
+          submit requests to The Mercer Club to exercise these rights, California residents may use the following
+          methods:<br /><br />1)&nbsp;&nbsp;Call us at +1 (954) 787-0304<br /><br />Please understand that we are only
+          obligated to respond to verifiable consumer requests.&nbsp;&nbsp;If we receive a request for information about
+          you, we need to know that it is actually coming from you, or somebody legally authorized to act for you.<br /><br />We
+          may implement authentication procedures that are appropriate to the nature of the personal information
+          requested. We may also use any information that we have already collected about you in order to verify your
+          request. Also, if we collect any personal information to verify your request, we will only use that
+          information to verify your request.<br /><br />Please remember that we are only obligated to respond to a
+          request for access twice within a 12-month period.
+        </div>
+        <div class="x10-changes-to-t-may-revise-and-C61RwL">
+          <span class="span0-0FuNgA">10.&nbsp;&nbsp;Changes to this Privacy Policy<br /></span
+          ><span class="span1-0FuNgA"
+            >We may change this Privacy Policy from time to time. The most recent version of the Privacy Policy will
+            always be posted on the Website, with the effective date posted at the top of the Privacy Policy. We may
+            revise and update this Privacy Policy if our practices change, as technology changes, or as we add new
+            services or change existing ones. If we make material changes to our Privacy Policy or how we handle your
+            Personal Information, or if we are going to use any Personal Information in a manner that is materially
+            different from that stated in our Privacy Policy at the time we collected such information, we will try to
+            notify you of such changes reasonably in advance. By using our Website or Services after the effective date,
+            you are deemed to consent to our then-current Privacy Policy.</span
+          >
+        </div>
+        <div class="x11-contact-usif-ercerclubnyccom-C61RwL">
+          <span class="span0-tFRoSw">11.&nbsp;&nbsp;Contact Us<br /></span
+          ><span class="span1-tFRoSw"
+            >If you have questions, concerns or feedback regarding this Privacy Policy or our information practices, you
+            can send an email to us at founders@themercerclubnyc.com</span
+          >
+        </div>
+        <img class="img2589-C61RwL" src="img/img-2589@1x.png" />
+        <a href="faq.html"><div class="faq-C61RwL overpass-bold-black-15px">FAQ</div></a>
+        <a href="rental-policy.html"><div class="rental-policy-C61RwL overpass-bold-black-15px">Rental Policy</div></a>
+        <div class="privacy-policy-VMr6Om overpass-bold-black-15px">Privacy Policy</div>
+        <a href="terms-conditions.html"
+          ><div class="terms-conditions-C61RwL overpass-bold-black-15px">Terms &amp; Conditions</div></a
+        >
+        <img class="line-4-C61RwL" src="img/line-4@1x.png" />
+        <a href="category.html"><div class="browse-C61RwL overpass-normal-gray-12px">Browse</div></a>
+        <a href="rental-policy.html"><div class="rental-policy-VMr6Om overpass-normal-gray-12px">Rental Policy</div></a>
+        <a href="editorial.html"><div class="editorial-C61RwL overpass-normal-gray-12px">Editorial</div></a>
+        <div class="contact-us-C61RwL overpass-normal-gray-12px">Contact Us</div>
+        <div class="supportthemercerclubnyccom-C61RwL overpass-normal-gray-12px">support@themercerclubnyc.com</div>
+        <a href="about-us.html"><div class="about-us-C61RwL overpass-normal-gray-12px">About Us</div></a>
+        <a href="terms-conditions.html"
+          ><div class="terms-conditions-VMr6Om overpass-normal-gray-12px">Terms &amp; Conditions</div></a
+        >
+        <a href="faq.html"><div class="fa-qs-C61RwL overpass-normal-gray-12px">FAQs</div></a>
+        <div class="privacy-policy-mzXdH9 overpass-normal-gray-12px">Privacy Policy</div>
+        <div class="membership-C61RwL overpass-normal-gray-12px">Membership</div>
+        <div class="customer-service954-787-0304-C61RwL">
+          <span class="span0-CUfxsI">Customer Service<br /></span><span class="span1-CUfxsI">(954) 787-0304</span>
+        </div>
+        <div class="group-8-C61RwL">
+          <div class="group-5-3cZhlu"></div>
+          <div class="group-6-3cZhlu"></div>
+          <img class="path-13-3cZhlu" src="img/path-13@1x.png" />
+          <div class="group-7-3cZhlu">
+            <img class="path-31-d71PT4" src="img/path-31@1x.png" />
+            <img class="path-32-d71PT4" src="img/path-32@1x.png" />
+          </div>
+        </div>
+        <div class="rectangle-24-C61RwL"></div>
+        <div class="email-subscription-C61RwL">NEWSLETTER SIGN-UP</div>
+        <div class="rectangle-57-C61RwL"></div>
+        <div class="rectangle-58-C61RwL"></div>
+        <div class="sign-up-for-membership-C61RwL">SIGN-UP FOR NEWSLETTER</div>
+        <a href="home.html"><div class="the-mercer-club-C61RwL overpass-black-black-23px">THE MERCER CLUB</div></a>
+        <div class="nav-C61RwL">
+          <div class="group-179-Ebfosa">
+            <div class="browse-poi346 overpass-normal-gray-15px">Browse</div>
+            <div class="membership-poi346 overpass-normal-gray-15px">Membership</div>
+            <div class="editorial-poi346 overpass-normal-gray-15px">Editorial</div>
+          </div>
+          <div class="rectangle-255-Ebfosa"></div>
+          <div class="the-mercer-club-Ebfosa overpass-black-black-23px">THE MERCER CLUB</div>
+          <div class="log-in-Ebfosa overpass-bold-fire-bush-12px">LOG-IN</div>
+          <div class="sign-up-Ebfosa overpass-bold-fire-bush-12px">SIGN-UP</div>
+          <img class="path-292-Ebfosa" src="img/path-292@1x.png" />
+          <div class="log-in-aIywlF">
+            <div class="mask-group-1-HPnu8y">
+              <div class="group-172-sovy2d">
+                <div class="group-164-zxXjO7 border-1px-cararra">
+                  <div class="email-8s4xvg nunitosans-normal-silver-10px">Email</div>
+                </div>
+                <div class="group-163-zxXjO7 border-1px-cararra">
+                  <div class="password-vOAwsG nunitosans-normal-silver-10px">Password</div>
+                </div>
+              </div>
+            </div>
+            <div class="group-173-HPnu8y">
+              <img class="path-5-KKTDyW" src="img/path-5@1x.png" />
+              <img class="line-2-KKTDyW" src="img/line-2@1x.png" />
+            </div>
+          </div>
+          <a href="dashboard.html"><img class="placeholder-person-Ebfosa" src="img/placeholder-person@1x.png" /></a>
+          <div class="component-22-1-Ebfosa">
+            <div class="mask-group-1-MXGsu3">
+              <div class="group-172-FYBPGC">
+                <div class="group-164-biSsuR border-1px-cararra">
+                  <div class="email-KdigvU nunitosans-normal-silver-10px">Email</div>
+                </div>
+                <div class="group-174-biSsuR border-1px-cararra">
+                  <div class="name-7mv9Nr nunitosans-normal-silver-10px">Name</div>
+                </div>
+                <div class="group-163-biSsuR border-1px-cararra">
+                  <div class="password-Udz9Uv nunitosans-normal-silver-10px">Password</div>
+                </div>
+              </div>
+            </div>
+            <div class="component-21-1-MXGsu3">
+              <img class="path-5-xxWNWV" src="img/path-5-1@1x.png" />
+              <img class="line-2-xxWNWV" src="img/line-2@1x.png" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container-center-horizontal">
+      <form class="privacy-policy-1 screen" name="form1" action="form1" method="post">
+        <div class="privacy-policy-C61RwL">PRIVACY POLICY</div>
+        <div class="x1-overviewthis-nd-any-of-our-s-C61RwL">
+          <span class="span0-gdDxxS">1. Overview<br /></span
+          ><span class="span1-gdDxxS"
+            >This Privacy Policy explains how The Mercer Club, Inc. (“The Mercer Club”, “we”, or “us”) collects,
+            protects, uses and shares information about you when you use themercerclubnyc.com (“Website”), our mobile
+            applications (“App”), and any of our services (collectively, the “Services”), and whether you access the
+            Services directly or through a third party. <br /><br />Please understand that, except as specifically
+            described below, this Privacy Policy does not apply to information collected by third parties, such as other
+            companies, or third-party websites or mobile applications, even if any are linked to or accessible through
+            the Services. If you have any questions or concerns about our information practices, please contact us at
+            founders@themercerclubnyc.com.&nbsp;&nbsp;If you do not want information about you to be used as described
+            in this Privacy Policy, you must stop, or refrain from, using the Services.</span
+          >
+        </div>
+        <img class="karsten-winegea-ie-v-i-unsplash-C61RwL" src="img/karsten-winegeart-cv-ohcie-vi-unsplash-1@1x.png" />
+        <div class="x2-information-we-collect-C61RwL overpass-bold-black-20px">
+          2.&nbsp;&nbsp;Information We Collect
+        </div>
+        <div class="personal-inform-dress-or-a-pers-C61RwL overpass-normal-gravel-15px">
+          “Personal Information,” as used in this Privacy Policy, is information that directly identifies an individual,
+          such as a person’s name, or information that reasonably allows an individual to be identified indirectly, such
+          as email or home address or a person’s mobile phone number.&nbsp;&nbsp;Personal Information also includes
+          information that is directly combined with such identifying information.<br /><br />Most of the Personal
+          Information we collect is from our customers. This information falls into two (2) general categories:
+          <br /><br />Passive Data Collection. This refers to data automatically collected from customers when they
+          visit the Website or use the Services.<br /><br />User-Submitted Information. This refers to information that
+          customers actively submit to us, which may be provided voluntarily or as required to use our Services.
+        </div>
+        <div class="faq-C61RwL overpass-bold-black-15px">FAQ</div>
+        <div class="rental-policy-C61RwL overpass-bold-black-15px">Rental Policy</div>
+        <div class="privacy-policy-VMr6Om overpass-bold-black-15px">Privacy Policy</div>
+        <div class="terms-conditions-C61RwL overpass-bold-black-15px">Terms &amp; Conditions</div>
+        <img class="line-4-C61RwL" src="img/line-4@1x.png" />
+        <div class="nav-C61RwL smart-layers-pointers">
+          <div class="group-179-Ebfosa">
+            <div class="browse-poi346 overpass-normal-gray-15px">Browse</div>
+            <div class="membership-poi346 overpass-normal-gray-15px">Membership</div>
+            <div class="editorial-poi346 overpass-normal-gray-15px">Editorial</div>
+          </div>
+          <div class="rectangle-255-Ebfosa"></div>
+          <div class="the-mercer-club-Ebfosa overpass-black-black-23px">THE MERCER CLUB</div>
+          <div class="log-in-Ebfosa overpass-bold-fire-bush-12px">LOG-IN</div>
+          <div class="sign-up-Ebfosa overpass-bold-fire-bush-12px">SIGN-UP</div>
+          <img class="path-292-Ebfosa" src="img/path-292-1@1x.png" />
+          <a href="dashboard.html"><img class="placeholder-person-Ebfosa" src="img/placeholder-person@1x.png" /></a>
+        </div>
+        <div class="customers-also-nts-name-and-em-C61RwL overpass-normal-gravel-15px">
+          Customers also sometimes provide us with information about other individuals, such as when a customer sends a
+          gift card or uses our referral services to tell a friend about us. In those cases, we may ask that customer to
+          provide the recipient’s name and email address. (We may also collect Personal Information in any personalized
+          message that is submitted with a gift card or referral.) We will automatically send the recipient email
+          correspondence with the gift card or referral, and invite them to visit the Website or otherwise use the
+          Services. If we receive Personal Information for a referral or gift card, we use that information for the sole
+          purpose of sending this email correspondence, and for tracking the use of the gift card or the success of our
+          referral program.
+        </div>
+        <div class="mobile-device-i-g-fileslike-mos-C61RwL overpass-normal-gravel-15px-2">
+          <span class="span0-iI0MfK">Mobile Device Information<br /></span
+          ><span class="span1-iI0MfK"
+            >When you download or use our App, we receive information about your mobile device. We register your device,
+            and we may use the identifier to send you push notifications about your transactions via the Services.<br /><br /></span
+          ><span class="span2-iI0MfK">Log Files<br /></span
+          ><span class="span3-iI0MfK"
+            >Like most websites, we automatically receive and record certain information about our customers’ behavior
+            on our Website or App and when using our Services. Our servers automatically gather technical information
+            about our Website or App traffic and store it in log files. This information includes Internet protocol (IP)
+            addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time
+            stamp, and other clickstream data. We aggregate this information with other pieces of information to analyze
+            trends, to administer and improve the Services, for example to understand customers’ use of the Website and
+            to make inventory and purchasing decisions that will best serve our customer base. Information from log
+            files may also be used to determine general location information such as city, state or geographic area.<br /><br /></span
+          ><span class="span4-iI0MfK">Third Party Advertisers<br /></span
+          ><span class="span5-iI0MfK"
+            >Third-party advertising companies may also use cookies, web beacons or similar technologies on the Website
+            to collect information (such as click stream information) during your visits to our Website and other
+            websites, as well as during your use of our Services, in order to help us provide you with advertisements
+            about our Services that we believe are likely to be of interest to you. <br /><br /></span
+          ><span class="span6-iI0MfK">User-Submitted Information<br /></span
+          ><span class="span7-iI0MfK"
+            >As a general matter, we may ask you for information, or retain information, that you provide to us in order
+            to provide our Services to you, and to better serve you and our customer base. This category of information
+            includes information submitted electronically, via phone, and in person through our stores. We may also
+            combine this information with Personal Information to provide you with customized and personalized
+            Services.<br /><br />We collect User-Submitted Information in the following ways:<br /><br /></span
+          ><span class="span8-iI0MfK">Registration<br /></span
+          ><span class="span9-iI0MfK"
+            >In order to use some features of the Website, App and Services, including the rental of The Mercer Club’s
+            inventory, you must first create an account with us and agree to the Terms of Service. To create an account,
+            you must provide an email address and create a password. We may also ask you for your birthday. We use the
+            email address you provide to contact you about the products and Services, and to begin to create a tailored
+            experience for you.<br /><br /></span
+          ><span class="span10-iI0MfK">Orders<br /></span
+          ><span class="span11-iI0MfK"
+            >If you order a product from us, we request certain Personal Information from you, whether you access the
+            Services from our App, the Website or otherwise. You must provide contact information (including name,
+            shipping address, telephone number) and a payment method. We use this information for billing purposes, to
+            fill your orders and to communicate with you about your orders. If we have trouble processing an order, we
+            will use this information to contact you. <br /><br />We record what you order and associate it with your
+            account profile. When you return an item, we may ask you for information about your experience, such as, if
+            you wore it and for information regarding how it fit. We record that information to better personalize our
+            Services for you and to improve our Services for others.<br /><br /></span
+          ><span class="span12-iI0MfK">Personalization of Service<br /></span
+          ><span class="span13-iI0MfK"
+            >In order to improve your customer experience, we may request personal characteristics, such as your height,
+            bust, dress size, style and fit preferences, your birthday, and the date and occasion for your rental. We
+            may also ask for your feedback and rating of our products. All of this information is voluntary and helps us
+            improve our Services by enabling us to create a tailored experience for you and our other
+            customers.&nbsp;&nbsp;Although we believe that providing this information will improve the Services we can
+            offer to you, and your experience of the Services, we will not require you to provide it. (Also, although we
+            may request information about personal physical characteristics, we do not ask for uniquely identifying
+            biometric information.)&nbsp;&nbsp;We may also collect geolocation information from your mobile device, if
+            you give us permission through your mobile device to do so.. <br /><br /></span
+          ><span class="span14-iI0MfK">Third-Party Account Credentials<br /></span
+          ><span class="span15-iI0MfK"
+            >If you choose to provide us with your third-party account credentials to such services as Google or
+            Facebook, you understand that some content and/or Personal Information may be shared between the third-party
+            service and us. Any information collected by a third party-service will be used in accordance with that
+            third party’s privacy policy, which we encourage you to review and consider.
+          </span>
+        </div>
+        <div class="cookies-web-bea-rson-has-access-C61RwL overpass-normal-gravel-15px-2">
+          <span class="span0-Yhqu5J">Cookies, Web Beacons and Similar Technologies<br /></span
+          ><span class="span1-Yhqu5J"
+            >A cookie is a small text file that is stored on a computer for record-keeping or tracking purposes. Web
+            beacons (also known as pixel tags or clear GIFs), are graphics that can record whether a person has accessed
+            particular content. We use these and other similar technologies on the Website and App and in connection
+            with our Services.<br /><br />Cookies we utilize may include session cookies, persistent cookies, or similar
+            technologies. A session cookie expires when you close your browser. A persistent cookie is stored on your
+            computer or device for an extended period of time. You can remove persistent cookies by following the
+            directions provided in your Internet browser&#39;s &#34;help&#34; menu. You may also configure your browser
+            to prevent cookies from being set on your computer. (Instructions should be provided in documentation for
+            your browser.) If you reject cookies, your ability to use the Website, App and Services may be limited, and
+            you may not be able to use certain features of the Website, App or Services. We may use cookies for the
+            following purposes.<br />
+            <br />Essential cookies. Essential cookies are required for providing you with features or services that you
+            have requested. For example, certain cookies enable you to log into secure areas of our Services. Disabling
+            these cookies may make certain features and services unavailable.<br /><br />Functional cookies. Functional
+            cookies are used to record your choices and settings regarding our Services, maintain your preferences over
+            time and recognize you when you return to our Services. These cookies help us to personalize our content for
+            you, greet you by name, and remember your preferences (for example, your choice of language or region).<br /><br />Performance/analytical
+            cookies. Performance/analytical cookies allow us to understand how visitors use our Services such as by
+            collecting information about the number of visitors to the Services, what pages visitors view on our
+            Services and how long visitors are viewing pages on the Services. Performance/analytical cookies also help
+            us measure the performance of our advertising campaigns in order to help us improve our campaigns and the
+            Services’ content for those who engage with our advertising. <br /><br />To find out more information about
+            cookies, including information about how to manage and delete cookies, please
+            visit&nbsp;&nbsp;https://www.allaboutcookies.org/.<br /><br />We may use web beacons or similar
+            technologies, which help manage content on the Website and in the Services by tracking what content is
+            effective. These technologies may be used to track the online movements of customers, but in contrast to
+            cookies, which are stored on a computer hard drive, these technologies are embedded in the Website or
+            App.<br />
+            <br />We may also use web beacons in our HTML-based emails to let us know which emails recipients have
+            opened. This allows us to gauge the effectiveness of certain communications and the effectiveness of our
+            marketing campaigns. <br /><br />Surveys or Contests<br />We may provide you the opportunity to participate
+            in surveys or contests on our Website or in connection with our Services.&nbsp;&nbsp;If you participate, we
+            will request certain Personal Information. The requested information typically includes contact information
+            (such as name and email address) and demographic information.<br /><br />We may use this information to
+            notify contest winners and to award prizes, to monitor traffic to our Services, to improve the Services, and
+            to send participants an email newsletter. <br /><br />Additional information practices (and terms and
+            conditions) may apply to any survey or contest, which will be made available with the survey or contest.
+            Please carefully review any additional information provided. <br /><br />Public Feedback and Discussion
+            Boards<br />If you choose to post messages to public message areas or leave feedback for others, that
+            information may become available to anyone. We are not responsible for the use by others of the information
+            you publicly disclose. Additionally, we may, but are not obligated to, collect the information you post in
+            public message areas to resolve disputes, provide customer support and troubleshoot problems as permitted by
+            law. <br /><br />Please be careful and closely consider disclosing any Personal Information in public
+            message areas.</span
+          >
+        </div>
+        <div class="x3-how-we-use-your-information-C61RwL overpass-bold-black-20px">
+          3.&nbsp;&nbsp;How We Use Your Information
+        </div>
+        <div class="the-purposes-an-low-in-addition-C61RwL overpass-normal-gravel-15px-2">
+          <span class="span0-CdCIQ1"
+            >The purposes and ways that we may use Personal Information about you are described throughout this Privacy
+            Policy, often in connection with the kinds of Personal Information we collect. Other uses of Personal
+            Information are described below. <br /><br />In addition, we may use aggregate, statistical, and
+            deidentified data, which does not specifically identify any individuals, for any purpose.<br /><br /></span
+          ><span class="span1-CdCIQ1">General Uses of Your Information<br /></span
+          ><span class="span2-CdCIQ1"
+            >We generally use the information we collect, including Personal Information about you, for the following
+            purposes:<br />To Provide Our Services. We use your Personal Information to provide our Services to you,
+            including:</span
+          >
+        </div>
+        <div class="x-to-present-you-in-finding-a-l-C61RwL overpass-normal-gravel-15px">
+          • To present you with products, information and content through the Services,
+          including&nbsp;&nbsp;&nbsp;&nbsp; personalization of the Services;<br /><br />• To process transactions,
+          including financial transactions, related to your use of the Services; <br /><br />• To assist you in finding
+          a location to return an item, using location or geolocation information you provide to us; and<br /><br />• To
+          respond to your questions or requests.<br />
+        </div>
+        <div class="for-communicati-keting-partners-C61RwL overpass-normal-gravel-15px-2">
+          <span class="span0-BnpHHt">For Communications and Marketing <br /></span
+          ><span class="span1-BnpHHt"
+            >We use your Personal Information to communicate with you and provide you with information about The Mercer
+            Club and our marketing partners.</span
+          >
+        </div>
+        <div class="to-develop-and-for-example-by-C61RwL overpass-normal-gravel-15px-2">
+          <span class="span0-GxTPai">To Develop and Improve Our Services <br /></span
+          ><span class="span1-GxTPai"
+            >We may also use your Personal Information as we work to continually improve our Services, our business and
+            our operations. For example, by:</span
+          >
+        </div>
+        <div class="x-analyzing-usag-o-our-customers-C61RwL overpass-normal-gravel-15px">
+          • Analyzing usage or interest in certain features, or identifying items and areas of interest to our
+          customers.
+        </div>
+        <div class="for-compliance-appropriate-to-C61RwL overpass-normal-gravel-15px-2">
+          <span class="span0-zb3KL0">For Compliance, Fraud Prevention and Safety <br /></span
+          ><span class="span1-zb3KL0"
+            >We may use your Personal Information and disclose it to law enforcement, government authorities, and
+            private parties as we believe necessary or appropriate to:
+          </span>
+        </div>
+        <div class="x-protect-our-yo-unauthorized-or-C61RwL overpass-normal-gravel-15px">
+          • Protect our, your or others’ rights, privacy, safety or property;<br />• Enforce the terms and conditions
+          that govern use of our Services, including for legal claims; and <br />• To prevent, identify, investigate and
+          deter any fraudulent, harmful, unauthorized or illegal activity.
+        </div>
+        <div class="to-comply-with-r-any-other-pur-C61RwL overpass-normal-gravel-15px-2">
+          <span class="span0-DBgWvj">To Comply with Law&nbsp;&nbsp;<br /></span
+          ><span class="span1-DBgWvj"
+            >We may use your Personal Information as we believe necessary or appropriate to comply with applicable laws,
+            lawful requests, and legal process.<br /><br /></span
+          ><span class="span2-DBgWvj">As Described or with Your Consent</span
+          ><span class="span3-DBgWvj"
+            >&nbsp;&nbsp;<br />We may use your Personal Information for any other purposes that we describe at the time
+            we collect your Personal Information, or otherwise with your consent.<br /><br /></span
+          ><span class="span4-DBgWvj">Communications from Us<br /></span
+          ><span class="span5-DBgWvj"
+            >We use your contact information to communicate with you about The Mercer Club and our marketing partners in
+            the following ways:</span
+          >
+        </div>
+        <div class="x-to-provide-new-your-account-i-C61RwL overpass-normal-gravel-15px">
+          • To provide newsletters, marketing emails or push notifications with special promotional offers, updates and
+          other relevant marketing content;<br />• To provide announcements about the Services; <br />• To communicate
+          with you about the Services and your account, including updates about the status of your orders; and<br />• To
+          verify your identity and address for your orders and rentals.
+        </div>
+        <div class="we-may-communic-r-mobile-device-C61RwL overpass-normal-gravel-15px">
+          We may communicate with you via phone, email, text messages and push notifications to your mobile device.
+          Standard call, message and data rates charged by your mobile carrier may apply to text messages or other
+          communications received on your mobile device.
+        </div>
+        <img class="img2589-C61RwL" src="img/img-2589-1@1x.png" />
+        <div class="we-may-disclose-you-in-general-C61RwL">
+          <span class="span0-Dtuhcr"></span><span class="span1-Dtuhcr"></span
+          ><span class="span2-Dtuhcr"
+            >We may disclose aggregate, statistical, and deidentified data, which does not specifically identify any
+            individuals, for any purpose.<br />We may also share Personal Information about you, in general:</span
+          >
+        </div>
+        <div class="x4-how-we-disclo-our-information-C61RwL">4.&nbsp;&nbsp;How We Disclose Your Information</div>
+        <div class="x-as-necessary-t-required-by-law-C61RwL">
+          • As necessary to provide the Services; <br />• With service providers;<br />• With our corporate affiliates
+          and business partners; and <br />• For legal reasons or as required by law.
+        </div>
+        <div class="the-purposes-an-in-more-detail-C61RwL">
+          The purposes and ways that we may share Personal Information about you are described below in more detail.
+        </div>
+        <div class="the-mercer-club-on-personally-i-C61RwL">
+          <span class="span0-fsOXV8"></span><span class="span1-fsOXV8"></span
+          ><span class="span2-fsOXV8">The Mercer Club Partners</span
+          ><span class="span3-fsOXV8"
+            ><br />The Mercer Club engages in marketing and promotional activities with carefully screened brands, or,
+            “Partners,” which we think will appeal to our customer base. From time to time, Partners may also be
+            provided with non-personally-identifying or aggregate information demographic information of customers on
+            our Services and statistical information about buying behavior, and Partners may be given opportunities to
+            market to select segments of our customer base indirectly. When we share aggregate or non-personally
+            identifiable customer data, we do so in a way that we believe cannot reasonably be linked with a customer’s
+            Personal Information.<br /><br /></span
+          ><span class="span4-fsOXV8">Service Providers</span
+          ><span class="span5-fsOXV8"
+            ><br />We may provide Personal Information to third parties for use in performing research and business
+            functions (e.g., mailing, maintenance, security, data analytics, communications, CRM, database management
+            services, credit card payment processing or data hosting) on our behalf. These service providers agree to
+            use your Personal Information only in accordance with our instructions, with information used only as
+            described in this Privacy Policy and for no other purpose than to provide the contracted-for services.<br /><br /></span
+          ><span class="span6-fsOXV8">Corporate Affiliate Parties</span><span class="span7-fsOXV8"><br /></span
+          ><span class="span8-fsOXV8"
+            >We may share some or all of your Personal Information with our affiliates (including a parent company,
+            subsidiaries, joint venture partners or other companies that we control or that are under common control
+            with us), in which case we will seek to require those affiliates to honor this Privacy Policy.</span
+          >
+        </div>
+        <div class="x5-third-party-w-se-websites-are-C61RwL">
+          <span class="span0-uhDrVD">5.&nbsp;&nbsp;Third Party Websites<br /></span
+          ><span class="span1-uhDrVD"
+            >In the event that that we provide links to other websites that we do not control, whether or not those
+            other websites refer to our branding, this Privacy Policy does not apply to those other websites. Visitors
+            to those websites are advised to carefully read the policies on those individual websites.</span
+          >
+        </div>
+        <div class="as-required-by-law-this-may-in-C61RwL">
+          <span class="span0-NenxNB"></span><span class="span1-NenxNB"></span><span class="span2-NenxNB"></span
+          ><span class="span3-NenxNB"></span><span class="span4-NenxNB">As Required by Law </span
+          ><span class="span5-NenxNB"
+            ><br />We may disclose Personal Information if we have a good-faith belief that doing so is required under
+            applicable law, for example if we receive a subpoena or other judicial or administrative order or otherwise
+            required by law. This may include responding to legal requests from jurisdictions outside of the United
+            States, where we have a good faith belief that the response is required by law in that jurisdiction.<br /><br /></span
+          ><span class="span6-NenxNB">In Connection with Business Transactions</span
+          ><span class="span7-NenxNB"
+            ><br />We may disclose Personal Information in certain corporate transactions, such as in connection with an
+            actual or proposed merger, acquisition, or other sale of or transfer of all or part of our business or
+            assets, including as part of a bankruptcy, liquidation, or other insolvency proceeding.&nbsp;&nbsp;<br /><br />In
+            the event of a change in ownership of The Mercer Club, or a merger with, acquisition by, or transfer or sale
+            of all or a portion of our assets to another entity, we reserve the right to transfer all of your Personal
+            Information, including email addresses and other information about you collected by us (in accordance with
+            this policy), to that entity.<br /><br /></span
+          ><span class="span8-NenxNB">To Protect Rights<br /></span
+          ><span class="span9-NenxNB"
+            >Additionally, we may disclose Personal Information where we, in good faith, deem it appropriate or
+            necessary to prevent violation of the Terms of Service or our other agreements; take precautions against
+            liability; protect the rights, property, or safety of The Mercer Club, any individual, or the general
+            public; maintain and protect the security and integrity of our Services or infrastructure; protect ourselves
+            and our Services from fraudulent, abusive, or unlawful uses; investigate and defend ourselves against
+            third-party claims or allegations; or assist government enforcement agencies.</span
+          >
+        </div>
+        <div class="x6-your-choicesa-nt-with-the-mer-C61RwL">
+          <span class="span0-KruMCy">6.&nbsp;&nbsp;Your Choices<br /></span
+          ><span class="span1-KruMCy"
+            >Accessing and Requesting Changes to Your Personal Information<br />If you are a customer of The Mercer
+            Club, you may review and change your Personal Information through your customer account.&nbsp;&nbsp;<br />If
+            you do not have a customer account with The Mercer Club, or if you cannot access or change any of your
+            Personal Information through your account, but you still wish to inquire about, access, correct, update or
+            delete Personal Information that we may hold about you, please email us
+            at&nbsp;&nbsp;founders@themercerclubnyc.com. Please understand that, before responding to your request, we
+            may ask you for additional information in order to verify your identity, or take other actions that we
+            believe are appropriate in order to verify your identity.<br />Please also understand that we may not be
+            obligated or able to alter or delete your Personal Information and may retain information to provide you
+            with requested services or fulfill obligations to you, for security reasons, if we are required under
+            applicable law or regulations, for internal business use or for other valid reasons. We are also not
+            obligated to comply with requests that are unreasonably burdensome or expensive, or with requests that would
+            interfere with the rights of another individual.&nbsp;&nbsp;In some circumstances, we may charge a
+            reasonable fee to fulfill your request.<br /><br /></span
+          ><span class="span2-KruMCy">Communications Preferences<br /></span
+          ><span class="span3-KruMCy"
+            >If you would like to change the types of communications you receive from us or how you receive
+            communications from us, or if you would like to opt out of promotional communications, you may do so at any
+            time by updating the communication preferences provided in your customer account. <br />If you do not have a
+            customer account, you may also use the unsubscribe links and instructions that will be present in any
+            promotional emails or other communications that we send. <br />Please understand that, even if you opt out
+            of marketing or promotional communications, we may continue to send non-promotional communications such as
+            confirmations of transactions, changes to the Services or other information about your use of the
+            Services.</span
+          >
+        </div>
+        <div class="do-not-track-se-tners-with-adve-C61RwL">
+          <span class="span0-an3SzE">“Do Not Track” Settings<br /></span
+          ><span class="span1-an3SzE"
+            >Our Website and Services are not at this time configured to read or respond to “do not track” settings or
+            signals in your browser headings.<br /><br /></span
+          ><span class="span2-an3SzE">Tailored Advertisements and Passive Data Collection<br /></span
+          ><span class="span3-an3SzE"
+            >The Mercer Club also partners with advertising companies to place our advertising on third-party websites
+            that we believe will be of interest to you. As described elsewhere in this Privacy Policy, these advertising
+            companies may collect information about your visits to our Website using cookies, web beacons and similar
+            technologies, and these advertising companies may collect information over time and across other websites.
+            In using tailored advertising, we comply with the Network Advertising Initiative (“NAI”) self-regulatory
+            2018 Code of Conduct, Digital Advertising Alliance (“DAA”) Self-Regulatory Principles for Online Behavioral
+            Advertising (“OBA Principles”).&nbsp;&nbsp;<br />To make choices about Interest-Based Ads from participating
+            third parties, including to opt out of receiving behaviorally targeted advertisements from participating
+            organizations, please visit the DAA’s or NAI’s consumer opt out pages, which are located
+            at&nbsp;&nbsp;https://www.networkadvertising.org/choices/,&nbsp;&nbsp;https://optout.networkadvertising.org/
+            or&nbsp;&nbsp;https://www.aboutads.info/choices/.&nbsp;&nbsp;<br />You may also learn more about your
+            choices with respect to data collection by third parties, including about opting out or changing your
+            preferences, at those third parties’ websites. For Google, please
+            see&nbsp;&nbsp;www.google.com/privacy_ads.html, or you may have the option to opt out of Google&#39;s use of
+            cookies using the Google Analytics Opt-out Browser Add-on
+            at&nbsp;&nbsp;https://tools.google.com/dlpage/gaoptout/. Information about Facebook advertising may be
+            available at&nbsp;&nbsp;https://www.facebook.com/help/568137493302217.
+          </span>
+        </div>
+        <div class="x7-securitywe-us-we-make-good-fa-C61RwL">
+          <span class="span0-EJD6Mt">7.&nbsp;&nbsp;Security<br /></span
+          ><span class="span1-EJD6Mt"
+            >We use reasonable security measures to protect against the loss, unauthorized access, misuse, alteration
+            and destruction of Personal Information under our control, both during the transmission and once we receive
+            it. <br /><br />Although we make good faith efforts to maintain the security of such Personal Information,
+            no method of transmission over the Internet or method of electronic data storage is 100% secure, and we
+            cannot guarantee that the information will remain free from unauthorized access, use, disclosure, or
+            alteration. While we work hard to ensure the integrity and security of our network and systems, we cannot
+            guarantee that our security measures will prevent hackers or other unauthorized persons from illegally
+            accessing or obtaining this information.</span
+          >
+        </div>
+        <div class="x8-childrens-pri-rvision-of-a-pa-C61RwL">
+          <span class="span0-RStMOZ">8.&nbsp;&nbsp;Children’s Privacy</span
+          ><span class="span1-RStMOZ"
+            ><br />The Mercer Club and the Services are not intended for or directed toward children under 13 years of
+            age, and children should not use the Services for any purpose unless they have the consent of, and are under
+            the supervision of, a parent or guardian. We ask that individuals do not provide Personal Information
+            through our Website or Services, and if we learn that we have collected or received Personal Information
+            from a child under 13 years of age, we will delete that information <br /><br />Additionally, we may collect
+            Personal Information from teenagers between the ages of 13 and 18, but only if such an individual is of
+            legal age to enter into a binding contract under applicable law, or with the consent and supervision of a
+            parent or legal guardians, as permitted by law.
+          </span>
+        </div>
+        <div class="if-you-are-the-ercerclubnyccom-C61RwL">
+          <span class="span0-nLYbUc"></span
+          ><span class="span1-nLYbUc"
+            >If you are the parent or legal guardian of a child under 13 years of age who has registered on the Website
+            or App or you believe has otherwise provided Personal Information to The Mercer Club, please contact The
+            Mercer Club at founders@themercerclubnyc.com to have the account terminated and information deleted.<br /><br />If
+            you believe that we may have inadvertently collected any Personal Information about a child aged 13 years or
+            younger, please contact us at founders@themercerclubnyc.com or as provided in the “Contact Us” section
+            below.</span
+          >
+        </div>
+        <div class="x9-notices-to-ca-third-partys-d-C61RwL">
+          <span class="span0-qw9aQW">9.&nbsp;&nbsp;Notices to California Residents<br /></span
+          ><span class="span1-qw9aQW"
+            >If you are a resident of the state of California, California’s “Shine the Light” law permits you to request
+            information regarding the disclosure of your Personal Information by us to a third party for the third
+            party&#39;s direct marketing purposes. To make such a request, please send an email to
+            founders@themercerclubnyc.com.<br /><br />In accordance with the California Consumer Privacy Act of 2018
+            (“CCPA”), please see the following summary of Personal Information that we have collected in the past twelve
+            (12) months (preceding the effective date of this Privacy Policy), as well as the sources of that Personal
+            Information, the purposes of collection, and third parties with who we have shared such Personal Information
+            in the past twelve (12) months.&nbsp;&nbsp;<br /><br />In addition, we may use or disclose any Personal
+            Information that we collect as necessary to comply with applicable law or legal obligations as described in
+            this Privacy Policy.<br /><br />Sale of Personal Information. We do not “sell” your Personal Information, as
+            defined under the CCPA, and we have not sold your Personal Information in the past twelve (12) months
+            (preceding the effective date of this Privacy Policy).<br /><br />California Residents’ Rights under the
+            CCPA. Under the CCPA, California residents have certain rights regarding their Personal
+            Information.&nbsp;&nbsp;Subject to certain exceptions, California residents have or may exercise the
+            following rights:</span
+          >
+        </div>
+        <div class="right-to-reques-the-sale-of-th-C61RwL">
+          Right to Request Deletion of Personal Information. A California resident may request that a business delete
+          their Personal Information. <br /><br />Right to Opt-Out of the Sale of Personal Information. A California
+          resident has the right to opt-out of the sale of their Personal Information by a business.<br /><br />Right to
+          Non-Discrimination for Exercise of Consumer Privacy Rights. A California resident has the right not to receive
+          discriminatory treatment by a business for the exercise of privacy rights provided by the CCPA.<br /><br />To
+          submit requests to The Mercer Club to exercise these rights, California residents may use the following
+          methods:<br /><br />1)&nbsp;&nbsp;Call us at +1 (954) 787-0304<br /><br />Please understand that we are only
+          obligated to respond to verifiable consumer requests.&nbsp;&nbsp;If we receive a request for information about
+          you, we need to know that it is actually coming from you, or somebody legally authorized to act for you.<br /><br />We
+          may implement authentication procedures that are appropriate to the nature of the personal information
+          requested. We may also use any information that we have already collected about you in order to verify your
+          request. Also, if we collect any personal information to verify your request, we will only use that
+          information to verify your request.<br /><br />Please remember that we are only obligated to respond to a
+          request for access twice within a 12-month period.
+        </div>
+        <div class="x10-changes-to-t-may-revise-and-C61RwL">
+          <span class="span0-0FuNgA">10.&nbsp;&nbsp;Changes to this Privacy Policy<br /></span
+          ><span class="span1-0FuNgA"
+            >We may change this Privacy Policy from time to time. The most recent version of the Privacy Policy will
+            always be posted on the Website, with the effective date posted at the top of the Privacy Policy. We may
+            revise and update this Privacy Policy if our practices change, as technology changes, or as we add new
+            services or change existing ones. If we make material changes to our Privacy Policy or how we handle your
+            Personal Information, or if we are going to use any Personal Information in a manner that is materially
+            different from that stated in our Privacy Policy at the time we collected such information, we will try to
+            notify you of such changes reasonably in advance. By using our Website or Services after the effective date,
+            you are deemed to consent to our then-current Privacy Policy.</span
+          >
+        </div>
+        <div class="x11-contact-usif-ercerclubnyccom-C61RwL">
+          <span class="span0-tFRoSw">11.&nbsp;&nbsp;Contact Us<br /></span
+          ><span class="span1-tFRoSw"
+            >If you have questions, concerns or feedback regarding this Privacy Policy or our information practices, you
+            can send an email to us at founders@themercerclubnyc.com</span
+          >
+        </div>
+        <img class="path-851-C61RwL" src="img/path-851@1x.png" />
+        <div class="rectangle-57-C61RwL"></div>
+        <a href="javascript:SubmitForm('form1')"><img class="path-852-C61RwL" src="img/path-852@1x.png" /></a>
+        <div class="sign-up-for-membership-C61RwL">SIGN-UP FOR NEWSLETTER</div>
+        <div class="email-subscription-C61RwL">NEWSLETTER SIGN-UP</div>
+        <div class="browse-C61RwL overpass-normal-gray-12px">Browse</div>
+        <div class="rental-policy-VMr6Om overpass-normal-gray-12px">Rental Policy</div>
+        <div class="editorial-C61RwL overpass-normal-gray-12px">Editorial</div>
+        <div class="contact-us-C61RwL overpass-normal-gray-12px">Contact Us</div>
+        <div class="about-us-C61RwL overpass-normal-gray-12px">About Us</div>
+        <div class="terms-conditions-VMr6Om overpass-normal-gray-12px">Terms &amp; Conditions</div>
+        <div class="fa-qs-C61RwL overpass-normal-gray-12px">FAQs</div>
+        <div class="privacy-policy-mzXdH9 overpass-normal-gray-12px">Privacy Policy</div>
+        <div class="membership-C61RwL overpass-normal-gray-12px">Membership</div>
+        <div class="the-mercer-club-C61RwL overpass-black-black-23px">THE MERCER CLUB</div>
+        <div class="supportthemercerclubnyccom-C61RwL overpass-normal-gray-12px">support@themercerclubnyc.com</div>
+        <div class="customer-service954-787-0304-C61RwL">
+          <span class="span0-CUfxsI">Customer Service<br /></span><span class="span1-CUfxsI">(954) 787-0304</span>
+        </div>
+        <div class="group-8-C61RwL">
+          <a href="https://www.linkedin.com/company/the-mercer-club/" target="_blank">
+            <div class="group-5-3cZhlu"></div
+          ></a>
+          <a href="https://www.facebook.com/TheMercerClub/" target="_blank"> <div class="group-6-3cZhlu"></div></a>
+          <a href="https://twitter.com/themercerclub" target="_blank"
+            ><img class="path-13-3cZhlu" src="img/path-13@1x.png"
+          /></a>
+          <div class="group-7-3cZhlu">
+            <a href="https://www.instagram.com/themercerclub/" target="_blank"
+              ><img class="path-31-d71PT4" src="img/path-31@1x.png"
+            /></a>
+            <img class="path-32-d71PT4" src="img/path-32@1x.png" />
+          </div>
+        </div>
+        <div class="rental-policy-mzXdH9">RENTAL POLICY</div>
+      </form>
+    </div>
+    <div class="container-center-horizontal">
+      <form class="privacy-policy-2 screen" name="form3" action="form3" method="post">
+        <div class="x1-overviewthis-nd-any-of-our-s-C61RwL">
+          <span class="span0-gdDxxS">1. Overview<br /></span
+          ><span class="span1-gdDxxS"
+            >This Privacy Policy explains how The Mercer Club, Inc. (“The Mercer Club”, “we”, or “us”) collects,
+            protects, uses and shares information about you when you use themercerclubnyc.com (“Website”), our mobile
+            applications (“App”), and any of our services (collectively, the “Services”), and whether you access the
+            Services directly or through a third party. <br /><br />Please understand that, except as specifically
+            described below, this Privacy Policy does not apply to information collected by third parties, such as other
+            companies, or third-party websites or mobile applications, even if any are linked to or accessible through
+            the Services. If you have any questions or concerns about our information practices, please contact us at
+            founders@themercerclubnyc.com.&nbsp;&nbsp;If you do not want information about you to be used as described
+            in this Privacy Policy, you must stop, or refrain from, using the Services.</span
+          >
+        </div>
+        <img class="karsten-winegea-ie-v-i-unsplash-C61RwL" src="img/karsten-winegeart-cv-ohcie-vi-unsplash-2@1x.png" />
+        <div class="x2-information-we-collect-C61RwL overpass-bold-black-20px">
+          2.&nbsp;&nbsp;Information We Collect
+        </div>
+        <div class="personal-inform-dress-or-a-pers-C61RwL overpass-normal-gravel-15px">
+          “Personal Information,” as used in this Privacy Policy, is information that directly identifies an individual,
+          such as a person’s name, or information that reasonably allows an individual to be identified indirectly, such
+          as email or home address or a person’s mobile phone number.&nbsp;&nbsp;Personal Information also includes
+          information that is directly combined with such identifying information.<br /><br />Most of the Personal
+          Information we collect is from our customers. This information falls into two (2) general categories:
+          <br /><br />Passive Data Collection. This refers to data automatically collected from customers when they
+          visit the Website or use the Services.<br /><br />User-Submitted Information. This refers to information that
+          customers actively submit to us, which may be provided voluntarily or as required to use our Services.
+        </div>
+        <div class="rental-policy-C61RwL overpass-bold-black-15px">Rental Policy</div>
+        <div class="privacy-policy-C61RwL overpass-bold-black-15px">Privacy Policy</div>
+        <img class="line-4-C61RwL" src="img/line-4@1x.png" />
+        <div class="terms-conditions-C61RwL overpass-bold-black-15px">Terms &amp; Conditions</div>
+        <div class="faq-C61RwL overpass-bold-black-15px">FAQ</div>
+        <div class="customers-also-nts-name-and-em-C61RwL overpass-normal-gravel-15px">
+          Customers also sometimes provide us with information about other individuals, such as when a customer sends a
+          gift card or uses our referral services to tell a friend about us. In those cases, we may ask that customer to
+          provide the recipient’s name and email address. (We may also collect Personal Information in any personalized
+          message that is submitted with a gift card or referral.) We will automatically send the recipient email
+          correspondence with the gift card or referral, and invite them to visit the Website or otherwise use the
+          Services. If we receive Personal Information for a referral or gift card, we use that information for the sole
+          purpose of sending this email correspondence, and for tracking the use of the gift card or the success of our
+          referral program.
+        </div>
+        <div class="mobile-device-i-g-fileslike-mos-C61RwL overpass-normal-gravel-15px-2">
+          <span class="span0-iI0MfK">Mobile Device Information<br /></span
+          ><span class="span1-iI0MfK"
+            >When you download or use our App, we receive information about your mobile device. We register your device,
+            and we may use the identifier to send you push notifications about your transactions via the Services.<br /><br /></span
+          ><span class="span2-iI0MfK">Log Files<br /></span
+          ><span class="span3-iI0MfK"
+            >Like most websites, we automatically receive and record certain information about our customers’ behavior
+            on our Website or App and when using our Services. Our servers automatically gather technical information
+            about our Website or App traffic and store it in log files. This information includes Internet protocol (IP)
+            addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time
+            stamp, and other clickstream data. We aggregate this information with other pieces of information to analyze
+            trends, to administer and improve the Services, for example to understand customers’ use of the Website and
+            to make inventory and purchasing decisions that will best serve our customer base. Information from log
+            files may also be used to determine general location information such as city, state or geographic area.<br /><br /></span
+          ><span class="span4-iI0MfK">Third Party Advertisers<br /></span
+          ><span class="span5-iI0MfK"
+            >Third-party advertising companies may also use cookies, web beacons or similar technologies on the Website
+            to collect information (such as click stream information) during your visits to our Website and other
+            websites, as well as during your use of our Services, in order to help us provide you with advertisements
+            about our Services that we believe are likely to be of interest to you. <br /><br /></span
+          ><span class="span6-iI0MfK">User-Submitted Information<br /></span
+          ><span class="span7-iI0MfK"
+            >As a general matter, we may ask you for information, or retain information, that you provide to us in order
+            to provide our Services to you, and to better serve you and our customer base. This category of information
+            includes information submitted electronically, via phone, and in person through our stores. We may also
+            combine this information with Personal Information to provide you with customized and personalized
+            Services.<br /><br />We collect User-Submitted Information in the following ways:<br /><br /></span
+          ><span class="span8-iI0MfK">Registration<br /></span
+          ><span class="span9-iI0MfK"
+            >In order to use some features of the Website, App and Services, including the rental of The Mercer Club’s
+            inventory, you must first create an account with us and agree to the Terms of Service. To create an account,
+            you must provide an email address and create a password. We may also ask you for your birthday. We use the
+            email address you provide to contact you about the products and Services, and to begin to create a tailored
+            experience for you.<br /><br /></span
+          ><span class="span10-iI0MfK">Orders<br /></span
+          ><span class="span11-iI0MfK"
+            >If you order a product from us, we request certain Personal Information from you, whether you access the
+            Services from our App, the Website or otherwise. You must provide contact information (including name,
+            shipping address, telephone number) and a payment method. We use this information for billing purposes, to
+            fill your orders and to communicate with you about your orders. If we have trouble processing an order, we
+            will use this information to contact you. <br /><br />We record what you order and associate it with your
+            account profile. When you return an item, we may ask you for information about your experience, such as, if
+            you wore it and for information regarding how it fit. We record that information to better personalize our
+            Services for you and to improve our Services for others.<br /><br /></span
+          ><span class="span12-iI0MfK">Personalization of Service<br /></span
+          ><span class="span13-iI0MfK"
+            >In order to improve your customer experience, we may request personal characteristics, such as your height,
+            bust, dress size, style and fit preferences, your birthday, and the date and occasion for your rental. We
+            may also ask for your feedback and rating of our products. All of this information is voluntary and helps us
+            improve our Services by enabling us to create a tailored experience for you and our other
+            customers.&nbsp;&nbsp;Although we believe that providing this information will improve the Services we can
+            offer to you, and your experience of the Services, we will not require you to provide it. (Also, although we
+            may request information about personal physical characteristics, we do not ask for uniquely identifying
+            biometric information.)&nbsp;&nbsp;We may also collect geolocation information from your mobile device, if
+            you give us permission through your mobile device to do so.. <br /><br /></span
+          ><span class="span14-iI0MfK">Third-Party Account Credentials<br /></span
+          ><span class="span15-iI0MfK"
+            >If you choose to provide us with your third-party account credentials to such services as Google or
+            Facebook, you understand that some content and/or Personal Information may be shared between the third-party
+            service and us. Any information collected by a third party-service will be used in accordance with that
+            third party’s privacy policy, which we encourage you to review and consider.
+          </span>
+        </div>
+        <div class="cookies-web-bea-rson-has-access-C61RwL overpass-normal-gravel-15px-2">
+          <span class="span0-Yhqu5J">Cookies, Web Beacons and Similar Technologies<br /></span
+          ><span class="span1-Yhqu5J"
+            >A cookie is a small text file that is stored on a computer for record-keeping or tracking purposes. Web
+            beacons (also known as pixel tags or clear GIFs), are graphics that can record whether a person has accessed
+            particular content. We use these and other similar technologies on the Website and App and in connection
+            with our Services.<br /><br />Cookies we utilize may include session cookies, persistent cookies, or similar
+            technologies. A session cookie expires when you close your browser. A persistent cookie is stored on your
+            computer or device for an extended period of time. You can remove persistent cookies by following the
+            directions provided in your Internet browser&#39;s &#34;help&#34; menu. You may also configure your browser
+            to prevent cookies from being set on your computer. (Instructions should be provided in documentation for
+            your browser.) If you reject cookies, your ability to use the Website, App and Services may be limited, and
+            you may not be able to use certain features of the Website, App or Services. We may use cookies for the
+            following purposes.<br />
+            <br />Essential cookies. Essential cookies are required for providing you with features or services that you
+            have requested. For example, certain cookies enable you to log into secure areas of our Services. Disabling
+            these cookies may make certain features and services unavailable.<br /><br />Functional cookies. Functional
+            cookies are used to record your choices and settings regarding our Services, maintain your preferences over
+            time and recognize you when you return to our Services. These cookies help us to personalize our content for
+            you, greet you by name, and remember your preferences (for example, your choice of language or region).<br /><br />Performance/analytical
+            cookies. Performance/analytical cookies allow us to understand how visitors use our Services such as by
+            collecting information about the number of visitors to the Services, what pages visitors view on our
+            Services and how long visitors are viewing pages on the Services. Performance/analytical cookies also help
+            us measure the performance of our advertising campaigns in order to help us improve our campaigns and the
+            Services’ content for those who engage with our advertising. <br /><br />To find out more information about
+            cookies, including information about how to manage and delete cookies, please
+            visit&nbsp;&nbsp;https://www.allaboutcookies.org/.<br /><br />We may use web beacons or similar
+            technologies, which help manage content on the Website and in the Services by tracking what content is
+            effective. These technologies may be used to track the online movements of customers, but in contrast to
+            cookies, which are stored on a computer hard drive, these technologies are embedded in the Website or
+            App.<br />
+            <br />We may also use web beacons in our HTML-based emails to let us know which emails recipients have
+            opened. This allows us to gauge the effectiveness of certain communications and the effectiveness of our
+            marketing campaigns. <br /><br />Surveys or Contests<br />We may provide you the opportunity to participate
+            in surveys or contests on our Website or in connection with our Services.&nbsp;&nbsp;If you participate, we
+            will request certain Personal Information. The requested information typically includes contact information
+            (such as name and email address) and demographic information.<br /><br />We may use this information to
+            notify contest winners and to award prizes, to monitor traffic to our Services, to improve the Services, and
+            to send participants an email newsletter. <br /><br />Additional information practices (and terms and
+            conditions) may apply to any survey or contest, which will be made available with the survey or contest.
+            Please carefully review any additional information provided. <br /><br />Public Feedback and Discussion
+            Boards<br />If you choose to post messages to public message areas or leave feedback for others, that
+            information may become available to anyone. We are not responsible for the use by others of the information
+            you publicly disclose. Additionally, we may, but are not obligated to, collect the information you post in
+            public message areas to resolve disputes, provide customer support and troubleshoot problems as permitted by
+            law. <br /><br />Please be careful and closely consider disclosing any Personal Information in public
+            message areas.</span
+          >
+        </div>
+        <div class="x3-how-we-use-your-information-C61RwL overpass-bold-black-20px">
+          3.&nbsp;&nbsp;How We Use Your Information
+        </div>
+        <div class="the-purposes-an-low-in-addition-C61RwL overpass-normal-gravel-15px-2">
+          <span class="span0-CdCIQ1"
+            >The purposes and ways that we may use Personal Information about you are described throughout this Privacy
+            Policy, often in connection with the kinds of Personal Information we collect. Other uses of Personal
+            Information are described below. <br /><br />In addition, we may use aggregate, statistical, and
+            deidentified data, which does not specifically identify any individuals, for any purpose.<br /><br /></span
+          ><span class="span1-CdCIQ1">General Uses of Your Information<br /></span
+          ><span class="span2-CdCIQ1"
+            >We generally use the information we collect, including Personal Information about you, for the following
+            purposes:<br />To Provide Our Services. We use your Personal Information to provide our Services to you,
+            including:</span
+          >
+        </div>
+        <div class="x-to-present-you-in-finding-a-l-C61RwL overpass-normal-gravel-15px">
+          • To present you with products, information and content through the Services,
+          including&nbsp;&nbsp;&nbsp;&nbsp; personalization of the Services;<br /><br />• To process transactions,
+          including financial transactions, related to your use of the Services; <br /><br />• To assist you in finding
+          a location to return an item, using location or geolocation information you provide to us; and<br /><br />• To
+          respond to your questions or requests.<br />
+        </div>
+        <div class="for-compliance-appropriate-to-C61RwL overpass-normal-gravel-15px-2">
+          <span class="span0-zb3KL0">For Compliance, Fraud Prevention and Safety <br /></span
+          ><span class="span1-zb3KL0"
+            >We may use your Personal Information and disclose it to law enforcement, government authorities, and
+            private parties as we believe necessary or appropriate to:
+          </span>
+        </div>
+        <div class="x-protect-our-yo-unauthorized-or-C61RwL overpass-normal-gravel-15px">
+          • Protect our, your or others’ rights, privacy, safety or property;<br />• Enforce the terms and conditions
+          that govern use of our Services, including for legal claims; and <br />• To prevent, identify, investigate and
+          deter any fraudulent, harmful, unauthorized or illegal activity.
+        </div>
+        <div class="for-communicati-keting-partners-C61RwL overpass-normal-gravel-15px-2">
+          <span class="span0-BnpHHt">For Communications and Marketing <br /></span
+          ><span class="span1-BnpHHt"
+            >We use your Personal Information to communicate with you and provide you with information about The Mercer
+            Club and our marketing partners.</span
+          >
+        </div>
+        <div class="to-develop-and-for-example-by-C61RwL overpass-normal-gravel-15px-2">
+          <span class="span0-GxTPai">To Develop and Improve Our Services <br /></span
+          ><span class="span1-GxTPai"
+            >We may also use your Personal Information as we work to continually improve our Services, our business and
+            our operations. For example, by:</span
+          >
+        </div>
+        <div class="x-analyzing-usag-o-our-customers-C61RwL overpass-normal-gravel-15px">
+          • Analyzing usage or interest in certain features, or identifying items and areas of interest to our
+          customers.
+        </div>
+        <div class="to-comply-with-r-any-other-pur-C61RwL overpass-normal-gravel-15px-2">
+          <span class="span0-DBgWvj">To Comply with Law&nbsp;&nbsp;<br /></span
+          ><span class="span1-DBgWvj"
+            >We may use your Personal Information as we believe necessary or appropriate to comply with applicable laws,
+            lawful requests, and legal process.<br /><br /></span
+          ><span class="span2-DBgWvj">As Described or with Your Consent</span
+          ><span class="span3-DBgWvj"
+            >&nbsp;&nbsp;<br />We may use your Personal Information for any other purposes that we describe at the time
+            we collect your Personal Information, or otherwise with your consent.<br /><br /></span
+          ><span class="span4-DBgWvj">Communications from Us<br /></span
+          ><span class="span5-DBgWvj"
+            >We use your contact information to communicate with you about The Mercer Club and our marketing partners in
+            the following ways:</span
+          >
+        </div>
+        <div class="x-to-provide-new-your-account-i-C61RwL overpass-normal-gravel-15px">
+          • To provide newsletters, marketing emails or push notifications with special promotional offers, updates and
+          other relevant marketing content;<br />• To provide announcements about the Services; <br />• To communicate
+          with you about the Services and your account, including updates about the status of your orders; and<br />• To
+          verify your identity and address for your orders and rentals.
+        </div>
+        <div class="we-may-communic-r-mobile-device-C61RwL overpass-normal-gravel-15px">
+          We may communicate with you via phone, email, text messages and push notifications to your mobile device.
+          Standard call, message and data rates charged by your mobile carrier may apply to text messages or other
+          communications received on your mobile device.
+        </div>
+        <img class="img2589-C61RwL" src="img/img-2589-2@1x.png" />
+        <div class="x4-how-we-disclo-our-information-C61RwL">4.&nbsp;&nbsp;How We Disclose Your Information</div>
+        <div class="we-may-disclose-you-in-general-C61RwL">
+          <span class="span0-Dtuhcr"></span><span class="span1-Dtuhcr"></span
+          ><span class="span2-Dtuhcr"
+            >We may disclose aggregate, statistical, and deidentified data, which does not specifically identify any
+            individuals, for any purpose.<br />We may also share Personal Information about you, in general:</span
+          >
+        </div>
+        <div class="x-as-necessary-t-required-by-law-C61RwL">
+          • As necessary to provide the Services; <br />• With service providers;<br />• With our corporate affiliates
+          and business partners; and <br />• For legal reasons or as required by law.
+        </div>
+        <div class="the-purposes-an-in-more-detail-C61RwL">
+          The purposes and ways that we may share Personal Information about you are described below in more detail.
+        </div>
+        <div class="the-mercer-club-on-personally-i-C61RwL">
+          <span class="span0-fsOXV8"></span><span class="span1-fsOXV8"></span
+          ><span class="span2-fsOXV8">The Mercer Club Partners</span
+          ><span class="span3-fsOXV8"
+            ><br />The Mercer Club engages in marketing and promotional activities with carefully screened brands, or,
+            “Partners,” which we think will appeal to our customer base. From time to time, Partners may also be
+            provided with non-personally-identifying or aggregate information demographic information of customers on
+            our Services and statistical information about buying behavior, and Partners may be given opportunities to
+            market to select segments of our customer base indirectly. When we share aggregate or non-personally
+            identifiable customer data, we do so in a way that we believe cannot reasonably be linked with a customer’s
+            Personal Information.<br /><br /></span
+          ><span class="span4-fsOXV8">Service Providers</span
+          ><span class="span5-fsOXV8"
+            ><br />We may provide Personal Information to third parties for use in performing research and business
+            functions (e.g., mailing, maintenance, security, data analytics, communications, CRM, database management
+            services, credit card payment processing or data hosting) on our behalf. These service providers agree to
+            use your Personal Information only in accordance with our instructions, with information used only as
+            described in this Privacy Policy and for no other purpose than to provide the contracted-for services.<br /><br /></span
+          ><span class="span6-fsOXV8">Corporate Affiliate Parties</span><span class="span7-fsOXV8"><br /></span
+          ><span class="span8-fsOXV8"
+            >We may share some or all of your Personal Information with our affiliates (including a parent company,
+            subsidiaries, joint venture partners or other companies that we control or that are under common control
+            with us), in which case we will seek to require those affiliates to honor this Privacy Policy.</span
+          >
+        </div>
+        <div class="x5-third-party-w-se-websites-are-C61RwL">
+          <span class="span0-uhDrVD">5.&nbsp;&nbsp;Third Party Websites<br /></span
+          ><span class="span1-uhDrVD"
+            >In the event that that we provide links to other websites that we do not control, whether or not those
+            other websites refer to our branding, this Privacy Policy does not apply to those other websites. Visitors
+            to those websites are advised to carefully read the policies on those individual websites.</span
+          >
+        </div>
+        <div class="as-required-by-law-this-may-in-C61RwL">
+          <span class="span0-NenxNB"></span><span class="span1-NenxNB"></span><span class="span2-NenxNB"></span
+          ><span class="span3-NenxNB"></span><span class="span4-NenxNB">As Required by Law </span
+          ><span class="span5-NenxNB"
+            ><br />We may disclose Personal Information if we have a good-faith belief that doing so is required under
+            applicable law, for example if we receive a subpoena or other judicial or administrative order or otherwise
+            required by law. This may include responding to legal requests from jurisdictions outside of the United
+            States, where we have a good faith belief that the response is required by law in that jurisdiction.<br /><br /></span
+          ><span class="span6-NenxNB">In Connection with Business Transactions</span
+          ><span class="span7-NenxNB"
+            ><br />We may disclose Personal Information in certain corporate transactions, such as in connection with an
+            actual or proposed merger, acquisition, or other sale of or transfer of all or part of our business or
+            assets, including as part of a bankruptcy, liquidation, or other insolvency proceeding.&nbsp;&nbsp;<br /><br />In
+            the event of a change in ownership of The Mercer Club, or a merger with, acquisition by, or transfer or sale
+            of all or a portion of our assets to another entity, we reserve the right to transfer all of your Personal
+            Information, including email addresses and other information about you collected by us (in accordance with
+            this policy), to that entity.<br /><br /></span
+          ><span class="span8-NenxNB">To Protect Rights<br /></span
+          ><span class="span9-NenxNB"
+            >Additionally, we may disclose Personal Information where we, in good faith, deem it appropriate or
+            necessary to prevent violation of the Terms of Service or our other agreements; take precautions against
+            liability; protect the rights, property, or safety of The Mercer Club, any individual, or the general
+            public; maintain and protect the security and integrity of our Services or infrastructure; protect ourselves
+            and our Services from fraudulent, abusive, or unlawful uses; investigate and defend ourselves against
+            third-party claims or allegations; or assist government enforcement agencies.</span
+          >
+        </div>
+        <div class="x6-your-choicesa-nt-with-the-mer-C61RwL">
+          <span class="span0-KruMCy">6.&nbsp;&nbsp;Your Choices<br /></span
+          ><span class="span1-KruMCy"
+            >Accessing and Requesting Changes to Your Personal Information<br />If you are a customer of The Mercer
+            Club, you may review and change your Personal Information through your customer account.&nbsp;&nbsp;<br />If
+            you do not have a customer account with The Mercer Club, or if you cannot access or change any of your
+            Personal Information through your account, but you still wish to inquire about, access, correct, update or
+            delete Personal Information that we may hold about you, please email us
+            at&nbsp;&nbsp;founders@themercerclubnyc.com. Please understand that, before responding to your request, we
+            may ask you for additional information in order to verify your identity, or take other actions that we
+            believe are appropriate in order to verify your identity.<br />Please also understand that we may not be
+            obligated or able to alter or delete your Personal Information and may retain information to provide you
+            with requested services or fulfill obligations to you, for security reasons, if we are required under
+            applicable law or regulations, for internal business use or for other valid reasons. We are also not
+            obligated to comply with requests that are unreasonably burdensome or expensive, or with requests that would
+            interfere with the rights of another individual.&nbsp;&nbsp;In some circumstances, we may charge a
+            reasonable fee to fulfill your request.<br /><br /></span
+          ><span class="span2-KruMCy">Communications Preferences<br /></span
+          ><span class="span3-KruMCy"
+            >If you would like to change the types of communications you receive from us or how you receive
+            communications from us, or if you would like to opt out of promotional communications, you may do so at any
+            time by updating the communication preferences provided in your customer account. <br />If you do not have a
+            customer account, you may also use the unsubscribe links and instructions that will be present in any
+            promotional emails or other communications that we send. <br />Please understand that, even if you opt out
+            of marketing or promotional communications, we may continue to send non-promotional communications such as
+            confirmations of transactions, changes to the Services or other information about your use of the
+            Services.</span
+          >
+        </div>
+        <div class="do-not-track-se-tners-with-adve-C61RwL">
+          <span class="span0-an3SzE">“Do Not Track” Settings<br /></span
+          ><span class="span1-an3SzE"
+            >Our Website and Services are not at this time configured to read or respond to “do not track” settings or
+            signals in your browser headings.<br /><br /></span
+          ><span class="span2-an3SzE">Tailored Advertisements and Passive Data Collection<br /></span
+          ><span class="span3-an3SzE"
+            >The Mercer Club also partners with advertising companies to place our advertising on third-party websites
+            that we believe will be of interest to you. As described elsewhere in this Privacy Policy, these advertising
+            companies may collect information about your visits to our Website using cookies, web beacons and similar
+            technologies, and these advertising companies may collect information over time and across other websites.
+            In using tailored advertising, we comply with the Network Advertising Initiative (“NAI”) self-regulatory
+            2018 Code of Conduct, Digital Advertising Alliance (“DAA”) Self-Regulatory Principles for Online Behavioral
+            Advertising (“OBA Principles”).&nbsp;&nbsp;<br />To make choices about Interest-Based Ads from participating
+            third parties, including to opt out of receiving behaviorally targeted advertisements from participating
+            organizations, please visit the DAA’s or NAI’s consumer opt out pages, which are located
+            at&nbsp;&nbsp;https://www.networkadvertising.org/choices/,&nbsp;&nbsp;https://optout.networkadvertising.org/
+            or&nbsp;&nbsp;https://www.aboutads.info/choices/.&nbsp;&nbsp;<br />You may also learn more about your
+            choices with respect to data collection by third parties, including about opting out or changing your
+            preferences, at those third parties’ websites. For Google, please
+            see&nbsp;&nbsp;www.google.com/privacy_ads.html, or you may have the option to opt out of Google&#39;s use of
+            cookies using the Google Analytics Opt-out Browser Add-on
+            at&nbsp;&nbsp;https://tools.google.com/dlpage/gaoptout/. Information about Facebook advertising may be
+            available at&nbsp;&nbsp;https://www.facebook.com/help/568137493302217.
+          </span>
+        </div>
+        <div class="x7-securitywe-us-we-make-good-fa-C61RwL">
+          <span class="span0-EJD6Mt">7.&nbsp;&nbsp;Security<br /></span
+          ><span class="span1-EJD6Mt"
+            >We use reasonable security measures to protect against the loss, unauthorized access, misuse, alteration
+            and destruction of Personal Information under our control, both during the transmission and once we receive
+            it. <br /><br />Although we make good faith efforts to maintain the security of such Personal Information,
+            no method of transmission over the Internet or method of electronic data storage is 100% secure, and we
+            cannot guarantee that the information will remain free from unauthorized access, use, disclosure, or
+            alteration. While we work hard to ensure the integrity and security of our network and systems, we cannot
+            guarantee that our security measures will prevent hackers or other unauthorized persons from illegally
+            accessing or obtaining this information.</span
+          >
+        </div>
+        <div class="x8-childrens-pri-rvision-of-a-pa-C61RwL">
+          <span class="span0-RStMOZ">8.&nbsp;&nbsp;Children’s Privacy</span
+          ><span class="span1-RStMOZ"
+            ><br />The Mercer Club and the Services are not intended for or directed toward children under 13 years of
+            age, and children should not use the Services for any purpose unless they have the consent of, and are under
+            the supervision of, a parent or guardian. We ask that individuals do not provide Personal Information
+            through our Website or Services, and if we learn that we have collected or received Personal Information
+            from a child under 13 years of age, we will delete that information <br /><br />Additionally, we may collect
+            Personal Information from teenagers between the ages of 13 and 18, but only if such an individual is of
+            legal age to enter into a binding contract under applicable law, or with the consent and supervision of a
+            parent or legal guardians, as permitted by law.
+          </span>
+        </div>
+        <div class="if-you-are-the-ercerclubnyccom-C61RwL">
+          <span class="span0-nLYbUc"></span
+          ><span class="span1-nLYbUc"
+            >If you are the parent or legal guardian of a child under 13 years of age who has registered on the Website
+            or App or you believe has otherwise provided Personal Information to The Mercer Club, please contact The
+            Mercer Club at founders@themercerclubnyc.com to have the account terminated and information deleted.<br /><br />If
+            you believe that we may have inadvertently collected any Personal Information about a child aged 13 years or
+            younger, please contact us at founders@themercerclubnyc.com or as provided in the “Contact Us” section
+            below.</span
+          >
+        </div>
+        <div class="x9-notices-to-ca-third-partys-d-C61RwL">
+          <span class="span0-qw9aQW">9.&nbsp;&nbsp;Notices to California Residents<br /></span
+          ><span class="span1-qw9aQW"
+            >If you are a resident of the state of California, California’s “Shine the Light” law permits you to request
+            information regarding the disclosure of your Personal Information by us to a third party for the third
+            party&#39;s direct marketing purposes. To make such a request, please send an email to
+            founders@themercerclubnyc.com.<br /><br />In accordance with the California Consumer Privacy Act of 2018
+            (“CCPA”), please see the following summary of Personal Information that we have collected in the past twelve
+            (12) months (preceding the effective date of this Privacy Policy), as well as the sources of that Personal
+            Information, the purposes of collection, and third parties with who we have shared such Personal Information
+            in the past twelve (12) months.&nbsp;&nbsp;<br /><br />In addition, we may use or disclose any Personal
+            Information that we collect as necessary to comply with applicable law or legal obligations as described in
+            this Privacy Policy.<br /><br />Sale of Personal Information. We do not “sell” your Personal Information, as
+            defined under the CCPA, and we have not sold your Personal Information in the past twelve (12) months
+            (preceding the effective date of this Privacy Policy).<br /><br />California Residents’ Rights under the
+            CCPA. Under the CCPA, California residents have certain rights regarding their Personal
+            Information.&nbsp;&nbsp;Subject to certain exceptions, California residents have or may exercise the
+            following rights:</span
+          >
+        </div>
+        <div class="right-to-reques-the-sale-of-th-C61RwL">
+          Right to Request Deletion of Personal Information. A California resident may request that a business delete
+          their Personal Information. <br /><br />Right to Opt-Out of the Sale of Personal Information. A California
+          resident has the right to opt-out of the sale of their Personal Information by a business.<br /><br />Right to
+          Non-Discrimination for Exercise of Consumer Privacy Rights. A California resident has the right not to receive
+          discriminatory treatment by a business for the exercise of privacy rights provided by the CCPA.<br /><br />To
+          submit requests to The Mercer Club to exercise these rights, California residents may use the following
+          methods:<br /><br />1)&nbsp;&nbsp;Call us at +1 (954) 787-0304<br /><br />Please understand that we are only
+          obligated to respond to verifiable consumer requests.&nbsp;&nbsp;If we receive a request for information about
+          you, we need to know that it is actually coming from you, or somebody legally authorized to act for you.<br /><br />We
+          may implement authentication procedures that are appropriate to the nature of the personal information
+          requested. We may also use any information that we have already collected about you in order to verify your
+          request. Also, if we collect any personal information to verify your request, we will only use that
+          information to verify your request.<br /><br />Please remember that we are only obligated to respond to a
+          request for access twice within a 12-month period.
+        </div>
+        <div class="x10-changes-to-t-may-revise-and-C61RwL">
+          <span class="span0-0FuNgA">10.&nbsp;&nbsp;Changes to this Privacy Policy<br /></span
+          ><span class="span1-0FuNgA"
+            >We may change this Privacy Policy from time to time. The most recent version of the Privacy Policy will
+            always be posted on the Website, with the effective date posted at the top of the Privacy Policy. We may
+            revise and update this Privacy Policy if our practices change, as technology changes, or as we add new
+            services or change existing ones. If we make material changes to our Privacy Policy or how we handle your
+            Personal Information, or if we are going to use any Personal Information in a manner that is materially
+            different from that stated in our Privacy Policy at the time we collected such information, we will try to
+            notify you of such changes reasonably in advance. By using our Website or Services after the effective date,
+            you are deemed to consent to our then-current Privacy Policy.</span
+          >
+        </div>
+        <div class="x11-contact-usif-ercerclubnyccom-C61RwL">
+          <span class="span0-tFRoSw">11.&nbsp;&nbsp;Contact Us<br /></span
+          ><span class="span1-tFRoSw"
+            >If you have questions, concerns or feedback regarding this Privacy Policy or our information practices, you
+            can send an email to us at founders@themercerclubnyc.com</span
+          >
+        </div>
+        <div class="nav-C61RwL smart-layers-pointers">
+          <div class="group-179-Ebfosa">
+            <div class="browse-poi346 overpass-normal-gray-15px">Browse</div>
+            <div class="membership-poi346 overpass-normal-gray-15px">Membership</div>
+            <div class="editorial-poi346 overpass-normal-gray-15px">Editorial</div>
+          </div>
+          <div class="rectangle-255-Ebfosa"></div>
+          <div class="the-mercer-club-Ebfosa overpass-black-black-23px">THE MERCER CLUB</div>
+          <div class="log-in-Ebfosa overpass-bold-fire-bush-12px">LOG-IN</div>
+          <div class="sign-up-Ebfosa overpass-bold-fire-bush-12px">SIGN-UP</div>
+          <img class="path-292-Ebfosa" src="img/path-292-1@1x.png" />
+        </div>
+        <div class="browse-C61RwL overpass-normal-gray-12px">Browse</div>
+        <div class="rental-policy-VMr6Om overpass-normal-gray-12px">Rental Policy</div>
+        <div class="about-us-C61RwL overpass-normal-gray-12px">About Us</div>
+        <div class="terms-conditions-VMr6Om overpass-normal-gray-12px">Terms &amp; Conditions</div>
+        <div class="fa-qs-C61RwL overpass-normal-gray-12px">FAQs</div>
+        <div class="privacy-policy-VMr6Om overpass-normal-gray-12px">Privacy Policy</div>
+        <div class="the-mercer-club-C61RwL overpass-black-black-23px">THE MERCER CLUB</div>
+        <img class="path-851-C61RwL" src="img/path-851-2@1x.png" />
+        <div class="email-subscription-C61RwL">NEWSLETTR SIGN-UP</div>
+        <div class="rectangle-57-C61RwL"></div>
+        <a href="javascript:SubmitForm('form3')"><img class="path-852-C61RwL" src="img/path-852-2@1x.png" /></a>
+        <div class="sign-up-for-membership-C61RwL">SIGN-UP FOR NEWSLETTER</div>
+        <div class="editorial-C61RwL overpass-normal-gray-12px">Editorial</div>
+        <div class="contact-us-C61RwL overpass-normal-gray-12px">Contact Us</div>
+        <div class="membership-C61RwL overpass-normal-gray-12px">Membership</div>
+        <div class="supportthemercerclubnyccom-C61RwL overpass-normal-gray-12px">support@themercerclubnyc.com</div>
+        <div class="customer-service954-787-0304-C61RwL">
+          <span class="span0-CUfxsI">Customer Service<br /></span><span class="span1-CUfxsI">(954) 787-0304</span>
+        </div>
+        <div class="group-8-C61RwL">
+          <a href="https://www.linkedin.com/company/the-mercer-club/" target="_blank">
+            <div class="group-5-3cZhlu"></div
+          ></a>
+          <a href="https://www.facebook.com/TheMercerClub/" target="_blank"> <div class="group-6-3cZhlu"></div></a>
+          <a href="https://twitter.com/themercerclub" target="_blank"
+            ><img class="path-13-3cZhlu" src="img/path-13@1x.png"
+          /></a>
+          <div class="group-7-3cZhlu">
+            <a href="https://www.instagram.com/themercerclub/" target="_blank"
+              ><img class="path-31-d71PT4" src="img/path-31-3@1x.png"
+            /></a>
+            <img class="path-32-d71PT4" src="img/path-32@1x.png" />
+          </div>
+        </div>
+        <div class="privacy-policy-mzXdH9">PRIVACY POLICY</div>
+      </form>
+    </div>
+    <script>
+      /* Copyright (c) 2016 Tobias Buschor https://goo.gl/gl0mbf | MIT License https://goo.gl/HgajeK */
+
+      if (!HTMLFormElement.prototype.reportValidity) {
+        HTMLFormElement.prototype.reportValidity = function () {
+          if (this.checkValidity()) return true;
+          var btn = document.createElement("button");
+          this.appendChild(btn);
+          btn.click();
+          this.removeChild(btn);
+          return false;
+        };
+      }
+
+      function SubmitForm(form_name) {
+        var form = document.getElementsByName(form_name)[0];
+        if (form.reportValidity()) {
+          form.submit();
+          if (window.submitted) window.submitted();
+        }
+      }
+    </script>
+  </body>
+</html>

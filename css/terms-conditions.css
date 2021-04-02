@@ -1,0 +1,6316 @@
+/* screen - terms-conditions */
+
+.border-1px-cararra {
+  border: 1px solid var(--cararra);
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.border-3px-black {
+  border: 3px solid var(--black);
+}
+.nunitosans-normal-silver-10px {
+  color: var(--silver);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 400;
+}
+.overpass-black-black-23px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 900;
+}
+.overpass-bold-black-15px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-20px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-fire-bush-12px {
+  color: var(--fire-bush);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-fire-bush-30px {
+  color: var(--fire-bush);
+  font-family: 'Overpass', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-normal-fire-bush-20px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica;
+  font-size: 20px;
+}
+.overpass-normal-gravel-15px {
+  color: var(--gravel);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-12px {
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-15px {
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.terms-conditions {
+  background-color: var(--white);
+  height: 16716px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+.terms-conditions .about-our-service-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 1849px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .about-us-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 411px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 16444px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .accepting-these-terms-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 412px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 868px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .additional-term-ital-gift-cards-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 7636px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions .additional-term-le-applications-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 11062px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .any-free-trial-accordance-wit-C61RwL {
+  background-color: transparent;
+  height: 257px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 6964px;
+  width: 640px;
+}
+.terms-conditions .anything-that-y-s-you-are-solel-C61RwL {
+  background-color: transparent;
+  height: 903px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 9756px;
+  width: 640px;
+}
+.terms-conditions .arbitration-agreement-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 13247px;
+  white-space: nowrap;
+  width: 640px;
+}
+.terms-conditions .as-noted-above-with-certain-i-C61RwL {
+  background-color: transparent;
+  height: 786px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 1984px;
+  width: 640px;
+}
+.terms-conditions .assignment-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 13087px;
+  white-space: nowrap;
+  width: 640px;
+}
+.terms-conditions .billing-and-payments-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 4756px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .browse-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 411px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 16418px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .browse-poi346 {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  left: calc(43.07% - 22px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 50px;
+}
+.terms-conditions .by-using-the-se-n-and-providing-C61RwL {
+  background-color: transparent;
+  height: 352px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 12735px;
+  width: 640px;
+}
+.terms-conditions .certain-service-lub-third-party-C61RwL {
+  background-color: transparent;
+  height: 580px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 10452px;
+  width: 640px;
+}
+.terms-conditions .changes-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 966px;
+  white-space: nowrap;
+  width: 84px;
+}
+.terms-conditions .choice-of-law-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 13116px;
+  white-space: nowrap;
+  width: 640px;
+}
+.terms-conditions .component-21-1-MXGsu3 {
+  background-color: transparent;
+  background-image: url(../img/path-34@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 21px;
+  position: absolute;
+  right: 0px;
+  top: calc(50.00% - 10px);
+  width: 21px;
+}
+.terms-conditions .component-22-1-Ebfosa {
+  background-color: transparent;
+  height: 21px;
+  left: 224px;
+  position: absolute;
+  top: calc(44.84% - 9px);
+  width: 522px;
+}
+.terms-conditions .consent-to-rece-riodic-messages-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 12699px;
+  white-space: nowrap;
+  width: 640px;
+}
+.terms-conditions .contact-us-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 411px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 16545px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .copyright-infringement-claims-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 10909px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .cost-of-the-service-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 1069px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 1948px;
+  white-space: nowrap;
+  width: 189px;
+}
+.terms-conditions .couriers-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 12348px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions .customer-service-check-balance-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 8000px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions .customer-service954-787-0304-C61RwL {
+  background-color: transparent;
+  color: var(--gray);
+  font-family: "Overpass", Helvetica;
+  font-size: 12px;
+  height: 59px;
+  left: 1291px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 16423px;
+  width: 161px;
+}
+.terms-conditions .delays-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 13765px;
+  white-space: nowrap;
+  width: 640px;
+}
+.terms-conditions .delivery-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 3990px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions .digital-gift-ca-urchaser-is-res-C61RwL {
+  background-color: transparent;
+  height: 154px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 7672px;
+  width: 640px;
+}
+.terms-conditions .disclaimer-of-warranties-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 11843px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions .editorial-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 411px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 16520px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .editorial-poi346 {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(43.21% - 24px);
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+.terms-conditions .email-8s4xvg {
+  background-color: transparent;
+  height: 84.21%;
+  left: 5.45%;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 26.32%;
+  white-space: nowrap;
+  width: 15.76%;
+}
+.terms-conditions .email-KdigvU {
+  background-color: transparent;
+  height: 84.21%;
+  left: 5.45%;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 26.32%;
+  white-space: nowrap;
+  width: 15.76%;
+}
+.terms-conditions .email-subscription-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Overpass', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 788px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 15922px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .entire-agreement-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 13918px;
+  white-space: nowrap;
+  width: 640px;
+}
+.terms-conditions .expiration-and-fees-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 7694px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions .export-control-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 12561px;
+  white-space: nowrap;
+  width: 640px;
+}
+.terms-conditions .fa-qs-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 411px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 16470px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .faq-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 260px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .filtering-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 13240px;
+  white-space: nowrap;
+  width: 640px;
+}
+.terms-conditions .free-trials-and-promotions-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 6866px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .general-conditions-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 7460px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions .gift-cards-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 7362px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .gift-cards-do-n-erred-for-value-C61RwL {
+  background-color: transparent;
+  height: 66px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 7730px;
+  width: 640px;
+}
+.terms-conditions .gift-cards-may-to-gift-card-re-C61RwL {
+  background-color: transparent;
+  height: 154px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 7510px;
+  width: 640px;
+}
+.terms-conditions .group-163-biSsuR {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 100%;
+  left: 68.09%;
+  position: absolute;
+  top: 0px;
+  width: 31.91%;
+}
+.terms-conditions .group-163-zxXjO7 {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 100%;
+  left: 51.61%;
+  position: absolute;
+  top: 0px;
+  width: 48.39%;
+}
+.terms-conditions .group-164-biSsuR {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 100%;
+  left: 34.04%;
+  position: absolute;
+  top: 0px;
+  width: 31.91%;
+}
+.terms-conditions .group-164-zxXjO7 {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 48.39%;
+}
+.terms-conditions .group-172-FYBPGC {
+  background-color: transparent;
+  height: 100%;
+  left: 102.49%;
+  position: relative;
+  top: 0px;
+  width: 99.04%;
+}
+.terms-conditions .group-172-sovy2d {
+  background-color: transparent;
+  height: 100%;
+  left: -101.43%;
+  position: relative;
+  top: 0px;
+  width: 97.43%;
+}
+.terms-conditions .group-173-HPnu8y {
+  background-color: transparent;
+  background-image: url(../img/path-34@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 100%;
+  position: absolute;
+  right: 323px;
+  top: 0px;
+  width: 21px;
+}
+.terms-conditions .group-174-biSsuR {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31.91%;
+}
+.terms-conditions .group-179-Ebfosa {
+  background-color: var(--white);
+  box-shadow: -5px 0px 15px rgba(0,0,0,0.051);;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.terms-conditions .group-5-3cZhlu {
+  background-color: transparent;
+  background-image: url(../img/path-27-5@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 1px);
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 12px;
+}
+.terms-conditions .group-6-3cZhlu {
+  background-color: transparent;
+  background-image: url(../img/path-28-5@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 1px);
+  left: calc(34.59% - 4px);
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+.terms-conditions .group-7-3cZhlu {
+  background-color: transparent;
+  background-image: url(../img/path-30-9@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 100%;
+  position: absolute;
+  right: calc(32.50% - 4px);
+  top: 1px;
+  width: 12px;
+}
+.terms-conditions .group-8-C61RwL {
+  background-color: transparent;
+  height: 12px;
+  left: 1291px;
+  position: absolute;
+  top: 16409px;
+  width: 79px;
+}
+.terms-conditions .how-it-works-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 8320px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions .how-payments-work-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 4854px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions .how-recurring-b-to-renewal-work-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 4854px;
+  white-space: nowrap;
+  width: 640px;
+}
+.terms-conditions .how-to-access-t-r-club-services-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 1948px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions .how-to-cancel-y-bership-service-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 6134px;
+  white-space: nowrap;
+  width: 640px;
+}
+.terms-conditions .how-to-pause-a-bership-service-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 6134px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions .if-the-amount-t-harge-before-th-C61RwL {
+  background-color: transparent;
+  height: 279px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 5602px;
+  width: 640px;
+}
+.terms-conditions .if-you-are-a-co-iability-for-an-C61RwL {
+  background-color: transparent;
+  height: 330px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 14151px;
+  width: 640px;
+}
+.terms-conditions .if-you-do-not-r-hipping-and-los-C61RwL {
+  background-color: transparent;
+  height: 499px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 2834px;
+  width: 640px;
+}
+.terms-conditions .if-you-have-an-end-program-the-C61RwL {
+  background-color: transparent;
+  height: 382px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 8356px;
+  width: 640px;
+}
+.terms-conditions .if-you-have-any-m-please-note-t-C61RwL {
+  background-color: transparent;
+  height: 176px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 15409px;
+  width: 640px;
+}
+.terms-conditions .if-you-purchase-cer-club-at-its-C61RwL {
+  background-color: transparent;
+  height: 220px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 2674px;
+  width: 640px;
+}
+.terms-conditions .if-you-purchase-such-membershi-C61RwL {
+  background-color: transparent;
+  height: 220px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 2390px;
+  width: 640px;
+}
+.terms-conditions .if-you-rent-a-p-erves-the-right-C61RwL {
+  background-color: transparent;
+  height: 88px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 2236px;
+  width: 640px;
+}
+.terms-conditions .in-addition-to-system-of-apple-C61RwL {
+  background-color: transparent;
+  height: 506px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 11096px;
+  width: 640px;
+}
+.terms-conditions .in-addition-to-t-damages-which-C61RwL {
+  background-color: transparent;
+  height: 110px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 7860px;
+  width: 640px;
+}
+.terms-conditions .indemnity-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 12758px;
+  white-space: nowrap;
+  width: 640px;
+}
+.terms-conditions .information-or-complaints-C61RwL {
+  background-color: transparent;
+  height: 43px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 15308px;
+  white-space: nowrap;
+  width: 640px;
+}
+.terms-conditions .information-pro-ed-by-customers-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 5594px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions .last-updated-ef-january-1-2020-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 342px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .late-fees-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 2800px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .limitation-of-liability-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 11843px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions .limitation-of-liability-VMr6Om {
+  background-color: transparent;
+  height: 29px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 7824px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions .line-2-KKTDyW {
+  background-color: transparent;
+  bottom: calc(49.93% - 1px);
+  height: 2px;
+  left: calc(31.93% - 2px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+.terms-conditions .line-2-xxWNWV {
+  background-color: transparent;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(31.93% - 2px);
+  top: calc(49.93% - 1px);
+  width: 7px;
+}
+.terms-conditions .line-4-C61RwL {
+  background-color: transparent;
+  height: 5px;
+  left: 826px;
+  object-fit: cover;
+  position: absolute;
+  top: 292px;
+  width: 142px;
+}
+.terms-conditions .log-in-Ebfosa {
+  background-color: transparent;
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(40.55% - 17px);
+  text-align: left;
+  top: calc(47.54% - 9px);
+  white-space: nowrap;
+  width: 41px;
+}
+.terms-conditions .log-in-aIywlF {
+  background-color: transparent;
+  height: 21px;
+  position: absolute;
+  right: calc(25.80% - 90px);
+  top: calc(44.84% - 9px);
+  width: 350px;
+}
+.terms-conditions .lost-stolen-or-nauthorized-use-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 7854px;
+  white-space: nowrap;
+  width: 640px;
+}
+.terms-conditions .mask-group-1-HPnu8y {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.terms-conditions .mask-group-1-MXGsu3 {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: calc(50.00% - 10px);
+  width: 522px;
+}
+.terms-conditions .membership-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 411px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 16495px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .membership-poi346 {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  left: calc(49.89% - 42px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 85px;
+}
+.terms-conditions .membership-services-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 2354px;
+  white-space: nowrap;
+  width: 202px;
+}
+.terms-conditions .miscellaneous-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 11744px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .name-7mv9Nr {
+  background-color: transparent;
+  height: 84.21%;
+  left: 5.45%;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 26.32%;
+  white-space: nowrap;
+  width: 16.97%;
+}
+.terms-conditions .nav-C61RwL {
+  background-color: transparent;
+  height: 79px;
+  left: -9px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+.terms-conditions .neither-the-mer-and-each-of-th-C61RwL {
+  background-color: transparent;
+  height: 653px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 11879px;
+  width: 640px;
+}
+.terms-conditions .notice-to-new-jersey-consumers-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 14115px;
+  white-space: nowrap;
+  width: 640px;
+}
+.terms-conditions .other-terms-rel-ts-and-services-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 3475px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .our-content-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 8982px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .our-services-ma-esent-the-views-C61RwL {
+  background-color: transparent;
+  height: 154px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 10724px;
+  width: 640px;
+}
+.terms-conditions .ownership-and-u-ectual-property-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 8835px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .password-Udz9Uv {
+  background-color: transparent;
+  height: 84.21%;
+  left: 5.45%;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 26.32%;
+  white-space: nowrap;
+  width: 27.88%;
+}
+.terms-conditions .password-vOAwsG {
+  background-color: transparent;
+  height: 84.21%;
+  left: 5.45%;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 26.32%;
+  white-space: nowrap;
+  width: 27.88%;
+}
+.terms-conditions .path-13-3cZhlu {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+.terms-conditions .path-292-Ebfosa {
+  background-color: transparent;
+  bottom: calc(12.57% - 1px);
+  height: 7px;
+  left: calc(50.00% - 7px);
+  object-fit: cover;
+  position: absolute;
+  width: 13px;
+}
+.terms-conditions .path-31-d71PT4 {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: calc(100.00% - 5px);
+}
+.terms-conditions .path-32-d71PT4 {
+  background-color: transparent;
+  height: 3px;
+  left: calc(49.94% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(49.94% - 2px);
+  width: 3px;
+}
+.terms-conditions .path-5-KKTDyW {
+  background-color: transparent;
+  bottom: calc(49.13% - 6px);
+  height: 12px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(31.78% - 2px);
+  width: 7px;
+}
+.terms-conditions .path-5-xxWNWV {
+  background-color: transparent;
+  height: 12px;
+  left: calc(31.78% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(49.13% - 6px);
+  width: 7px;
+}
+.terms-conditions .pausing-and-can-elling-services-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 6036px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .payment-authorization-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 5566px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions .placeholder-person-Ebfosa {
+  background-color: transparent;
+  border-radius: 14.5px;
+  height: 29px;
+  object-fit: cover;
+  position: absolute;
+  right: 205px;
+  top: calc(50.00% - 14px);
+  width: 29px;
+}
+.terms-conditions .please-read-the-imits-the-manne-C61RwL {
+  background-color: transparent;
+  height: 198px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 13283px;
+  width: 640px;
+}
+.terms-conditions .please-see-our-ft-card-balance-C61RwL {
+  background-color: transparent;
+  height: 44px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 8036px;
+  width: 640px;
+}
+.terms-conditions .privacy-C61RwL {
+  background-color: transparent;
+  height: 22px;
+  left: 1069px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 1508px;
+  white-space: nowrap;
+  width: 96px;
+}
+.terms-conditions .privacy-policy-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 677px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 260px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .privacy-policy-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 851px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 16470px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .product-and-ser-ce-descriptions-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 3574px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions .ratings-and-reviews-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 10690px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .rectangle-24-C61RwL {
+  background-color: var(--black);
+  height: 413px;
+  left: -9px;
+  position: absolute;
+  top: 15786px;
+  width: 1920px;
+}
+.terms-conditions .rectangle-255-Ebfosa {
+  background-color: var(--white);
+  box-shadow: -5px 0px 15px rgba(0,0,0,0.051);;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.terms-conditions .rectangle-57-C61RwL {
+  background-color: var(--white);
+  border-radius: 27px;
+  height: 53px;
+  left: 487px;
+  position: absolute;
+  top: 15994px;
+  width: 928px;
+}
+.terms-conditions .rectangle-58-C61RwL {
+  background-color: var(--fire-bush);
+  border-radius: 24px;
+  height: 41px;
+  left: 1209px;
+  position: absolute;
+  top: 16000px;
+  width: 199px;
+}
+.terms-conditions .redemption-and-use-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 7474px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions .referral-program-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 8221px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .rental-policy-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 517px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 260px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .rental-policy-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 851px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 16418px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .reserve-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 1069px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 2200px;
+  white-space: nowrap;
+  width: 77px;
+}
+.terms-conditions .restrictions-that-apply-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 8320px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions .returns-extensi-and-lost-items-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 3836px;
+  white-space: nowrap;
+  width: 640px;
+}
+.terms-conditions .sales-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 2638px;
+  white-space: nowrap;
+  width: 52px;
+}
+.terms-conditions .sign-up-Ebfosa {
+  background-color: transparent;
+  height: 18px;
+  left: calc(40.19% - 20px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: calc(47.54% - 9px);
+  white-space: nowrap;
+  width: 49px;
+}
+.terms-conditions .sign-up-for-membership-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 1228px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 16015px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .site-2019-the-m-rights-reserved-C61RwL {
+  background-color: transparent;
+  height: 22px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 15409px;
+  white-space: nowrap;
+  width: 640px;
+}
+.terms-conditions .some-of-the-pai-bership-service-C61RwL {
+  background-color: transparent;
+  height: 646px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 4890px;
+  width: 640px;
+}
+.terms-conditions .span0-CUfxsI {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.terms-conditions .span0-K3yg6x {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.terms-conditions .span1-CUfxsI {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: italic;
+  font-weight: 400;
+}
+.terms-conditions .span1-K3yg6x {
+  color: rgba(231,148,42,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.terms-conditions .span2-K3yg6x {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.terms-conditions .star-with-your-email-C61RwL {
+  background-color: transparent;
+  color: var(--silver);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 15px;
+  font-style: italic;
+  font-weight: 300;
+  height: auto;
+  left: 530px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 16014px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .supportthemercerclubnyccom-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1291px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 16470px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .taxes-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 13415px;
+  white-space: nowrap;
+  width: 640px;
+}
+.terms-conditions .terms-conditions-C61RwL {
+  background-color: transparent;
+  color: var(--black-haze);
+  font-family: 'Overpass', Helvetica;
+  font-size: 200px;
+  font-style: normal;
+  font-weight: 900;
+  height: 479px;
+  left: -27px;
+  letter-spacing: 1.60px;
+  line-height: 184px;
+  opacity: 0.7;
+  position: absolute;
+  text-align: left;
+  top: 885px;
+  width: 1882px;
+}
+.terms-conditions .terms-conditions-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 829px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 260px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .terms-conditions-mzXdH9 {
+  background-color: transparent;
+  height: auto;
+  left: 851px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 16444px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .the-digital-mil-available-on-t-C61RwL {
+  background-color: transparent;
+  height: 242px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 10944px;
+  width: 640px;
+}
+.terms-conditions .the-failure-of-or-eliminated-t-C61RwL {
+  background-color: transparent;
+  height: 110px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 13626px;
+  width: 640px;
+}
+.terms-conditions .the-following-a-ard-constitutes-C61RwL {
+  background-color: transparent;
+  height: 110px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 7496px;
+  width: 640px;
+}
+.terms-conditions .the-mercer-club-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 411px;
+  letter-spacing: 0.28px;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  top: 16389px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .the-mercer-club-Ebfosa {
+  background-color: transparent;
+  bottom: calc(47.83% - 16px);
+  height: 33px;
+  letter-spacing: 0.28px;
+  line-height: 23px;
+  position: absolute;
+  right: calc(49.94% - 109px);
+  text-align: center;
+  white-space: nowrap;
+  width: 218px;
+}
+.terms-conditions .the-mercer-club-packaging-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 2925px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .the-mercer-club-partners-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 4276px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions .the-mercer-club-the-mercer-club-C61RwL {
+  background-color: transparent;
+  height: 286px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 12384px;
+  width: 640px;
+}
+.terms-conditions .there-may-be-de-will-not-be-li-C61RwL {
+  background-color: transparent;
+  height: 88px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 13801px;
+  width: 640px;
+}
+.terms-conditions .these-terms-are-visions-thereof-C61RwL {
+  background-color: transparent;
+  height: 66px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 13152px;
+  width: 640px;
+}
+.terms-conditions .third-party-materials-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 10417px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .to-the-fullest-liable-to-you-o-C61RwL {
+  background-color: transparent;
+  height: 440px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 11879px;
+  width: 640px;
+}
+.terms-conditions .tyler-nix-vz-ej-epz-ka-unsplash-C61RwL {
+  background-color: transparent;
+  height: 413px;
+  left: 191px;
+  object-fit: cover;
+  position: absolute;
+  top: 375px;
+  width: 1514px;
+}
+.terms-conditions .use-of-the-products-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 3574px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions .use-restrictions-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 8982px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .waiver-severability-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 13590px;
+  white-space: nowrap;
+  width: 640px;
+}
+.terms-conditions .we-andor-our-su-y-the-materials-C61RwL {
+  background-color: transparent;
+  height: 675px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 9016px;
+  width: 640px;
+}
+.terms-conditions .we-hereby-notif-ing-current-pro-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Nunito Sans", Helvetica;
+  font-size: 15px;
+  height: 110px;
+  left: 1067px;
+  letter-spacing: -0.27px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 13276px;
+  width: 640px;
+}
+.terms-conditions .we-may-at-any-t-ferings-similar-C61RwL {
+  background-color: transparent;
+  height: 477px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 1002px;
+  width: 640px;
+}
+.terms-conditions .we-may-but-are-xt-billing-date-C61RwL {
+  background-color: transparent;
+  height: 242px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 6170px;
+  width: 640px;
+}
+.terms-conditions .we-may-charge-y-rvices-that-you-C61RwL {
+  background-color: transparent;
+  height: 191px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 1980px;
+  width: 640px;
+}
+.terms-conditions .we-may-from-tim-return-such-ren-C61RwL {
+  background-color: transparent;
+  height: 110px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 4312px;
+  width: 640px;
+}
+.terms-conditions .we-may-in-our-s-are-accurate-co-C61RwL {
+  background-color: transparent;
+  height: 352px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 3610px;
+  width: 640px;
+}
+.terms-conditions .welcome-to-the-ercerclubnyccom-C61RwL {
+  background-color: transparent;
+  height: 742px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 966px;
+  width: 640px;
+}
+.terms-conditions .when-you-place-and-up-to-date-C61RwL {
+  background-color: transparent;
+  height: 675px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 4890px;
+  width: 640px;
+}
+.terms-conditions .with-the-delive-ay-not-keep-sel-C61RwL {
+  background-color: transparent;
+  height: 330px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 2960px;
+  width: 640px;
+}
+.terms-conditions .x-arbitration-ru-od-faith-negoti-C61RwL {
+  background-color: transparent;
+  height: 1681px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 13489px;
+  width: 640px;
+}
+.terms-conditions .x-infringes-misa-rt-control-laws-C61RwL {
+  background-color: transparent;
+  height: 1222px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 9090px;
+  width: 640px;
+}
+.terms-conditions .you-agree-to-in-ted-to-any-clai-C61RwL {
+  background-color: transparent;
+  height: 264px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 12794px;
+  width: 640px;
+}
+.terms-conditions .you-agree-to-re-ct-including-by-C61RwL {
+  background-color: transparent;
+  height: 742px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 3872px;
+  width: 640px;
+}
+.terms-conditions .you-agree-to-tr-stains-or-any-o-C61RwL {
+  background-color: transparent;
+  height: 198px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 3610px;
+  width: 640px;
+}
+.terms-conditions .you-and-the-mer-cations-and-oth-C61RwL {
+  background-color: transparent;
+  height: 132px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 13954px;
+  width: 640px;
+}
+.terms-conditions .you-are-also-re-to-use-or-acce-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 66px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 10320px;
+  width: 640px;
+}
+.terms-conditions .you-are-respons-nt-that-you-are-C61RwL {
+  background-color: transparent;
+  height: 132px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 12597px;
+  width: 640px;
+}
+.terms-conditions .you-may-not-ass-or-delegate-the-C61RwL {
+  background-color: transparent;
+  height: 88px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 13123px;
+  width: 640px;
+}
+.terms-conditions .you-may-not-red-ur-invitation-o-C61RwL {
+  background-color: transparent;
+  height: 338px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 8356px;
+  width: 640px;
+}
+.terms-conditions .you-may-termina-newed-after-the-C61RwL {
+  background-color: transparent;
+  height: 507px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 6170px;
+  width: 640px;
+}
+.terms-conditions .you-must-provid-ccount-up-to-da-C61RwL {
+  background-color: transparent;
+  height: 220px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 4026px;
+  width: 640px;
+}
+.terms-conditions .you-must-provid-umber-or-credit-C61RwL {
+  background-color: transparent;
+  height: 264px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 5630px;
+  width: 640px;
+}
+.terms-conditions .you-represent-w-n-a-manner-that-C61RwL {
+  background-color: transparent;
+  height: 66px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 9016px;
+  width: 640px;
+}
+.terms-conditions .you-should-trea-were-fraudulen-C61RwL {
+  background-color: transparent;
+  height: 154px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 7890px;
+  width: 640px;
+}
+.terms-conditions .you-will-be-res-th-the-services-C61RwL {
+  background-color: transparent;
+  height: 110px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 13451px;
+  width: 640px;
+}
+.terms-conditions .your-content-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 9722px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions .your-submission-ease-click-here-C61RwL {
+  background-color: transparent;
+  height: 44px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 1544px;
+  width: 640px;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --black-haze: rgba(247,247,247,1.0);
+  --cararra: rgba(235,235,235,1.0);
+  --dove-gray: rgba(112,112,112,1.0);
+  --fire-bush: rgba(231,148,42,1.0);
+  --gravel: rgba(74,74,74,1.0);
+  --gray: rgba(126,126,126,1.0);
+  --silver: rgba(192,192,192,1.0);
+  --white: rgba(255,255,255,1.0);
+}
+/* screen - terms-conditions-1 */
+
+.border-1px-cararra {
+  border: 1px solid var(--cararra);
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.border-3px-black {
+  border: 3px solid var(--black);
+}
+.nunitosans-normal-silver-10px {
+  color: var(--silver);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 400;
+}
+.overpass-black-black-23px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 900;
+}
+.overpass-bold-black-15px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-20px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-fire-bush-12px {
+  color: var(--fire-bush);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-fire-bush-30px {
+  color: var(--fire-bush);
+  font-family: 'Overpass', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-normal-fire-bush-20px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica;
+  font-size: 20px;
+}
+.overpass-normal-gravel-15px {
+  color: var(--gravel);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-12px {
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-15px {
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.terms-conditions-1 {
+  background-color: var(--white);
+  height: 20000px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1080px;
+}
+.terms-conditions-1 .about-our-service-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 399px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 2020px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .about-us-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 19635px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .accepting-these-terms-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 357px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 849px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .additional-term-ital-gift-cards-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 9002px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions-1 .additional-term-le-applications-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 13829px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .any-free-trial-accordance-wit-C61RwL {
+  background-color: transparent;
+  height: 177px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 8408px;
+  width: 923px;
+}
+.terms-conditions-1 .anything-that-y-s-you-are-solel-C61RwL {
+  background-color: transparent;
+  height: 648px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 12212px;
+  width: 923px;
+}
+.terms-conditions-1 .arbitration-agreement-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 15388px;
+  white-space: nowrap;
+  width: 923px;
+}
+.terms-conditions-1 .as-noted-above-with-certain-i-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 2180px;
+  width: 977px;
+}
+.terms-conditions-1 .assignment-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 17574px;
+  white-space: nowrap;
+  width: 922px;
+}
+.terms-conditions-1 .billing-and-payments-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 268px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 5868px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .browse-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 19609px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .browse-poi346 {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  left: calc(43.11% - 22px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 50px;
+}
+.terms-conditions-1 .by-using-the-se-n-and-providing-C61RwL {
+  background-color: transparent;
+  height: 251px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 14990px;
+  width: 923px;
+}
+.terms-conditions-1 .certain-service-lub-third-party-C61RwL {
+  background-color: transparent;
+  height: 436px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 13360px;
+  width: 923px;
+}
+.terms-conditions-1 .changes-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 1530px;
+  white-space: nowrap;
+  width: 84px;
+}
+.terms-conditions-1 .choice-of-law-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 53px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 15272px;
+  white-space: nowrap;
+  width: 927px;
+}
+.terms-conditions-1 .consent-to-rece-riodic-messages-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 14954px;
+  white-space: nowrap;
+  width: 923px;
+}
+.terms-conditions-1 .contact-us-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 19739px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .copyright-infringement-claims-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 13084px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .cost-of-the-service-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 3226px;
+  white-space: nowrap;
+  width: 189px;
+}
+.terms-conditions-1 .couriers-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 14678px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions-1 .customer-service-check-balance-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 9408px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions-1 .customer-service954-787-0304-C61RwL {
+  background-color: transparent;
+  color: var(--gray);
+  font-family: "Overpass", Helvetica;
+  font-size: 12px;
+  height: 59px;
+  left: 757px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 19622px;
+  width: 161px;
+}
+.terms-conditions-1 .delays-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 59px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 18129px;
+  white-space: nowrap;
+  width: 922px;
+}
+.terms-conditions-1 .delivery-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 5506px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions-1 .digital-gift-ca-urchaser-is-res-C61RwL {
+  background-color: transparent;
+  height: 154px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 9038px;
+  width: 923px;
+}
+.terms-conditions-1 .disclaimer-of-warranties-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 16672px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions-1 .editorial-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 19713px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .editorial-poi346 {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(43.16% - 24px);
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+.terms-conditions-1 .email-subscription-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Overpass', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 394px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 19257px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .entire-agreement-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 18262px;
+  white-space: nowrap;
+  width: 923px;
+}
+.terms-conditions-1 .expiration-and-fees-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 9172px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions-1 .export-control-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 17170px;
+  white-space: nowrap;
+  width: 922px;
+}
+.terms-conditions-1 .fa-qs-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 19661px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .faq-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 262px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 177px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .filtering-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 17697px;
+  white-space: nowrap;
+  width: 922px;
+}
+.terms-conditions-1 .free-trials-and-promotions-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 225px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 8329px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .general-conditions-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 8688px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions-1 .gift-cards-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 460px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 8614px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .gift-cards-do-n-erred-for-value-C61RwL {
+  background-color: transparent;
+  height: 51px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 9208px;
+  width: 923px;
+}
+.terms-conditions-1 .gift-cards-may-to-gift-card-re-C61RwL {
+  background-color: transparent;
+  height: 117px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 8870px;
+  width: 923px;
+}
+.terms-conditions-1 .group-179-Ebfosa {
+  background-color: var(--white);
+  box-shadow: -5px 0px 15px rgba(0,0,0,0.051);;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.terms-conditions-1 .group-5-3cZhlu {
+  background-color: transparent;
+  background-image: url(../img/path-27-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 1px);
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 12px;
+}
+.terms-conditions-1 .group-6-3cZhlu {
+  background-color: transparent;
+  background-image: url(../img/path-28-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 1px);
+  left: calc(34.59% - 4px);
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+.terms-conditions-1 .group-7-3cZhlu {
+  background-color: transparent;
+  background-image: url(../img/path-30@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 100%;
+  position: absolute;
+  right: calc(32.50% - 4px);
+  top: 1px;
+  width: 12px;
+}
+.terms-conditions-1 .group-8-C61RwL {
+  background-color: transparent;
+  height: 12px;
+  left: 757px;
+  position: absolute;
+  top: 19608px;
+  width: 79px;
+}
+.terms-conditions-1 .how-it-works-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 9690px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions-1 .how-payments-work-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 5938px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions-1 .how-recurring-b-to-renewal-work-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 6728px;
+  white-space: nowrap;
+  width: 926px;
+}
+.terms-conditions-1 .how-to-access-t-r-club-services-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 2090px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions-1 .how-to-cancel-y-bership-service-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 7854px;
+  white-space: nowrap;
+  width: 922px;
+}
+.terms-conditions-1 .how-to-pause-a-bership-service-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 7602px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions-1 .if-the-amount-t-harge-before-th-C61RwL {
+  background-color: transparent;
+  height: 279px;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 7288px;
+  width: 926px;
+}
+.terms-conditions-1 .if-you-are-a-co-iability-for-an-C61RwL {
+  background-color: transparent;
+  height: 245px;
+  left: 59px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 18470px;
+  width: 922px;
+}
+.terms-conditions-1 .if-you-do-not-r-hipping-and-los-C61RwL {
+  background-color: transparent;
+  height: 352px;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 2832px;
+  width: 977px;
+}
+.terms-conditions-1 .if-you-have-an-end-program-the-C61RwL {
+  background-color: transparent;
+  height: 285px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 9726px;
+  width: 923px;
+}
+.terms-conditions-1 .if-you-have-any-m-please-note-t-C61RwL {
+  background-color: transparent;
+  height: 176px;
+  left: 59px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 18816px;
+  width: 921px;
+}
+.terms-conditions-1 .if-you-purchase-cer-club-at-its-C61RwL {
+  background-color: transparent;
+  height: 135px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 3890px;
+  width: 970px;
+}
+.terms-conditions-1 .if-you-purchase-such-membershi-C61RwL {
+  background-color: transparent;
+  height: 139px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 3670px;
+  width: 970px;
+}
+.terms-conditions-1 .if-you-rent-a-p-erves-the-right-C61RwL {
+  background-color: transparent;
+  height: 88px;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 3506px;
+  width: 970px;
+}
+.terms-conditions-1 .in-addition-to-system-of-apple-C61RwL {
+  background-color: transparent;
+  height: 360px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 13864px;
+  width: 923px;
+}
+.terms-conditions-1 .in-addition-to-t-damages-which-C61RwL {
+  background-color: transparent;
+  height: 110px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 9312px;
+  width: 923px;
+}
+.terms-conditions-1 .indemnity-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 17325px;
+  white-space: nowrap;
+  width: 922px;
+}
+.terms-conditions-1 .information-or-complaints-C61RwL {
+  background-color: transparent;
+  height: 43px;
+  left: 280px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 18727px;
+  white-space: nowrap;
+  width: 640px;
+}
+.terms-conditions-1 .information-pro-ed-by-customers-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 6472px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions-1 .last-updated-ef-january-1-2020-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 813px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .late-fees-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 2768px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .limitation-of-liability-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 9276px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions-1 .limitation-of-liability-VMr6Om {
+  background-color: transparent;
+  height: 29px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 14316px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions-1 .line-4-C61RwL {
+  background-color: transparent;
+  height: 5px;
+  left: 678px;
+  object-fit: cover;
+  position: absolute;
+  top: 208px;
+  width: 142px;
+}
+.terms-conditions-1 .log-in-Ebfosa {
+  background-color: transparent;
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(32.63% - 13px);
+  text-align: left;
+  top: calc(47.54% - 9px);
+  white-space: nowrap;
+  width: 41px;
+}
+.terms-conditions-1 .lost-stolen-or-nauthorized-use-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 9482px;
+  white-space: nowrap;
+  width: 923px;
+}
+.terms-conditions-1 .membership-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 19687px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .membership-poi346 {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  left: calc(49.94% - 42px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 85px;
+}
+.terms-conditions-1 .membership-services-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 3602px;
+  white-space: nowrap;
+  width: 202px;
+}
+.terms-conditions-1 .miscellaneous-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 425px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 14229px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .nav-C61RwL {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  pointer-events: auto;
+  position: fixed;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 1080px;
+}
+.terms-conditions-1 .nav-C61RwL:hover {
+
+transform: translate(0, -5px);
+}
+.terms-conditions-1 .neither-the-mer-and-each-of-th-C61RwL {
+  background-color: transparent;
+  height: 440px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 16708px;
+  width: 923px;
+}
+.terms-conditions-1 .notice-to-new-jersey-consumers-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 59px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 18434px;
+  white-space: nowrap;
+  width: 922px;
+}
+.terms-conditions-1 .other-terms-rel-ts-and-services-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 179px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 4357px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .our-content-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 10439px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .our-services-ma-esent-the-views-C61RwL {
+  background-color: transparent;
+  height: 154px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 12928px;
+  width: 923px;
+}
+.terms-conditions-1 .ownership-and-u-ectual-property-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 195px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 10342px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .path-13-3cZhlu {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+.terms-conditions-1 .path-292-Ebfosa {
+  background-color: transparent;
+  bottom: calc(12.57% - 1px);
+  height: 7px;
+  left: calc(50.00% - 7px);
+  object-fit: cover;
+  position: absolute;
+  width: 13px;
+}
+.terms-conditions-1 .path-31-d71PT4 {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: calc(100.00% - 5px);
+}
+.terms-conditions-1 .path-32-d71PT4 {
+  background-color: transparent;
+  height: 3px;
+  left: calc(49.94% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(49.94% - 2px);
+  width: 3px;
+}
+.terms-conditions-1 .path-851-C61RwL {
+  background-color: transparent;
+  height: 413px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 19083px;
+  width: 1080px;
+}
+.terms-conditions-1 .path-852-C61RwL {
+  background-color: transparent;
+  height: 41px;
+  left: 766px;
+  object-fit: cover;
+  position: absolute;
+  top: 19325px;
+  width: 199px;
+}
+.terms-conditions-1 .pausing-and-can-elling-services-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 287px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 7504px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .payment-authorization-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 7252px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions-1 .placeholder-person-Ebfosa {
+  background-color: transparent;
+  border-radius: 14.5px;
+  height: 29px;
+  object-fit: cover;
+  position: absolute;
+  right: 80px;
+  top: calc(50.00% - 14px);
+  width: 29px;
+}
+.terms-conditions-1 .please-read-the-imits-the-manne-C61RwL {
+  background-color: transparent;
+  height: 147px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 15424px;
+  width: 923px;
+}
+.terms-conditions-1 .please-see-our-ft-card-balance-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 9444px;
+  width: 884px;
+}
+.terms-conditions-1 .privacy-C61RwL {
+  background-color: transparent;
+  height: 22px;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 1890px;
+  white-space: nowrap;
+  width: 96px;
+}
+.terms-conditions-1 .privacy-policy-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 529px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 177px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .privacy-policy-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 445px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 19661px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .product-and-ser-ce-descriptions-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 5196px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions-1 .ratings-and-reviews-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 12893px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .rectangle-255-Ebfosa {
+  background-color: var(--white);
+  border-radius: 40px;
+  box-shadow: -5px 0px 15px rgba(0,0,0,0.051);;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.terms-conditions-1 .rectangle-57-C61RwL {
+  background-color: var(--white);
+  border-radius: 27px;
+  height: 53px;
+  left: 94px;
+  position: absolute;
+  top: 19319px;
+  width: 882px;
+}
+.terms-conditions-1 .redemption-and-use-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 8834px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions-1 .referral-program-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 357px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 9645px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .rental-policy-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 369px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 177px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .rental-policy-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 445px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 19609px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .reserve-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 3452px;
+  white-space: nowrap;
+  width: 77px;
+}
+.terms-conditions-1 .restrictions-that-apply-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 10010px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions-1 .returns-extensi-and-lost-items-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 4630px;
+  white-space: nowrap;
+  width: 970px;
+}
+.terms-conditions-1 .sales-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 3836px;
+  white-space: nowrap;
+  width: 52px;
+}
+.terms-conditions-1 .sign-up-Ebfosa {
+  background-color: transparent;
+  height: 18px;
+  left: calc(31.13% - 15px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: calc(49.18% - 9px);
+  white-space: nowrap;
+  width: 49px;
+}
+.terms-conditions-1 .sign-up-for-membership-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 792px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 19340px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .site-2019-the-m-rights-reserved-C61RwL {
+  background-color: transparent;
+  height: 22px;
+  left: 267px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 18990px;
+  white-space: nowrap;
+  width: 640px;
+}
+.terms-conditions-1 .some-of-the-pai-bership-service-C61RwL {
+  background-color: transparent;
+  height: 646px;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 6764px;
+  width: 926px;
+}
+.terms-conditions-1 .span0-CUfxsI {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.terms-conditions-1 .span0-K3yg6x {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.terms-conditions-1 .span1-CUfxsI {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: italic;
+  font-weight: 400;
+}
+.terms-conditions-1 .span1-K3yg6x {
+  color: rgba(231,148,42,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.terms-conditions-1 .span2-K3yg6x {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.terms-conditions-1 .supportthemercerclubnyccom-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 757px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 19669px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .taxes-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 59px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 17842px;
+  white-space: nowrap;
+  width: 922px;
+}
+.terms-conditions-1 .terms-conditions-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 681px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 177px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .terms-conditions-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 445px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 19635px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .terms-conditions-mzXdH9 {
+  background-color: transparent;
+  color: var(--black-haze);
+  font-family: 'Overpass', Helvetica;
+  font-size: 200px;
+  font-style: normal;
+  font-weight: 900;
+  height: 1312px;
+  left: 0px;
+  letter-spacing: 1.60px;
+  line-height: 184px;
+  opacity: 0.35;
+  position: absolute;
+  text-align: left;
+  top: 1021px;
+  width: 1077px;
+}
+.terms-conditions-1 .the-digital-mil-available-on-t-C61RwL {
+  background-color: transparent;
+  height: 173px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 13118px;
+  width: 923px;
+}
+.terms-conditions-1 .the-failure-of-or-eliminated-t-C61RwL {
+  background-color: transparent;
+  height: 73px;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 18033px;
+  width: 922px;
+}
+.terms-conditions-1 .the-following-a-ard-constitutes-C61RwL {
+  background-color: transparent;
+  height: 110px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 8724px;
+  width: 923px;
+}
+.terms-conditions-1 .the-mercer-club-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 101px;
+  letter-spacing: 0.28px;
+  line-height: 23px;
+  position: absolute;
+  text-align: left;
+  top: 19579px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .the-mercer-club-Ebfosa {
+  background-color: transparent;
+  bottom: calc(47.83% - 16px);
+  height: 33px;
+  left: calc(49.42% - 108px);
+  letter-spacing: 0.28px;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 218px;
+}
+.terms-conditions-1 .the-mercer-club-packaging-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 4056px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .the-mercer-club-partners-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 5718px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions-1 .the-mercer-club-the-mercer-club-C61RwL {
+  background-color: transparent;
+  height: 211px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 14714px;
+  width: 923px;
+}
+.terms-conditions-1 .there-may-be-de-will-not-be-li-C61RwL {
+  background-color: transparent;
+  height: 88px;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 18164px;
+  width: 922px;
+}
+.terms-conditions-1 .these-terms-are-visions-thereof-C61RwL {
+  background-color: transparent;
+  height: 66px;
+  left: 53px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 15314px;
+  width: 927px;
+}
+.terms-conditions-1 .third-party-materials-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 13325px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .to-the-fullest-liable-to-you-o-C61RwL {
+  background-color: transparent;
+  height: 296px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 14352px;
+  width: 923px;
+}
+.terms-conditions-1 .tyler-nix-vz-ej-epz-ka-unsplash-C61RwL {
+  background-color: transparent;
+  height: 413px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 387px;
+  width: 1005px;
+}
+.terms-conditions-1 .use-of-the-products-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 4436px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions-1 .use-restrictions-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 10993px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .waiver-severability-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 17997px;
+  white-space: nowrap;
+  width: 922px;
+}
+.terms-conditions-1 .we-andor-our-su-y-the-materials-C61RwL {
+  background-color: transparent;
+  height: 485px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 10474px;
+  width: 923px;
+}
+.terms-conditions-1 .we-hereby-notif-ing-current-pro-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Nunito Sans", Helvetica;
+  font-size: 15px;
+  height: 110px;
+  left: 58px;
+  letter-spacing: -0.27px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 17733px;
+  width: 922px;
+}
+.terms-conditions-1 .we-may-at-any-t-ferings-similar-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 1566px;
+  width: 977px;
+}
+.terms-conditions-1 .we-may-but-are-xt-billing-date-C61RwL {
+  background-color: transparent;
+  height: 182px;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 7638px;
+  width: 926px;
+}
+.terms-conditions-1 .we-may-charge-y-rvices-that-you-C61RwL {
+  background-color: transparent;
+  height: 164px;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 3274px;
+  width: 977px;
+}
+.terms-conditions-1 .we-may-from-tim-return-such-ren-C61RwL {
+  background-color: transparent;
+  height: 110px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 5754px;
+  width: 924px;
+}
+.terms-conditions-1 .we-may-in-our-s-are-accurate-co-C61RwL {
+  background-color: transparent;
+  height: 251px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 5232px;
+  width: 970px;
+}
+.terms-conditions-1 .welcome-to-the-ercerclubnyccom-C61RwL {
+  background-color: transparent;
+  height: 742px;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 962px;
+  width: 977px;
+}
+.terms-conditions-1 .when-you-place-and-up-to-date-C61RwL {
+  background-color: transparent;
+  height: 675px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 5974px;
+  width: 924px;
+}
+.terms-conditions-1 .with-the-delive-ay-not-keep-sel-C61RwL {
+  background-color: transparent;
+  height: 229px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 4106px;
+  width: 970px;
+}
+.terms-conditions-1 .x-arbitration-ru-od-faith-negoti-C61RwL {
+  background-color: transparent;
+  height: 1076px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 15570px;
+  width: 927px;
+}
+.terms-conditions-1 .x-infringes-misa-rt-control-laws-C61RwL {
+  background-color: transparent;
+  height: 979px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 11102px;
+  width: 923px;
+}
+.terms-conditions-1 .you-agree-to-in-ted-to-any-clai-C61RwL {
+  background-color: transparent;
+  height: 204px;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 17361px;
+  width: 922px;
+}
+.terms-conditions-1 .you-agree-to-re-ct-including-by-C61RwL {
+  background-color: transparent;
+  height: 507px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 4666px;
+  width: 970px;
+}
+.terms-conditions-1 .you-agree-to-tr-stains-or-any-o-C61RwL {
+  background-color: transparent;
+  height: 198px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 4472px;
+  width: 970px;
+}
+.terms-conditions-1 .you-and-the-mer-cations-and-oth-C61RwL {
+  background-color: transparent;
+  height: 114px;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 18298px;
+  width: 923px;
+}
+.terms-conditions-1 .you-are-also-re-to-use-or-acce-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 66px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 12088px;
+  width: 923px;
+}
+.terms-conditions-1 .you-are-respons-nt-that-you-are-C61RwL {
+  background-color: transparent;
+  height: 96px;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 17206px;
+  width: 922px;
+}
+.terms-conditions-1 .you-may-not-ass-or-delegate-the-C61RwL {
+  background-color: transparent;
+  height: 88px;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 17610px;
+  width: 922px;
+}
+.terms-conditions-1 .you-may-not-red-ur-invitation-o-C61RwL {
+  background-color: transparent;
+  height: 254px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 10046px;
+  width: 923px;
+}
+.terms-conditions-1 .you-may-termina-newed-after-the-C61RwL {
+  background-color: transparent;
+  height: 410px;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 7890px;
+  width: 922px;
+}
+.terms-conditions-1 .you-must-provid-ccount-up-to-da-C61RwL {
+  background-color: transparent;
+  height: 220px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 5542px;
+  width: 924px;
+}
+.terms-conditions-1 .you-must-provid-umber-or-credit-C61RwL {
+  background-color: transparent;
+  height: 264px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 6508px;
+  width: 924px;
+}
+.terms-conditions-1 .you-represent-w-n-a-manner-that-C61RwL {
+  background-color: transparent;
+  height: 66px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 11028px;
+  width: 923px;
+}
+.terms-conditions-1 .you-should-trea-were-fraudulen-C61RwL {
+  background-color: transparent;
+  height: 117px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 9518px;
+  width: 923px;
+}
+.terms-conditions-1 .you-will-be-res-th-the-services-C61RwL {
+  background-color: transparent;
+  height: 110px;
+  left: 59px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 17878px;
+  width: 922px;
+}
+.terms-conditions-1 .your-content-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 12177px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-1 .your-submission-ease-click-here-C61RwL {
+  background-color: transparent;
+  height: 44px;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 1920px;
+  width: 977px;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --black-haze: rgba(247,247,247,1.0);
+  --cararra: rgba(235,235,235,1.0);
+  --dove-gray: rgba(112,112,112,1.0);
+  --fire-bush: rgba(231,148,42,1.0);
+  --gravel: rgba(74,74,74,1.0);
+  --gray: rgba(126,126,126,1.0);
+  --silver: rgba(192,192,192,1.0);
+  --white: rgba(255,255,255,1.0);
+}
+/* screen - terms-conditions-2 */
+
+.border-1px-cararra {
+  border: 1px solid var(--cararra);
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.border-3px-black {
+  border: 3px solid var(--black);
+}
+.nunitosans-normal-silver-10px {
+  color: var(--silver);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 400;
+}
+.overpass-black-black-23px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 900;
+}
+.overpass-bold-black-15px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-20px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-fire-bush-12px {
+  color: var(--fire-bush);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-fire-bush-30px {
+  color: var(--fire-bush);
+  font-family: 'Overpass', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-normal-fire-bush-20px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica;
+  font-size: 20px;
+}
+.overpass-normal-gravel-15px {
+  color: var(--gravel);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-12px {
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-15px {
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.terms-conditions-2 {
+  background-color: var(--white);
+  height: 28500px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 600px;
+}
+.terms-conditions-2 .about-our-service-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 159px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 2216px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .about-us-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 28152px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .accepting-these-terms-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 128px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 572px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .additional-term-ital-gift-cards-C61RwL {
+  background-color: transparent;
+  height: 35px;
+  left: 38px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 12436px;
+  width: 406px;
+}
+.terms-conditions-2 .additional-term-le-applications-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 19546px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .any-free-trial-accordance-wit-C61RwL {
+  background-color: transparent;
+  height: 314px;
+  left: 38px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 11592px;
+  width: 526px;
+}
+.terms-conditions-2 .anything-that-y-s-you-are-solel-C61RwL {
+  background-color: transparent;
+  height: 1065px;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 17096px;
+  width: 520px;
+}
+.terms-conditions-2 .arbitration-agreement-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 21938px;
+  white-space: nowrap;
+  width: 516px;
+}
+.terms-conditions-2 .as-noted-above-with-certain-i-C61RwL {
+  background-color: transparent;
+  height: 953px;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 2334px;
+  width: 537px;
+}
+.terms-conditions-2 .assignment-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 25548px;
+  white-space: nowrap;
+  width: 515px;
+}
+.terms-conditions-2 .billing-and-payments-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 109px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 7888px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .browse-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 28126px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .browse-poi346 {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  left: calc(43.19% - 22px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 50px;
+}
+.terms-conditions-2 .by-using-the-se-n-and-providing-C61RwL {
+  background-color: transparent;
+  height: 441px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 21334px;
+  width: 516px;
+}
+.terms-conditions-2 .certain-service-lub-third-party-C61RwL {
+  background-color: transparent;
+  height: 691px;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 18818px;
+  width: 520px;
+}
+.terms-conditions-2 .changes-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 1496px;
+  white-space: nowrap;
+  width: 84px;
+}
+.terms-conditions-2 .choice-of-law-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 21798px;
+  white-space: nowrap;
+  width: 520px;
+}
+.terms-conditions-2 .consent-to-rece-riodic-messages-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 21298px;
+  white-space: nowrap;
+  width: 516px;
+}
+.terms-conditions-2 .contact-us-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 28256px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .copyright-infringement-claims-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 18435px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .cost-of-the-service-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 3968px;
+  white-space: nowrap;
+  width: 189px;
+}
+.terms-conditions-2 .couriers-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 20880px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions-2 .customer-service-check-balance-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 38px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 13050px;
+  white-space: nowrap;
+  width: 345px;
+}
+.terms-conditions-2 .customer-service954-787-0304-C61RwL {
+  background-color: transparent;
+  color: var(--gray);
+  font-family: "Overpass", Helvetica;
+  font-size: 12px;
+  height: 59px;
+  left: 398px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 28149px;
+  width: 161px;
+}
+.terms-conditions-2 .delays-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 26292px;
+  white-space: nowrap;
+  width: 514px;
+}
+.terms-conditions-2 .delivery-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 39px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 7378px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions-2 .digital-gift-ca-urchaser-is-res-C61RwL {
+  background-color: transparent;
+  height: 182px;
+  left: 38px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 12496px;
+  width: 526px;
+}
+.terms-conditions-2 .disclaimer-of-warranties-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 24071px;
+  white-space: nowrap;
+  width: 377px;
+}
+.terms-conditions-2 .editorial-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 28230px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .editorial-poi346 {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(43.01% - 24px);
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+.terms-conditions-2 .email-subscription-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Overpass', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 154px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 27819px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .entire-agreement-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 26468px;
+  white-space: nowrap;
+  width: 514px;
+}
+.terms-conditions-2 .expiration-and-fees-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 38px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 12692px;
+  white-space: nowrap;
+  width: 345px;
+}
+.terms-conditions-2 .export-control-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 24921px;
+  white-space: nowrap;
+  width: 516px;
+}
+.terms-conditions-2 .fa-qs-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 28178px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .faq-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 61px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 157px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .filtering-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 25711px;
+  white-space: nowrap;
+  width: 515px;
+}
+.terms-conditions-2 .free-trials-and-promotions-C61RwL {
+  background-color: transparent;
+  color: var(--fire-bush);
+  font-family: 'Overpass', Helvetica;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 90px;
+  letter-spacing: 0.00px;
+  line-height: 52px;
+  position: absolute;
+  text-align: left;
+  top: 11522px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .general-conditions-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 42px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 11990px;
+  white-space: nowrap;
+  width: 345px;
+}
+.terms-conditions-2 .gift-cards-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 232px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 11915px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .gift-cards-do-n-erred-for-value-C61RwL {
+  background-color: transparent;
+  height: 96px;
+  left: 38px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 12748px;
+  width: 526px;
+}
+.terms-conditions-2 .gift-cards-may-to-gift-card-re-C61RwL {
+  background-color: transparent;
+  height: 193px;
+  left: 42px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 12234px;
+  width: 523px;
+}
+.terms-conditions-2 .group-179-Ebfosa {
+  background-color: var(--white);
+  box-shadow: -5px 0px 15px rgba(0,0,0,0.051);;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.terms-conditions-2 .group-5-3cZhlu {
+  background-color: transparent;
+  background-image: url(../img/path-27@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 1px);
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 12px;
+}
+.terms-conditions-2 .group-6-3cZhlu {
+  background-color: transparent;
+  background-image: url(../img/path-28-5@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 1px);
+  left: calc(34.59% - 4px);
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+.terms-conditions-2 .group-7-3cZhlu {
+  background-color: transparent;
+  background-image: url(../img/path-30-5@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 100%;
+  position: absolute;
+  right: calc(32.50% - 4px);
+  top: 1px;
+  width: 12px;
+}
+.terms-conditions-2 .group-8-C61RwL {
+  background-color: transparent;
+  height: 12px;
+  left: 398px;
+  position: absolute;
+  top: 28135px;
+  width: 79px;
+}
+.terms-conditions-2 .how-it-works-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 13478px;
+  white-space: nowrap;
+  width: 385px;
+}
+.terms-conditions-2 .how-payments-work-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 39px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 7958px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions-2 .how-recurring-b-to-renewal-work-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 39px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 9208px;
+  white-space: nowrap;
+  width: 526px;
+}
+.terms-conditions-2 .how-to-access-t-r-club-services-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 2296px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions-2 .how-to-cancel-y-bership-service-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 39px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 10842px;
+  white-space: nowrap;
+  width: 526px;
+}
+.terms-conditions-2 .how-to-pause-a-bership-service-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 39px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 10488px;
+  white-space: nowrap;
+  width: 389px;
+}
+.terms-conditions-2 .if-the-amount-t-harge-before-th-C61RwL {
+  background-color: transparent;
+  height: 350px;
+  left: 39px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 10074px;
+  width: 526px;
+}
+.terms-conditions-2 .if-you-are-a-co-iability-for-an-C61RwL {
+  background-color: transparent;
+  height: 426px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 26739px;
+  width: 515px;
+}
+.terms-conditions-2 .if-you-do-not-r-hipping-and-los-C61RwL {
+  background-color: transparent;
+  height: 591px;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 3348px;
+  width: 537px;
+}
+.terms-conditions-2 .if-you-have-an-end-program-the-C61RwL {
+  background-color: transparent;
+  height: 432px;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 13514px;
+  width: 520px;
+}
+.terms-conditions-2 .if-you-have-any-m-please-note-t-C61RwL {
+  background-color: transparent;
+  height: 224px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 27261px;
+  width: 513px;
+}
+.terms-conditions-2 .if-you-purchase-cer-club-at-its-C61RwL {
+  background-color: transparent;
+  height: 266px;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 4832px;
+  width: 530px;
+}
+.terms-conditions-2 .if-you-purchase-such-membershi-C61RwL {
+  background-color: transparent;
+  height: 253px;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 4512px;
+  width: 536px;
+}
+.terms-conditions-2 .if-you-rent-a-p-erves-the-right-C61RwL {
+  background-color: transparent;
+  height: 120px;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 4330px;
+  width: 537px;
+}
+.terms-conditions-2 .in-addition-to-system-of-apple-C61RwL {
+  background-color: transparent;
+  height: 632px;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 19580px;
+  width: 520px;
+}
+.terms-conditions-2 .in-addition-to-t-damages-which-C61RwL {
+  background-color: transparent;
+  height: 121px;
+  left: 38px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 12914px;
+  width: 527px;
+}
+.terms-conditions-2 .indemnity-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 25150px;
+  white-space: nowrap;
+  width: 515px;
+}
+.terms-conditions-2 .information-or-complaints-C61RwL {
+  background-color: transparent;
+  height: 43px;
+  left: 90px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 27182px;
+  white-space: nowrap;
+  width: 451px;
+}
+.terms-conditions-2 .information-pro-ed-by-customers-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 39px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 8824px;
+  white-space: nowrap;
+  width: 386px;
+}
+.terms-conditions-2 .last-updated-ef-january-1-2020-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 522px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .late-fees-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 3303px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .limitation-of-liability-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 38px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 12858px;
+  white-space: nowrap;
+  width: 345px;
+}
+.terms-conditions-2 .limitation-of-liability-VMr6Om {
+  background-color: transparent;
+  height: 29px;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 20316px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions-2 .line-4-C61RwL {
+  background-color: transparent;
+  height: 5px;
+  left: 400px;
+  object-fit: cover;
+  position: absolute;
+  top: 188px;
+  width: 142px;
+}
+.terms-conditions-2 .log-in-Ebfosa {
+  background-color: transparent;
+  bottom: calc(45.90% - 8px);
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(20.93% - 9px);
+  text-align: left;
+  white-space: nowrap;
+  width: 41px;
+}
+.terms-conditions-2 .lost-stolen-or-nauthorized-use-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 38px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 13172px;
+  white-space: nowrap;
+  width: 527px;
+}
+.terms-conditions-2 .membership-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 28204px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .membership-poi346 {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(49.97% - 42px);
+  text-align: left;
+  white-space: nowrap;
+  width: 85px;
+}
+.terms-conditions-2 .membership-services-C61RwL {
+  background-color: transparent;
+  height: 35px;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 4462px;
+  width: 260px;
+}
+.terms-conditions-2 .miscellaneous-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 185px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 20229px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .nav-C61RwL {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  pointer-events: auto;
+  position: fixed;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 600px;
+}
+.terms-conditions-2 .nav-C61RwL:hover {
+
+transform: translate(0, -5px);
+}
+.terms-conditions-2 .neither-the-mer-and-each-of-th-C61RwL {
+  background-color: transparent;
+  height: 790px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 24107px;
+  width: 516px;
+}
+.terms-conditions-2 .notice-to-new-jersey-consumers-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 26703px;
+  white-space: nowrap;
+  width: 514px;
+}
+.terms-conditions-2 .other-terms-rel-ts-and-services-C61RwL {
+  background-color: transparent;
+  color: var(--fire-bush);
+  font-family: 'Overpass', Helvetica;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 71px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: 5583px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .our-content-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 14504px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .our-services-ma-esent-the-views-C61RwL {
+  background-color: transparent;
+  height: 199px;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 18210px;
+  width: 520px;
+}
+.terms-conditions-2 .ownership-and-u-ectual-property-C61RwL {
+  background-color: transparent;
+  color: var(--fire-bush);
+  font-family: 'Overpass', Helvetica;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 81px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 14440px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .path-13-3cZhlu {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+.terms-conditions-2 .path-292-Ebfosa {
+  background-color: transparent;
+  bottom: calc(12.57% - 1px);
+  height: 7px;
+  left: calc(50.00% - 7px);
+  object-fit: cover;
+  position: absolute;
+  width: 13px;
+}
+.terms-conditions-2 .path-31-d71PT4 {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: calc(100.00% - 5px);
+}
+.terms-conditions-2 .path-32-d71PT4 {
+  background-color: transparent;
+  height: 3px;
+  left: calc(49.94% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(49.94% - 2px);
+  width: 3px;
+}
+.terms-conditions-2 .path-851-C61RwL {
+  background-color: transparent;
+  height: 413px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 27645px;
+  width: 600px;
+}
+.terms-conditions-2 .path-852-C61RwL {
+  background-color: transparent;
+  height: 36px;
+  left: 371px;
+  object-fit: cover;
+  position: absolute;
+  top: 27876px;
+  width: 199px;
+}
+.terms-conditions-2 .pausing-and-can-elling-services-C61RwL {
+  background-color: transparent;
+  color: var(--fire-bush);
+  font-family: 'Overpass', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 133px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  position: absolute;
+  text-align: left;
+  top: 10430px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .payment-authorization-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 39px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 10030px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions-2 .please-read-the-imits-the-manne-C61RwL {
+  background-color: transparent;
+  height: 246px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 21974px;
+  width: 516px;
+}
+.terms-conditions-2 .please-see-our-ft-card-balance-C61RwL {
+  background-color: transparent;
+  height: 54px;
+  left: 42px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 13092px;
+  width: 522px;
+}
+.terms-conditions-2 .privacy-C61RwL {
+  background-color: transparent;
+  height: 22px;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 2116px;
+  white-space: nowrap;
+  width: 96px;
+}
+.terms-conditions-2 .privacy-policy-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 283px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 157px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .privacy-policy-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 248px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 28184px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .product-and-ser-ce-descriptions-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 39px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 6882px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions-2 .ratings-and-reviews-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 18176px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .rectangle-255-Ebfosa {
+  background-color: var(--white);
+  border-radius: 40px;
+  box-shadow: -5px 0px 15px rgba(0,0,0,0.051);;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.terms-conditions-2 .rectangle-57-C61RwL {
+  background-color: var(--white);
+  border-radius: 27px;
+  height: 53px;
+  left: 18px;
+  position: absolute;
+  top: 27867px;
+  width: 559px;
+}
+.terms-conditions-2 .redemption-and-use-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 38px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 12178px;
+  white-space: nowrap;
+  width: 345px;
+}
+.terms-conditions-2 .referral-program-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 156px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 13410px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .rental-policy-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 150px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 157px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .rental-policy-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 248px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 28132px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .reserve-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 4292px;
+  white-space: nowrap;
+  width: 77px;
+}
+.terms-conditions-2 .restrictions-that-apply-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 13954px;
+  white-space: nowrap;
+  width: 385px;
+}
+.terms-conditions-2 .returns-extensi-and-lost-items-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 5936px;
+  white-space: nowrap;
+  width: 566px;
+}
+.terms-conditions-2 .sales-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 4778px;
+  white-space: nowrap;
+  width: 52px;
+}
+.terms-conditions-2 .sign-up-Ebfosa {
+  background-color: transparent;
+  bottom: calc(45.90% - 8px);
+  height: 18px;
+  left: calc(16.52% - 8px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 49px;
+}
+.terms-conditions-2 .sign-up-for-membership-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 398px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 27888px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .site-2019-the-m-rights-reserved-C61RwL {
+  background-color: transparent;
+  height: 22px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 27502px;
+  white-space: nowrap;
+  width: 512px;
+}
+.terms-conditions-2 .some-of-the-pai-bership-service-C61RwL {
+  background-color: transparent;
+  height: 766px;
+  left: 39px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 9254px;
+  width: 526px;
+}
+.terms-conditions-2 .span0-CUfxsI {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.terms-conditions-2 .span0-K3yg6x {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.terms-conditions-2 .span1-CUfxsI {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: italic;
+  font-weight: 400;
+}
+.terms-conditions-2 .span1-K3yg6x {
+  color: rgba(231,148,42,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.terms-conditions-2 .span2-K3yg6x {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.terms-conditions-2 .supportthemercerclubnyccom-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 398px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 28196px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .taxes-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 25917px;
+  white-space: nowrap;
+  width: 515px;
+}
+.terms-conditions-2 .terms-conditions-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 402px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 157px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .terms-conditions-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 248px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 28158px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .terms-conditions-mzXdH9 {
+  background-color: transparent;
+  color: var(--black-haze);
+  font-family: 'Overpass', Helvetica;
+  font-size: 200px;
+  font-style: normal;
+  font-weight: 900;
+  height: 2651px;
+  left: 113px;
+  letter-spacing: 1.60px;
+  line-height: 184px;
+  opacity: 0.19;
+  position: absolute;
+  text-align: left;
+  top: 1260px;
+  width: 270px;
+}
+.terms-conditions-2 .the-digital-mil-available-on-t-C61RwL {
+  background-color: transparent;
+  height: 328px;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 18474px;
+  width: 520px;
+}
+.terms-conditions-2 .the-failure-of-or-eliminated-t-C61RwL {
+  background-color: transparent;
+  height: 113px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 26170px;
+  width: 515px;
+}
+.terms-conditions-2 .the-following-a-ard-constitutes-C61RwL {
+  background-color: transparent;
+  height: 154px;
+  left: 42px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 12026px;
+  width: 522px;
+}
+.terms-conditions-2 .the-mercer-club-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0.28px;
+  line-height: 23px;
+  position: absolute;
+  text-align: left;
+  top: 28096px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .the-mercer-club-Ebfosa {
+  background-color: transparent;
+  bottom: calc(39.13% - 13px);
+  height: 33px;
+  left: calc(47.64% - 104px);
+  letter-spacing: 0.28px;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 218px;
+}
+.terms-conditions-2 .the-mercer-club-packaging-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 5119px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .the-mercer-club-partners-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 39px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 7698px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions-2 .the-mercer-club-the-mercer-club-C61RwL {
+  background-color: transparent;
+  height: 367px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 20916px;
+  width: 516px;
+}
+.terms-conditions-2 .there-may-be-de-will-not-be-li-C61RwL {
+  background-color: transparent;
+  height: 123px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 26328px;
+  width: 514px;
+}
+.terms-conditions-2 .these-terms-are-visions-thereof-C61RwL {
+  background-color: transparent;
+  height: 75px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 21840px;
+  width: 520px;
+}
+.terms-conditions-2 .third-party-materials-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 18778px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .to-the-fullest-liable-to-you-o-C61RwL {
+  background-color: transparent;
+  height: 519px;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 20352px;
+  width: 516px;
+}
+.terms-conditions-2 .tyler-nix-vz-ej-epz-ka-unsplash-C61RwL {
+  background-color: transparent;
+  height: 226px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 289px;
+  width: 562px;
+}
+.terms-conditions-2 .use-of-the-products-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 5650px;
+  white-space: nowrap;
+  width: 388px;
+}
+.terms-conditions-2 .use-restrictions-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 15406px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .waiver-severability-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 26135px;
+  white-space: nowrap;
+  width: 515px;
+}
+.terms-conditions-2 .we-andor-our-su-y-the-materials-C61RwL {
+  background-color: transparent;
+  height: 835px;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 14542px;
+  width: 520px;
+}
+.terms-conditions-2 .we-hereby-notif-ing-current-pro-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Nunito Sans", Helvetica;
+  font-size: 15px;
+  height: 161px;
+  left: 56px;
+  letter-spacing: -0.27px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 25747px;
+  width: 515px;
+}
+.terms-conditions-2 .we-may-at-any-t-ferings-similar-C61RwL {
+  background-color: transparent;
+  height: 579px;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 1538px;
+  width: 537px;
+}
+.terms-conditions-2 .we-may-but-are-xt-billing-date-C61RwL {
+  background-color: transparent;
+  height: 289px;
+  left: 39px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 10526px;
+  width: 526px;
+}
+.terms-conditions-2 .we-may-charge-y-rvices-that-you-C61RwL {
+  background-color: transparent;
+  height: 262px;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 4016px;
+  width: 537px;
+}
+.terms-conditions-2 .we-may-from-tim-return-such-ren-C61RwL {
+  background-color: transparent;
+  height: 138px;
+  left: 38px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 7738px;
+  width: 527px;
+}
+.terms-conditions-2 .we-may-in-our-s-are-accurate-co-C61RwL {
+  background-color: transparent;
+  height: 445px;
+  left: 39px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 6918px;
+  width: 527px;
+}
+.terms-conditions-2 .welcome-to-the-ercerclubnyccom-C61RwL {
+  background-color: transparent;
+  height: 835px;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 652px;
+  width: 537px;
+}
+.terms-conditions-2 .when-you-place-and-up-to-date-C61RwL {
+  background-color: transparent;
+  height: 824px;
+  left: 39px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 7994px;
+  width: 527px;
+}
+.terms-conditions-2 .with-the-delive-ay-not-keep-sel-C61RwL {
+  background-color: transparent;
+  height: 408px;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 5170px;
+  width: 530px;
+}
+.terms-conditions-2 .x-arbitration-ru-od-faith-negoti-C61RwL {
+  background-color: transparent;
+  height: 1819px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 22228px;
+  width: 516px;
+}
+.terms-conditions-2 .x-infringes-misa-rt-control-laws-C61RwL {
+  background-color: transparent;
+  height: 1450px;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 15514px;
+  width: 520px;
+}
+.terms-conditions-2 .you-agree-to-in-ted-to-any-clai-C61RwL {
+  background-color: transparent;
+  height: 363px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 25186px;
+  width: 515px;
+}
+.terms-conditions-2 .you-agree-to-re-ct-including-by-C61RwL {
+  background-color: transparent;
+  height: 860px;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 5990px;
+  width: 530px;
+}
+.terms-conditions-2 .you-agree-to-tr-stains-or-any-o-C61RwL {
+  background-color: transparent;
+  height: 227px;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 5692px;
+  width: 530px;
+}
+.terms-conditions-2 .you-and-the-mer-cations-and-oth-C61RwL {
+  background-color: transparent;
+  height: 181px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 26504px;
+  width: 514px;
+}
+.terms-conditions-2 .you-are-also-re-to-use-or-acce-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 66px;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 16978px;
+  width: 520px;
+}
+.terms-conditions-2 .you-are-respons-nt-that-you-are-C61RwL {
+  background-color: transparent;
+  height: 160px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 24957px;
+  width: 516px;
+}
+.terms-conditions-2 .you-may-not-ass-or-delegate-the-C61RwL {
+  background-color: transparent;
+  height: 118px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 25584px;
+  width: 515px;
+}
+.terms-conditions-2 .you-may-not-red-ur-invitation-o-C61RwL {
+  background-color: transparent;
+  height: 416px;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 13994px;
+  width: 520px;
+}
+.terms-conditions-2 .you-may-termina-newed-after-the-C61RwL {
+  background-color: transparent;
+  height: 623px;
+  left: 39px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 10878px;
+  width: 526px;
+}
+.terms-conditions-2 .you-must-provid-ccount-up-to-da-C61RwL {
+  background-color: transparent;
+  height: 293px;
+  left: 39px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 7418px;
+  width: 527px;
+}
+.terms-conditions-2 .you-must-provid-umber-or-credit-C61RwL {
+  background-color: transparent;
+  height: 316px;
+  left: 39px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 8862px;
+  width: 526px;
+}
+.terms-conditions-2 .you-represent-w-n-a-manner-that-C61RwL {
+  background-color: transparent;
+  height: 66px;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 15440px;
+  width: 520px;
+}
+.terms-conditions-2 .you-should-trea-were-fraudulen-C61RwL {
+  background-color: transparent;
+  height: 186px;
+  left: 38px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 13208px;
+  width: 527px;
+}
+.terms-conditions-2 .you-will-be-res-th-the-services-C61RwL {
+  background-color: transparent;
+  height: 154px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 25953px;
+  width: 515px;
+}
+.terms-conditions-2 .your-content-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 17061px;
+  white-space: nowrap;
+  width: auto;
+}
+.terms-conditions-2 .your-submission-ease-click-here-C61RwL {
+  background-color: transparent;
+  height: 67px;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 2146px;
+  width: 537px;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --black-haze: rgba(247,247,247,1.0);
+  --cararra: rgba(235,235,235,1.0);
+  --dove-gray: rgba(112,112,112,1.0);
+  --fire-bush: rgba(231,148,42,1.0);
+  --gravel: rgba(74,74,74,1.0);
+  --gray: rgba(126,126,126,1.0);
+  --silver: rgba(192,192,192,1.0);
+  --white: rgba(255,255,255,1.0);
+}
+@media screen and (max-width: 1079px) {
+  .terms-conditions { 
+    display: none;
+   }
+  .terms-conditions-1 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1080px) and (max-width: 1919px) {
+  .terms-conditions { 
+    display: none;
+   }
+  .terms-conditions-2 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .terms-conditions-1 { 
+    display: none;
+   }
+  .terms-conditions-2 { 
+    display: none;
+   }
+}

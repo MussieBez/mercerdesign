@@ -1,0 +1,314 @@
+/* ------------Global Styles------------ */
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Overpass", sans-serif;
+}
+
+a,
+button {
+  text-decoration: none;
+}
+
+.containers {
+  padding: 1em 2em;
+}
+
+h1,
+h2 {
+  margin: 0em;
+  font-size: 1em;
+}
+
+p {
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* ------------Header Styles------------ */
+header {
+  box-shadow: 0px 2px 21px 0px rgb(227, 227, 227);
+  width: 100%;
+  background-color: white;
+  position: sticky;
+  top: 0;
+  z-index: 3;
+}
+
+.nav-arrow {
+  margin-top: 1em;
+  height: 10px;
+}
+.grid-nav-container {
+  display: grid;
+  grid-template-columns: 23% 54% 11.5% 11.5%;
+  grid-template-rows: 50px;
+}
+
+.LOG-IN,
+.SIGN-UP {
+  color: rgba(231, 148, 42, 1);
+  align-self: center;
+  font-size: 0.7em;
+}
+
+.LOG-IN {
+  text-align: left;
+}
+.SIGN-UP {
+  text-align: right;
+}
+
+.brand-name {
+  color: black;
+  margin: 0 1em;
+  font-size: 0.75em;
+  font-weight: 900;
+}
+
+header div {
+  padding: 0;
+}
+
+.profile-icon img,
+.profile-icon {
+  align-self: center;
+  height: 2em;
+  justify-self: end;
+}
+
+.logo {
+  align-self: center;
+}
+
+.logo a:hover,
+.logo a:target {
+  color: black;
+  text-decoration: none;
+}
+
+header a:hover,
+header a:target {
+  color: rgba(231, 148, 42, 1);
+  text-decoration: none;
+}
+
+/* ------------Drop Down Menu Styles Within Header------------ */
+.navMenu a {
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  text-decoration: none;
+}
+
+.navMenu .dropdown .dropbtn {
+  border: none;
+  outline: none;
+  background-color: white;
+  margin: 0;
+  width: 100%;
+}
+
+.navMenu .dropdown-content {
+  display: none;
+}
+
+.navMenu .dropdown-content a {
+  color: #fff;
+  text-decoration: none;
+  background-color: white;
+  color: rgb(121, 121, 121);
+  font-weight: 600;
+}
+
+.navMenu .dropdown:hover .dropdown-content {
+  display: grid;
+  grid-template-columns: 30% 40% 30%;
+  justify-content: center;
+  margin-top: 1em;
+}
+
+/* ------------Main Styles------------ */
+main a,
+main a:hover,
+main a:target {
+  color: white;
+  text-decoration: none;
+}
+
+.d-block {
+  display: inline-block !important;
+}
+
+.latest-drops {
+  text-align: center;
+  align-self: center;
+}
+
+.latest-drops h2 {
+  font-size: 1.5em;
+}
+
+.model-picture {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.what-were-about img {
+  height: 4em;
+}
+
+.what-were-about div {
+  padding: 3em;
+}
+
+.row {
+  margin: 0;
+  margin-bottom: 5em;
+}
+
+.submit-btn {
+  background-color: rgba(231, 148, 42, 1);
+  border-radius: 30px;
+  cursor: pointer;
+  color: #ffffff;
+  height: 3.4em;
+  margin: 2em 0;
+  border-style: none;
+  font-weight: 600;
+  font-size: 0.7em;
+  width: 40%;
+}
+
+.what-were-about h3 {
+  margin-top: 1em;
+  font-size: 1.5em;
+}
+
+.what-were-about p {
+  color: rgb(100, 100, 100);
+  font-size: 0.7em;
+}
+/* ------------carousel Styles------------ */
+.carousel-indicators li {
+  background-color: #999;
+  background-color: rgba(70, 70, 70, 0.25);
+}
+
+.carousel-indicators .active {
+  background-color: #444;
+}
+
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+  filter: invert(100%);
+}
+
+p main {
+  color: black;
+}
+
+main h2 {
+  font-size: 1em;
+}
+.w-100 {
+  margin-bottom: 3em;
+}
+.carousel-caption {
+  color: black;
+  padding-top: 3em;
+}
+
+.new-arrivals {
+  font-size: 2em;
+}
+/* ------------Footer Styles------------ */
+footer a,
+footer a:hover,
+footer a:target {
+  color: white;
+  text-decoration: none;
+}
+footer {
+  line-height: 1.5em;
+  text-align: center;
+}
+
+footer .brand-name {
+  font-size: 1em;
+}
+
+footer a,
+footer p {
+  font-size: 0.75em;
+  text-decoration: none;
+  color: rgb(100, 100, 100);
+}
+
+@media (min-width: 768px) {
+  /* ------------Header Styles------------ */
+  .grid-nav-container {
+    display: grid;
+    grid-template-columns: 8em 20em 4em 4em;
+    justify-content: center;
+  }
+
+  .navMenu .dropdown:hover .dropdown-content {
+    grid-template-columns: 8em 8em 8em;
+  }
+
+  /* ------------Main Styles------------ */
+  .submit-btn {
+    font-size: 0.4em;
+  }
+
+  main a {
+    font-size: 2em;
+  }
+
+  .carousel-caption {
+    padding-bottom: 0.5em;
+  }
+
+  .brand-name {
+    font-size: 1.5em;
+  }
+
+  .latest-drops {
+    text-align: left;
+    align-self: center;
+  }
+
+  .wwa-grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  /* ------------Footer Styles------------ */
+  footer {
+    text-align: left;
+    padding: 9em;
+  }
+  footer .brand-name {
+    margin: 0em;
+    font-size: 1.5em;
+  }
+  .grid-footer-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+  }
+  .col-3 img {
+    height: 10%;
+  }
+}
+
+@media (min-width: 1024px) {
+  .w-100 {
+    width: 50% !important;
+  }
+}

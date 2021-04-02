@@ -1,0 +1,4072 @@
+/* screen - rental-policy */
+
+.border-1px-cararra {
+  border: 1px solid var(--cararra);
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.border-3px-black {
+  border: 3px solid var(--black);
+}
+.nunitosans-normal-silver-10px {
+  color: var(--silver);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 400;
+}
+.overpass-black-black-23px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 900;
+}
+.overpass-bold-black-15px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-20px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-fire-bush-12px {
+  color: var(--fire-bush);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-normal-fire-bush-20px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica;
+  font-size: 20px;
+}
+.overpass-normal-gravel-15px {
+  color: var(--gravel);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gravel-15px-2 {
+  color: var(--gravel);
+  font-family: "Overpass", Helvetica;
+  font-size: 15px;
+}
+.overpass-normal-gray-12px {
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-15px {
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 6667px;
+  justify-content: flex-start;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+.rental-policy .a-deliveryall-d-for-not-meetin-VM8DSh {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 286px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  min-height: 286px;
+  position: relative;
+  text-align: left;
+  width: 640px;
+}
+.rental-policy .a-no-indirect-d-ss-of-profits-o-5xB171 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 176px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  min-height: 176px;
+  position: relative;
+  text-align: left;
+  width: 640px;
+}
+.rental-policy .a-receipt-of-th-cknowledge-that-3RAdEZ {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 655px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  min-height: 655px;
+  position: relative;
+  text-align: left;
+  width: 640px;
+}
+.rental-policy .about-us-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 51px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy .b-limited-direc-ll-not-exceed-t-5xB171 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 242px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  margin-left: 17px;
+  min-height: 242px;
+  position: relative;
+  text-align: left;
+  width: 640px;
+}
+.rental-policy .browse-0ubkx9 {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  left: calc(43.07% - 22px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 50px;
+}
+.rental-policy .browse-nlxkfa {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy .c-cleaningall-p-er-club-inc-sha-VM8DSh {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 308px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  margin-left: 17px;
+  min-height: 308px;
+  position: relative;
+  text-align: left;
+  width: 640px;
+}
+.rental-policy .component-21-1-358aYo {
+  background-color: transparent;
+  background-image: url(../img/path-34@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 21px;
+  position: absolute;
+  right: 0px;
+  top: calc(50.00% - 10px);
+  width: 21px;
+}
+.rental-policy .component-22-1-muqwAb {
+  background-color: transparent;
+  height: 21px;
+  left: 224px;
+  position: absolute;
+  top: calc(44.84% - 9px);
+  width: 522px;
+}
+.rental-policy .contact-us-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 7px;
+  min-height: 18px;
+  min-width: 60px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy .customer-service954-787-0304-puVyE2 {
+  background-color: transparent;
+  color: var(--gray);
+  font-family: "Overpass", Helvetica;
+  font-size: 12px;
+  height: 59px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 161px;
+}
+.rental-policy .d-emailwe-will-ose-e-mails-whe-3RAdEZ {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 528px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  margin-left: 17px;
+  min-height: 528px;
+  position: relative;
+  text-align: left;
+  width: 640px;
+}
+.rental-policy .editorial-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 7px;
+  min-height: 18px;
+  min-width: 45px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy .editorial-0ubkx9 {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(43.21% - 24px);
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+.rental-policy .email-XfcshI {
+  background-color: transparent;
+  height: 84.21%;
+  left: 5.45%;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 26.32%;
+  white-space: nowrap;
+  width: 15.76%;
+}
+.rental-policy .email-subscription-GW1jy1 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Overpass', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 798px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 136px;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy .email-yrW0L4 {
+  background-color: transparent;
+  height: 84.21%;
+  left: 5.45%;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 26.32%;
+  white-space: nowrap;
+  width: 15.76%;
+}
+.rental-policy .fa-qs-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 29px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy .faq-fKmFVR {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  min-height: 22px;
+  min-width: 30px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy .flex-col-0xy0vn {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 4056px;
+  position: relative;
+  width: 1938px;
+}
+.rental-policy .flex-col-C61RwL {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: -27px;
+  min-height: 6151px;
+  position: relative;
+  width: 1938px;
+}
+.rental-policy .flex-col-GyJUNH {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: 3.0px;
+  min-height: 833px;
+  position: relative;
+  width: 640px;
+}
+.rental-policy .flex-col-Xi618D {
+  align-items: flex-start;
+  align-self: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: 46.0px;
+  margin-left: 222px;
+  min-height: 70px;
+  position: relative;
+  width: 106px;
+}
+.rental-policy .flex-col-dXBp89 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 174px;
+  position: relative;
+  width: 218px;
+}
+.rental-policy .flex-col-ycScJA {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 334px;
+  margin-top: 19.85px;
+  min-height: 79px;
+  position: relative;
+  width: 175px;
+}
+.rental-policy .flex-row-0xy0vn {
+  align-items: center;
+  align-self: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 1343px;
+  justify-content: flex-start;
+  margin-left: 231.0px;
+  margin-top: 151px;
+  min-width: 1295px;
+  position: relative;
+  width: auto;
+}
+.rental-policy .flex-row-9Sxrs4 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 220px;
+  justify-content: flex-start;
+  margin-left: 233.0px;
+  margin-top: 4px;
+  min-width: 1297px;
+  position: relative;
+  width: auto;
+}
+.rental-policy .flex-row-C61RwL {
+  align-items: flex-start;
+  align-self: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 174px;
+  justify-content: flex-start;
+  margin-right: 43.0px;
+  margin-top: 190px;
+  min-width: 1055px;
+  position: relative;
+  width: auto;
+}
+.rental-policy .flex-row-CwAhOb {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 308px;
+  justify-content: flex-start;
+  margin-left: 233.0px;
+  margin-top: 7px;
+  min-width: 1297px;
+  position: relative;
+  width: auto;
+}
+.rental-policy .flex-row-NEryYQ {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 374px;
+  justify-content: flex-start;
+  margin-left: 233.0px;
+  margin-top: 4px;
+  min-width: 1297px;
+  position: relative;
+  width: auto;
+}
+.rental-policy .flex-row-vzHI8C {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 242px;
+  justify-content: flex-start;
+  margin-left: 233.0px;
+  margin-top: 7px;
+  min-width: 1297px;
+  position: relative;
+  width: auto;
+}
+.rental-policy .flex-row-xoTq4a {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 655px;
+  justify-content: flex-start;
+  margin-left: 233.0px;
+  margin-top: 7px;
+  min-width: 1297px;
+  position: relative;
+  width: auto;
+}
+.rental-policy .flex-row-xpmbvu {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 22px;
+  justify-content: flex-start;
+  margin-right: 513.0px;
+  margin-top: 181px;
+  min-width: 551px;
+  position: relative;
+  width: auto;
+}
+.rental-policy .group-163-OOPFAM {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 100%;
+  left: 51.61%;
+  position: absolute;
+  top: 0px;
+  width: 48.39%;
+}
+.rental-policy .group-163-dYmxNj {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 100%;
+  left: 68.09%;
+  position: absolute;
+  top: 0px;
+  width: 31.91%;
+}
+.rental-policy .group-164-OOPFAM {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 48.39%;
+}
+.rental-policy .group-164-dYmxNj {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 100%;
+  left: 34.04%;
+  position: absolute;
+  top: 0px;
+  width: 31.91%;
+}
+.rental-policy .group-172-Oq4yWJ {
+  background-color: transparent;
+  height: 100%;
+  left: -101.43%;
+  position: relative;
+  top: 0px;
+  width: 97.43%;
+}
+.rental-policy .group-172-i5lxlV {
+  background-color: transparent;
+  height: 100%;
+  left: 102.49%;
+  position: relative;
+  top: 0px;
+  width: 99.04%;
+}
+.rental-policy .group-173-BWYyxP {
+  background-color: transparent;
+  background-image: url(../img/path-34@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 100%;
+  position: absolute;
+  right: 323px;
+  top: 0px;
+  width: 21px;
+}
+.rental-policy .group-174-dYmxNj {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31.91%;
+}
+.rental-policy .group-179-muqwAb {
+  background-color: var(--white);
+  box-shadow: -5px 0px 15px rgba(0,0,0,0.051);;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.rental-policy .group-5-2LyrUC {
+  background-color: transparent;
+  background-image: url(../img/path-27@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 1px);
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 12px;
+}
+.rental-policy .group-6-2LyrUC {
+  background-color: transparent;
+  background-image: url(../img/path-28@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 1px);
+  left: calc(34.59% - 4px);
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+.rental-policy .group-7-2LyrUC {
+  background-color: transparent;
+  background-image: url(../img/path-30@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 100%;
+  position: absolute;
+  right: calc(32.50% - 4px);
+  top: 1px;
+  width: 12px;
+}
+.rental-policy .group-8-9HOxau {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 12px;
+  margin-left: 0.0px;
+  position: relative;
+  width: 79px;
+}
+.rental-policy .img7544-xpmbvu {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 413px;
+  margin-left: 12.0px;
+  margin-top: 83px;
+  object-fit: cover;
+  position: relative;
+  width: 1514px;
+}
+.rental-policy .in-addition-at-ue-provided-tha-JqV6J8 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 374px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  margin-left: 17px;
+  min-height: 374px;
+  position: relative;
+  text-align: left;
+  width: 640px;
+}
+.rental-policy .line-2-SkFUBF {
+  background-color: transparent;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(31.93% - 2px);
+  top: calc(49.93% - 1px);
+  width: 7px;
+}
+.rental-policy .line-2-hxbpWu {
+  background-color: transparent;
+  bottom: calc(49.93% - 1px);
+  height: 2px;
+  left: calc(31.93% - 2px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+.rental-policy .line-4-xpmbvu {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 5px;
+  margin-right: 761.0px;
+  margin-top: 4px;
+  object-fit: cover;
+  position: relative;
+  width: 94px;
+}
+.rental-policy .log-in-e4xgKU {
+  background-color: transparent;
+  height: 21px;
+  position: absolute;
+  right: calc(25.80% - 90px);
+  top: calc(44.84% - 9px);
+  width: 350px;
+}
+.rental-policy .log-in-muqwAb {
+  background-color: transparent;
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(40.55% - 17px);
+  text-align: left;
+  top: calc(47.54% - 9px);
+  white-space: nowrap;
+  width: 41px;
+}
+.rental-policy .mask-group-1-358aYo {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: calc(50.00% - 10px);
+  width: 522px;
+}
+.rental-policy .mask-group-1-BWYyxP {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.rental-policy .membership-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 7px;
+  min-height: 18px;
+  min-width: 69px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy .membership-0ubkx9 {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  left: calc(49.89% - 42px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 85px;
+}
+.rental-policy .name-E4z7x9 {
+  background-color: transparent;
+  height: 84.21%;
+  left: 5.45%;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 26.32%;
+  white-space: nowrap;
+  width: 16.97%;
+}
+.rental-policy .nav-xpmbvu {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 79px;
+  position: relative;
+  width: 1920px;
+}
+.rental-policy .our-products-ma-age-you-may-acc-4xxXEe {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 220px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  margin-left: 17px;
+  min-height: 220px;
+  position: relative;
+  text-align: left;
+  width: 640px;
+}
+.rental-policy .overlap-group-xpmbvu {
+  align-self: flex-start;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 483px;
+  margin-top: 97px;
+  position: relative;
+  width: 1882px;
+}
+.rental-policy .overlap-group1-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 47px;
+  position: relative;
+  width: 218px;
+}
+.rental-policy .overlap-group2-9HOxau {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 65px;
+  margin-top: 1px;
+  position: relative;
+  width: 175px;
+}
+.rental-policy .overlap-group3-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 413px;
+  margin-top: 187px;
+  position: relative;
+  width: 1920px;
+}
+.rental-policy .password-WmNwgv {
+  background-color: transparent;
+  height: 84.21%;
+  left: 5.45%;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 26.32%;
+  white-space: nowrap;
+  width: 27.88%;
+}
+.rental-policy .password-atNbiA {
+  background-color: transparent;
+  height: 84.21%;
+  left: 5.45%;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 26.32%;
+  white-space: nowrap;
+  width: 27.88%;
+}
+.rental-policy .path-13-2LyrUC {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+.rental-policy .path-292-muqwAb {
+  background-color: transparent;
+  bottom: calc(12.57% - 1px);
+  height: 7px;
+  left: calc(50.00% - 7px);
+  object-fit: cover;
+  position: absolute;
+  width: 13px;
+}
+.rental-policy .path-31-OnRYQe {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: calc(100.00% - 5px);
+}
+.rental-policy .path-32-OnRYQe {
+  background-color: transparent;
+  height: 3px;
+  left: calc(49.94% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(49.94% - 2px);
+  width: 3px;
+}
+.rental-policy .path-5-SkFUBF {
+  background-color: transparent;
+  height: 12px;
+  left: calc(31.78% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(49.13% - 6px);
+  width: 7px;
+}
+.rental-policy .path-5-hxbpWu {
+  background-color: transparent;
+  bottom: calc(49.13% - 6px);
+  height: 12px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(31.78% - 2px);
+  width: 7px;
+}
+.rental-policy .placeholder-person-muqwAb {
+  background-color: transparent;
+  border-radius: 14.5px;
+  height: 29px;
+  object-fit: cover;
+  position: absolute;
+  right: 205px;
+  top: calc(50.00% - 14px);
+  width: 29px;
+}
+.rental-policy .privacy-policy-fKmFVR {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-left: 75px;
+  min-height: 22px;
+  min-width: 90px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy .privacy-policy-y0eQTV {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 73px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy .ray-tiller-j-du-rftv-m-unsplash-GyJUNH {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1343px;
+  margin-left: 17px;
+  object-fit: cover;
+  position: relative;
+  width: 638px;
+}
+.rental-policy .rectangle-24-GW1jy1 {
+  background-color: var(--black);
+  height: 413px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.rental-policy .rectangle-255-muqwAb {
+  background-color: var(--white);
+  box-shadow: -5px 0px 15px rgba(0,0,0,0.051);;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.rental-policy .rectangle-57-GW1jy1 {
+  background-color: var(--white);
+  border-radius: 27px;
+  height: 53px;
+  left: 496px;
+  position: absolute;
+  top: 208px;
+  width: 928px;
+}
+.rental-policy .rectangle-58-GW1jy1 {
+  background-color: var(--fire-bush);
+  border-radius: 24px;
+  height: 41px;
+  left: 1218px;
+  position: absolute;
+  top: 214px;
+  width: 199px;
+}
+.rental-policy .rental-policy-O40pOL {
+  background-color: transparent;
+  color: var(--black-haze);
+  font-family: 'Overpass', Helvetica;
+  font-size: 200px;
+  font-style: normal;
+  font-weight: 900;
+  height: 479px;
+  left: 0px;
+  letter-spacing: 1.60px;
+  line-height: 184px;
+  opacity: 0.7;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 1882px;
+}
+.rental-policy .rental-policy-fKmFVR {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-left: 77px;
+  min-height: 22px;
+  min-width: 85px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy .rental-policy-y0eQTV {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  min-height: 18px;
+  min-width: 69px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy .sign-up-for-membership-GW1jy1 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 1237px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 229px;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy .sign-up-muqwAb {
+  background-color: transparent;
+  height: 18px;
+  left: calc(40.19% - 20px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: calc(47.54% - 9px);
+  white-space: nowrap;
+  width: 49px;
+}
+.rental-policy .span0-9YBJLp {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy .span0-LeajNK {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy .span0-Zafaqs {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy .span0-u04AXG {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy .span0-ubza6I {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy .span0-yYfK9i {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy .span0-yu79uS {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy .span1-9YBJLp {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy .span1-LeajNK {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy .span1-Zafaqs {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy .span1-u04AXG {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy .span1-ubza6I {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy .span1-yYfK9i {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy .span1-yu79uS {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: italic;
+  font-weight: 400;
+}
+.rental-policy .span2-LeajNK {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy .span2-Zafaqs {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy .span2-u04AXG {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy .span2-ubza6I {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy .span2-yYfK9i {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy .span3-LeajNK {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy .span3-Zafaqs {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy .span3-u04AXG {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy .span3-ubza6I {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy .span3-yYfK9i {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy .span4-LeajNK {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy .span4-ubza6I {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy .span4-yYfK9i {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy .span5-LeajNK {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy .span5-ubza6I {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy .span5-yYfK9i {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy .span6-ubza6I {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy .span7-ubza6I {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy .star-with-your-email-GW1jy1 {
+  background-color: transparent;
+  color: var(--silver);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 15px;
+  font-style: italic;
+  font-weight: 300;
+  height: auto;
+  left: 539px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 228px;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy .supportthemercerclubnyccom-puVyE2 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 47px;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy .terms-conditions-fKmFVR {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-left: 62px;
+  min-height: 22px;
+  min-width: 132px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy .terms-conditions-y0eQTV {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 106px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy .the-mercer-club-muqwAb {
+  background-color: transparent;
+  bottom: calc(47.83% - 16px);
+  height: 33px;
+  letter-spacing: 0.28px;
+  line-height: 23px;
+  position: absolute;
+  right: calc(49.94% - 109px);
+  text-align: center;
+  white-space: nowrap;
+  width: 218px;
+}
+.rental-policy .the-mercer-club-nlxkfa {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.28px;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy .the-rental-fee-ur-order-you-he-JqV6J8 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 198px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  margin-top: 10.0px;
+  min-height: 198px;
+  position: relative;
+  text-align: left;
+  width: 640px;
+}
+.rental-policy .these-terms-and-d-rent-articles-O40pOL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 359px;
+  left: 437px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 124px;
+  width: 1297px;
+}
+.rental-policy .this-agreement-and-oral-agreem-3xHcwy {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 797px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  margin-top: 7px;
+  min-height: 797px;
+  position: relative;
+  text-align: left;
+  width: 640px;
+}
+.rental-policy .this-agreement-set-forth-in-t-4xxXEe {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 176px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  margin-top: 10.0px;
+  min-height: 176px;
+  position: relative;
+  text-align: left;
+  width: 640px;
+}
+.rental-policy .x1-general-renta-eement-required-xpmbvu {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-bottom: -3px;
+  margin-left: 14.0px;
+  margin-top: 150px;
+  min-height: 22px;
+  overflow: hidden;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 1078px;
+}
+.rental-policy .x2-rental-fees-c-s-cancellations-xpmbvu {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-bottom: -3px;
+  margin-left: 233.0px;
+  margin-top: 149px;
+  min-height: 22px;
+  overflow: hidden;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 1297px;
+}
+.rental-policy .x3-the-mercer-club-offering-xpmbvu {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-left: 233.0px;
+  margin-top: 149px;
+  min-height: 29px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 1297px;
+}
+.rental-policy .x4-your-commitme-of-retail-value-xpmbvu {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-left: 233.0px;
+  margin-top: 149px;
+  min-height: 29px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 1297px;
+}
+.rental-policy .x5-limitation-of-liability-xpmbvu {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-left: 98.0px;
+  margin-top: 132px;
+  min-height: 29px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 1162px;
+}
+.rental-policy .x6-miscellaneous-3xHcwy {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  min-height: 29px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 640px;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --black-haze: rgba(247,247,247,1.0);
+  --cararra: rgba(235,235,235,1.0);
+  --dove-gray: rgba(112,112,112,1.0);
+  --fire-bush: rgba(231,148,42,1.0);
+  --gravel: rgba(74,74,74,1.0);
+  --gray: rgba(126,126,126,1.0);
+  --silver: rgba(192,192,192,1.0);
+  --white: rgba(255,255,255,1.0);
+}
+/* screen - rental-policy-1 */
+
+.border-1px-cararra {
+  border: 1px solid var(--cararra);
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.border-3px-black {
+  border: 3px solid var(--black);
+}
+.nunitosans-normal-silver-10px {
+  color: var(--silver);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 400;
+}
+.overpass-black-black-23px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 900;
+}
+.overpass-bold-black-15px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-20px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-fire-bush-12px {
+  color: var(--fire-bush);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-normal-fire-bush-20px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica;
+  font-size: 20px;
+}
+.overpass-normal-gravel-15px {
+  color: var(--gravel);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gravel-15px-2 {
+  color: var(--gravel);
+  font-family: "Overpass", Helvetica;
+  font-size: 15px;
+}
+.overpass-normal-gray-12px {
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-15px {
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 6667px;
+  justify-content: flex-start;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1080px;
+}
+.rental-policy-1 .a-deliveryall-d-for-not-meetin-gD87cZ {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 384px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  min-height: 384px;
+  position: relative;
+  text-align: left;
+  width: 463px;
+}
+.rental-policy-1 .a-no-indirect-d-ss-of-profits-o-xWQcfe {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 227px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  min-height: 227px;
+  position: relative;
+  text-align: left;
+  width: 463px;
+}
+.rental-policy-1 .a-receipt-of-th-cknowledge-that-RgyNpo {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 842px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  min-height: 842px;
+  position: relative;
+  text-align: left;
+  width: 463px;
+}
+.rental-policy-1 .about-us-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 51px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-1 .b-limited-direc-ll-not-exceed-t-xWQcfe {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 314px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  margin-left: 54px;
+  min-height: 314px;
+  position: relative;
+  text-align: left;
+  width: 396px;
+}
+.rental-policy-1 .browse-bh6aaC {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  left: calc(43.11% - 22px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 50px;
+}
+.rental-policy-1 .browse-nlxkfa {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-1 .c-cleaningall-p-er-club-inc-sha-gD87cZ {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  margin-left: 54px;
+  min-height: 410px;
+  position: relative;
+  text-align: left;
+  width: 396px;
+}
+.rental-policy-1 .contact-us-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 60px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-1 .customer-service954-787-0304-puVyE2 {
+  background-color: transparent;
+  color: var(--gray);
+  font-family: "Overpass", Helvetica;
+  font-size: 12px;
+  height: 59px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 161px;
+}
+.rental-policy-1 .d-emailwe-will-ose-e-mails-whe-RgyNpo {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 754px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  margin-left: 54px;
+  min-height: 754px;
+  position: relative;
+  text-align: left;
+  width: 396px;
+}
+.rental-policy-1 .editorial-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 45px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-1 .editorial-bh6aaC {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(43.16% - 24px);
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+.rental-policy-1 .email-subscription-y1HRxC {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Overpass', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 394px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 174px;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-1 .fa-qs-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 29px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-1 .faq-GyJUNH {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  min-height: 22px;
+  min-width: 30px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-1 .flex-col-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 6199px;
+  position: relative;
+  width: 1376px;
+}
+.rental-policy-1 .flex-col-Xi618D {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: 48.0px;
+  margin-left: 126px;
+  min-height: 70px;
+  position: relative;
+  width: 106px;
+}
+.rental-policy-1 .flex-col-dXBp89 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 178px;
+  position: relative;
+  width: 218px;
+}
+.rental-policy-1 .flex-col-ycScJA {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: 41.15px;
+  margin-left: 206px;
+  min-height: 79px;
+  position: relative;
+  width: 175px;
+}
+.rental-policy-1 .flex-row-0aLMTk {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 1258px;
+  justify-content: flex-start;
+  margin-left: 79px;
+  margin-top: 24px;
+  min-width: 911px;
+  position: relative;
+  width: auto;
+}
+.rental-policy-1 .flex-row-0xy0vn {
+  align-items: flex-start;
+  align-self: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 22px;
+  justify-content: flex-start;
+  margin-right: 293.0px;
+  margin-top: 181px;
+  min-width: 551px;
+  position: relative;
+  width: auto;
+}
+.rental-policy-1 .flex-row-4iD7zR {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 578px;
+  justify-content: flex-start;
+  margin-left: 79px;
+  margin-top: 15px;
+  min-width: 913px;
+  position: relative;
+  width: auto;
+}
+.rental-policy-1 .flex-row-C61RwL {
+  align-items: center;
+  align-self: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 178px;
+  justify-content: flex-start;
+  margin-left: 63.0px;
+  margin-top: 99px;
+  min-width: 831px;
+  position: relative;
+  width: auto;
+}
+.rental-policy-1 .flex-row-OtmKqf {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 326px;
+  justify-content: flex-start;
+  margin-left: 79px;
+  margin-top: 24px;
+  min-width: 913px;
+  position: relative;
+  width: auto;
+}
+.rental-policy-1 .flex-row-oV5UrE {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 333px;
+  justify-content: flex-start;
+  margin-left: 79px;
+  margin-top: 15px;
+  min-width: 913px;
+  position: relative;
+  width: auto;
+}
+.rental-policy-1 .flex-row-t6Autm {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 419px;
+  justify-content: flex-start;
+  margin-left: 79px;
+  margin-top: 35px;
+  min-width: 913px;
+  position: relative;
+  width: auto;
+}
+.rental-policy-1 .flex-row-uPORJx {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 842px;
+  justify-content: flex-start;
+  margin-left: 79px;
+  margin-top: 45px;
+  min-width: 913px;
+  position: relative;
+  width: auto;
+}
+.rental-policy-1 .group-179-dsfOTe {
+  background-color: var(--white);
+  box-shadow: -5px 0px 15px rgba(0,0,0,0.051);;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.rental-policy-1 .group-5-2LyrUC {
+  background-color: transparent;
+  background-image: url(../img/path-27@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 1px);
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 12px;
+}
+.rental-policy-1 .group-6-2LyrUC {
+  background-color: transparent;
+  background-image: url(../img/path-28@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 1px);
+  left: calc(34.59% - 4px);
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+.rental-policy-1 .group-7-2LyrUC {
+  background-color: transparent;
+  background-image: url(../img/path-30@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 100%;
+  position: absolute;
+  right: calc(32.50% - 4px);
+  top: 1px;
+  width: 12px;
+}
+.rental-policy-1 .group-8-9HOxau {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 12px;
+  margin-left: 0.0px;
+  position: relative;
+  width: 79px;
+}
+.rental-policy-1 .img7544-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 413px;
+  margin-left: 56px;
+  margin-top: 58px;
+  object-fit: cover;
+  position: relative;
+  width: 971px;
+}
+.rental-policy-1 .in-addition-at-ue-provided-tha-ossvxU {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 578px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  margin-left: 75px;
+  min-height: 578px;
+  position: relative;
+  text-align: left;
+  width: 396px;
+}
+.rental-policy-1 .line-4-0xy0vn {
+  align-self: center;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 5px;
+  margin-right: 541.0px;
+  margin-top: 4px;
+  object-fit: cover;
+  position: relative;
+  width: 94px;
+}
+.rental-policy-1 .log-in-dsfOTe {
+  background-color: transparent;
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(32.63% - 13px);
+  text-align: left;
+  top: calc(47.54% - 9px);
+  white-space: nowrap;
+  width: 41px;
+}
+.rental-policy-1 .membership-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 69px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-1 .membership-bh6aaC {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  left: calc(49.94% - 42px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 85px;
+}
+.rental-policy-1 .nav-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 79px;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 1080px;
+}
+.rental-policy-1 .nav-0xy0vn:hover {
+
+transform: translate(0, -5px);
+}
+.rental-policy-1 .our-products-ma-age-you-may-acc-QkTteQ {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 333px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  margin-left: 75px;
+  min-height: 333px;
+  position: relative;
+  text-align: left;
+  width: 396px;
+}
+.rental-policy-1 .overlap-group-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 413px;
+  margin-top: 130px;
+  position: relative;
+  width: 1080px;
+}
+.rental-policy-1 .overlap-group1-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 48px;
+  position: relative;
+  width: 218px;
+}
+.rental-policy-1 .overlap-group2-9HOxau {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 65px;
+  margin-top: 1px;
+  position: relative;
+  width: 175px;
+}
+.rental-policy-1 .path-13-2LyrUC {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+.rental-policy-1 .path-292-dsfOTe {
+  background-color: transparent;
+  bottom: calc(12.57% - 1px);
+  height: 7px;
+  left: calc(50.00% - 7px);
+  object-fit: cover;
+  position: absolute;
+  width: 13px;
+}
+.rental-policy-1 .path-31-OnRYQe {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: calc(100.00% - 5px);
+}
+.rental-policy-1 .path-32-OnRYQe {
+  background-color: transparent;
+  height: 3px;
+  left: calc(49.94% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(49.94% - 2px);
+  width: 3px;
+}
+.rental-policy-1 .path-851-y1HRxC {
+  background-color: transparent;
+  height: 413px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1080px;
+}
+.rental-policy-1 .path-852-y1HRxC {
+  background-color: transparent;
+  height: 41px;
+  left: 766px;
+  object-fit: cover;
+  position: absolute;
+  top: 242px;
+  width: 199px;
+}
+.rental-policy-1 .placeholder-person-dsfOTe {
+  background-color: transparent;
+  border-radius: 14.5px;
+  height: 29px;
+  object-fit: cover;
+  position: absolute;
+  right: 80px;
+  top: calc(50.00% - 14px);
+  width: 29px;
+}
+.rental-policy-1 .privacy-policy-GyJUNH {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-left: 75px;
+  min-height: 22px;
+  min-width: 90px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-1 .privacy-policy-y0eQTV {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 73px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-1 .ray-tiller-j-du-rftv-m-unsplash-O2UJZ2 {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1255px;
+  margin-left: 54px;
+  object-fit: cover;
+  position: relative;
+  width: 394px;
+}
+.rental-policy-1 .rectangle-255-dsfOTe {
+  background-color: var(--white);
+  border-radius: 40px;
+  box-shadow: -5px 0px 15px rgba(0,0,0,0.051);;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.rental-policy-1 .rectangle-57-y1HRxC {
+  background-color: var(--white);
+  border-radius: 27px;
+  height: 53px;
+  left: 94px;
+  position: absolute;
+  top: 236px;
+  width: 882px;
+}
+.rental-policy-1 .rental-policy-GyJUNH {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-left: 77px;
+  min-height: 22px;
+  min-width: 85px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-1 .rental-policy-y0eQTV {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  min-height: 18px;
+  min-width: 69px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-1 .sign-up-dsfOTe {
+  background-color: transparent;
+  height: 18px;
+  left: calc(31.13% - 15px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: calc(49.18% - 9px);
+  white-space: nowrap;
+  width: 49px;
+}
+.rental-policy-1 .sign-up-for-membership-y1HRxC {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 792px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 257px;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-1 .span0-BtCibU {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy-1 .span0-M6Pcku {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy-1 .span0-Z2Opzr {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy-1 .span0-bxgF2y {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy-1 .span0-i1f73o {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy-1 .span0-vSJOfk {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy-1 .span0-yu79uS {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-1 .span1-BtCibU {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-1 .span1-M6Pcku {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-1 .span1-Z2Opzr {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-1 .span1-bxgF2y {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-1 .span1-i1f73o {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-1 .span1-vSJOfk {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-1 .span1-yu79uS {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: italic;
+  font-weight: 400;
+}
+.rental-policy-1 .span2-M6Pcku {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy-1 .span2-Z2Opzr {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy-1 .span2-bxgF2y {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy-1 .span2-i1f73o {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy-1 .span2-vSJOfk {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy-1 .span3-M6Pcku {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-1 .span3-Z2Opzr {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-1 .span3-bxgF2y {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-1 .span3-i1f73o {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-1 .span3-vSJOfk {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-1 .span4-M6Pcku {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy-1 .span4-Z2Opzr {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy-1 .span4-i1f73o {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy-1 .span5-M6Pcku {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-1 .span5-Z2Opzr {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-1 .span5-i1f73o {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-1 .span6-Z2Opzr {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy-1 .span7-Z2Opzr {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-1 .supportthemercerclubnyccom-puVyE2 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 47px;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-1 .terms-conditions-GyJUNH {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-left: 62px;
+  min-height: 22px;
+  min-width: 132px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-1 .terms-conditions-y0eQTV {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 106px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-1 .the-mercer-club-dsfOTe {
+  background-color: transparent;
+  bottom: calc(47.83% - 16px);
+  height: 33px;
+  left: calc(49.42% - 108px);
+  letter-spacing: 0.28px;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 218px;
+}
+.rental-policy-1 .the-mercer-club-nlxkfa {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.28px;
+  line-height: 23px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-1 .the-rental-fee-ur-order-you-he-ossvxU {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 291px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  min-height: 291px;
+  position: relative;
+  text-align: left;
+  width: 442px;
+}
+.rental-policy-1 .these-terms-and-d-rent-articles-0xy0vn {
+  background-color: transparent;
+  color: var(--black);
+  flex-shrink: 1;
+  font-family: 'Overpass', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 423px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-left: 93px;
+  margin-top: 118px;
+  min-height: 423px;
+  position: relative;
+  text-align: left;
+  width: 899px;
+}
+.rental-policy-1 .this-agreement-and-oral-agreem-O2UJZ2 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 797px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  min-height: 797px;
+  position: relative;
+  text-align: left;
+  width: 463px;
+}
+.rental-policy-1 .this-agreement-set-forth-in-t-QkTteQ {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 254px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  min-height: 254px;
+  position: relative;
+  text-align: left;
+  width: 442px;
+}
+.rental-policy-1 .x1-general-renta-eement-required-0xy0vn {
+  background-color: transparent;
+  color: var(--black);
+  flex-shrink: 1;
+  font-family: 'Overpass', Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  height: 33px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-left: 79px;
+  margin-top: 103px;
+  min-height: 33px;
+  position: relative;
+  text-align: left;
+  width: 574px;
+}
+.rental-policy-1 .x2-rental-fees-c-s-cancellations-0xy0vn {
+  background-color: transparent;
+  color: var(--black);
+  flex-shrink: 1;
+  font-family: 'Overpass', Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  height: 39px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-left: 79px;
+  margin-top: 14px;
+  min-height: 39px;
+  position: relative;
+  text-align: left;
+  width: 482px;
+}
+.rental-policy-1 .x3-the-mercer-club-offering-0xy0vn {
+  align-self: flex-end;
+  background-color: transparent;
+  color: var(--black);
+  flex-shrink: 1;
+  font-family: 'Overpass', Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-top: 31px;
+  min-height: 29px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 1297px;
+}
+.rental-policy-1 .x4-your-commitme-of-retail-value-0xy0vn {
+  background-color: transparent;
+  color: var(--black);
+  flex-shrink: 1;
+  font-family: 'Overpass', Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-left: 79px;
+  margin-top: 34px;
+  min-height: 29px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 500px;
+}
+.rental-policy-1 .x5-limitation-of-liability-0xy0vn {
+  align-self: center;
+  background-color: transparent;
+  color: var(--black);
+  flex-shrink: 1;
+  font-family: 'Overpass', Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-right: 56.0px;
+  margin-top: 39px;
+  min-height: 29px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 1162px;
+}
+.rental-policy-1 .x6-miscellaneous-0xy0vn {
+  background-color: transparent;
+  color: var(--black);
+  flex-shrink: 1;
+  font-family: 'Overpass', Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-left: 79px;
+  margin-top: 23px;
+  min-height: 29px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 640px;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --black-haze: rgba(247,247,247,1.0);
+  --cararra: rgba(235,235,235,1.0);
+  --dove-gray: rgba(112,112,112,1.0);
+  --fire-bush: rgba(231,148,42,1.0);
+  --gravel: rgba(74,74,74,1.0);
+  --gray: rgba(126,126,126,1.0);
+  --silver: rgba(192,192,192,1.0);
+  --white: rgba(255,255,255,1.0);
+}
+/* screen - rental-policy-2 */
+
+.border-1px-cararra {
+  border: 1px solid var(--cararra);
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.border-3px-black {
+  border: 3px solid var(--black);
+}
+.nunitosans-normal-silver-10px {
+  color: var(--silver);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 400;
+}
+.overpass-black-black-23px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 900;
+}
+.overpass-bold-black-15px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-20px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-fire-bush-12px {
+  color: var(--fire-bush);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-normal-fire-bush-20px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica;
+  font-size: 20px;
+}
+.overpass-normal-gravel-15px {
+  color: var(--gravel);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gravel-15px-2 {
+  color: var(--gravel);
+  font-family: "Overpass", Helvetica;
+  font-size: 15px;
+}
+.overpass-normal-gray-12px {
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-15px {
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 7850px;
+  justify-content: flex-start;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 600px;
+}
+.rental-policy-2 .a-deliveryall-d-for-not-meetin-NG5cxJ {
+  background-color: transparent;
+  height: 384px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 509px;
+}
+.rental-policy-2 .a-no-indirect-d-ss-of-profits-o-52Wjwg {
+  background-color: transparent;
+  height: 227px;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 1446px;
+  width: 506px;
+}
+.rental-policy-2 .a-receipt-of-th-cknowledge-that-52Wjwg {
+  background-color: transparent;
+  height: 842px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 508px;
+}
+.rental-policy-2 .about-us-5AJyKP {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  min-height: 18px;
+  min-width: 51px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-2 .b-limited-direc-ll-not-exceed-t-52Wjwg {
+  background-color: transparent;
+  height: 271px;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 1668px;
+  width: 504px;
+}
+.rental-policy-2 .browse-E99VDD {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-2 .browse-bh6aaC {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  left: calc(43.19% - 22px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 50px;
+}
+.rental-policy-2 .c-cleaningall-p-er-club-inc-sha-NG5cxJ {
+  background-color: transparent;
+  height: 337px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 376px;
+  width: 508px;
+}
+.rental-policy-2 .contact-us-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 60px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-2 .customer-service954-787-0304-xMQYUC {
+  background-color: transparent;
+  color: var(--gray);
+  font-family: "Overpass", Helvetica;
+  font-size: 12px;
+  height: 59px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 161px;
+}
+.rental-policy-2 .d-emailwe-will-ose-e-mails-whe-52Wjwg {
+  background-color: transparent;
+  height: 754px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 747px;
+  width: 508px;
+}
+.rental-policy-2 .editorial-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 45px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-2 .editorial-bh6aaC {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(43.01% - 24px);
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+.rental-policy-2 .email-subscription-rf3da9 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Overpass', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 154px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 174px;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-2 .fa-qs-Bx5qIC {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  min-height: 18px;
+  min-width: 29px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-2 .faq-GyJUNH {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  min-height: 22px;
+  min-width: 30px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-2 .flex-col-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 7459px;
+  position: relative;
+  width: 674px;
+}
+.rental-policy-2 .flex-col-Xi618D {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: 21.15px;
+  margin-left: 44px;
+  min-height: 79px;
+  position: relative;
+  width: 175px;
+}
+.rental-policy-2 .flex-col-dXBp89 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 178px;
+  position: relative;
+  width: 307px;
+}
+.rental-policy-2 .flex-row-0PZcXW {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 24px;
+  justify-content: flex-start;
+  margin-top: 2px;
+  min-width: 307px;
+  position: relative;
+  width: auto;
+}
+.rental-policy-2 .flex-row-0xy0vn {
+  align-items: flex-start;
+  align-self: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 22px;
+  justify-content: flex-start;
+  margin-right: 71.0px;
+  margin-top: 97px;
+  min-width: 457px;
+  position: relative;
+  width: auto;
+}
+.rental-policy-2 .flex-row-C61RwL {
+  align-items: center;
+  align-self: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 178px;
+  justify-content: flex-start;
+  margin-left: 20.0px;
+  margin-top: 38px;
+  min-width: 526px;
+  position: relative;
+  width: auto;
+}
+.rental-policy-2 .flex-row-gNHDIV {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 24px;
+  justify-content: flex-start;
+  margin-top: 2px;
+  min-width: 274px;
+  position: relative;
+  width: auto;
+}
+.rental-policy-2 .group-179-dsfOTe {
+  background-color: var(--white);
+  box-shadow: -5px 0px 15px rgba(0,0,0,0.051);;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.rental-policy-2 .group-5-tlDSyd {
+  background-color: transparent;
+  background-image: url(../img/path-27@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 1px);
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 12px;
+}
+.rental-policy-2 .group-6-tlDSyd {
+  background-color: transparent;
+  background-image: url(../img/path-28-3@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 1px);
+  left: calc(34.59% - 4px);
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+.rental-policy-2 .group-7-tlDSyd {
+  background-color: transparent;
+  background-image: url(../img/path-30-5@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 100%;
+  position: absolute;
+  right: calc(32.50% - 4px);
+  top: 1px;
+  width: 12px;
+}
+.rental-policy-2 .group-8-y0eQTV {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 12px;
+  margin-left: 0.0px;
+  position: relative;
+  width: 79px;
+}
+.rental-policy-2 .img7544-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 302px;
+  margin-left: 31px;
+  margin-top: 6px;
+  object-fit: cover;
+  position: relative;
+  width: 538px;
+}
+.rental-policy-2 .in-addition-at-ue-provided-tha-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 445px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  margin-left: 31px;
+  margin-top: 14px;
+  min-height: 445px;
+  position: relative;
+  text-align: left;
+  width: 509px;
+}
+.rental-policy-2 .line-4-0xy0vn {
+  align-self: center;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 5px;
+  margin-right: 272.0px;
+  margin-top: 4px;
+  object-fit: cover;
+  position: relative;
+  width: 89px;
+}
+.rental-policy-2 .log-in-dsfOTe {
+  background-color: transparent;
+  bottom: calc(45.90% - 8px);
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(20.93% - 9px);
+  text-align: left;
+  white-space: nowrap;
+  width: 41px;
+}
+.rental-policy-2 .membership-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 2px;
+  min-height: 18px;
+  min-width: 69px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-2 .membership-bh6aaC {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(49.97% - 42px);
+  text-align: left;
+  white-space: nowrap;
+  width: 85px;
+}
+.rental-policy-2 .nav-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 79px;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 600px;
+}
+.rental-policy-2 .nav-0xy0vn:hover {
+
+transform: translate(0, -5px);
+}
+.rental-policy-2 .our-products-ma-age-you-may-acc-y1HRxC {
+  background-color: transparent;
+  height: 333px;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 509px;
+}
+.rental-policy-2 .overlap-group-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 340px;
+  margin-left: 29px;
+  margin-top: 14px;
+  position: relative;
+  width: 511px;
+}
+.rental-policy-2 .overlap-group1-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 713px;
+  margin-left: 31px;
+  margin-top: 35px;
+  position: relative;
+  width: 509px;
+}
+.rental-policy-2 .overlap-group2-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1939px;
+  margin-left: 32px;
+  margin-top: 45px;
+  position: relative;
+  width: 508px;
+}
+.rental-policy-2 .overlap-group3-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 54px;
+  position: relative;
+  width: 270px;
+}
+.rental-policy-2 .overlap-group4-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 413px;
+  margin-top: 90px;
+  position: relative;
+  width: 600px;
+}
+.rental-policy-2 .overlap-group5-y0eQTV {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 65px;
+  margin-top: 1px;
+  position: relative;
+  width: 175px;
+}
+.rental-policy-2 .path-13-tlDSyd {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+.rental-policy-2 .path-292-dsfOTe {
+  background-color: transparent;
+  bottom: calc(12.57% - 1px);
+  height: 7px;
+  left: calc(50.00% - 7px);
+  object-fit: cover;
+  position: absolute;
+  width: 13px;
+}
+.rental-policy-2 .path-31-xIdHR0 {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: calc(100.00% - 5px);
+}
+.rental-policy-2 .path-32-xIdHR0 {
+  background-color: transparent;
+  height: 3px;
+  left: calc(49.94% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(49.94% - 2px);
+  width: 3px;
+}
+.rental-policy-2 .path-851-rf3da9 {
+  background-color: transparent;
+  height: 413px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 600px;
+}
+.rental-policy-2 .path-852-rf3da9 {
+  background-color: transparent;
+  height: 36px;
+  left: 371px;
+  object-fit: cover;
+  position: absolute;
+  top: 231px;
+  width: 199px;
+}
+.rental-policy-2 .privacy-policy-Bx5qIC {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-left: 172px;
+  min-height: 18px;
+  min-width: 73px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-2 .privacy-policy-GyJUNH {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-left: 42px;
+  min-height: 22px;
+  min-width: 90px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-2 .ray-tiller-j-du-rftv-m-unsplash-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 717px;
+  margin-left: 34px;
+  margin-top: 60px;
+  object-fit: cover;
+  position: relative;
+  width: 504px;
+}
+.rental-policy-2 .rectangle-255-dsfOTe {
+  background-color: var(--white);
+  border-radius: 40px;
+  box-shadow: -5px 0px 15px rgba(0,0,0,0.051);;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.rental-policy-2 .rectangle-57-rf3da9 {
+  background-color: var(--white);
+  border-radius: 27px;
+  height: 53px;
+  left: 18px;
+  position: absolute;
+  top: 222px;
+  width: 559px;
+}
+.rental-policy-2 .rental-policy-E99VDD {
+  background-color: transparent;
+  height: auto;
+  left: 201px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-2 .rental-policy-GyJUNH {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-left: 56px;
+  min-height: 22px;
+  min-width: 85px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-2 .sign-up-dsfOTe {
+  background-color: transparent;
+  bottom: calc(45.90% - 8px);
+  height: 18px;
+  left: calc(16.52% - 8px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 49px;
+}
+.rental-policy-2 .sign-up-for-membership-rf3da9 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 398px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 243px;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-2 .span0-4GuTM1 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy-2 .span0-HeRNOk {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy-2 .span0-HxxSmf {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy-2 .span0-V6IGfp {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy-2 .span0-nbxfyy {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-2 .span0-oWJstP {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy-2 .span0-vBh5Ag {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy-2 .span1-4GuTM1 {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-2 .span1-HeRNOk {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-2 .span1-HxxSmf {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-2 .span1-V6IGfp {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-2 .span1-nbxfyy {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: italic;
+  font-weight: 400;
+}
+.rental-policy-2 .span1-oWJstP {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-2 .span1-vBh5Ag {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-2 .span2-4GuTM1 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy-2 .span2-HxxSmf {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy-2 .span2-V6IGfp {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy-2 .span2-oWJstP {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy-2 .span2-vBh5Ag {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy-2 .span3-4GuTM1 {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-2 .span3-HxxSmf {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-2 .span3-V6IGfp {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-2 .span3-oWJstP {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-2 .span3-vBh5Ag {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-2 .span4-HxxSmf {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy-2 .span4-V6IGfp {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy-2 .span4-vBh5Ag {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy-2 .span5-HxxSmf {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-2 .span5-V6IGfp {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-2 .span5-vBh5Ag {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-2 .span6-V6IGfp {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rental-policy-2 .span7-V6IGfp {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rental-policy-2 .supportthemercerclubnyccom-xMQYUC {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 47px;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-2 .terms-conditions-5AJyKP {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-left: 150px;
+  min-height: 18px;
+  min-width: 106px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-2 .terms-conditions-GyJUNH {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-left: 22px;
+  min-height: 22px;
+  min-width: 132px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-2 .the-mercer-club-E99VDD {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.28px;
+  line-height: 23px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+.rental-policy-2 .the-mercer-club-dsfOTe {
+  background-color: transparent;
+  bottom: calc(39.13% - 13px);
+  height: 33px;
+  left: calc(47.64% - 104px);
+  letter-spacing: 0.28px;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 218px;
+}
+.rental-policy-2 .the-rental-fee-ur-order-you-he-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 248px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  margin-left: 29px;
+  margin-top: 15px;
+  min-height: 248px;
+  position: relative;
+  text-align: left;
+  width: 511px;
+}
+.rental-policy-2 .these-terms-and-d-rent-articles-0xy0vn {
+  background-color: transparent;
+  color: var(--black);
+  flex-shrink: 1;
+  font-family: 'Overpass', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 690px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-left: 31px;
+  margin-top: 68px;
+  min-height: 690px;
+  position: relative;
+  text-align: left;
+  width: 540px;
+}
+.rental-policy-2 .this-agreement-and-oral-agreem-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 537px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  margin-left: 34px;
+  margin-top: 24px;
+  min-height: 537px;
+  position: relative;
+  text-align: left;
+  width: 506px;
+}
+.rental-policy-2 .this-agreement-set-forth-in-t-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 270px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  margin-left: 31px;
+  margin-top: 15px;
+  min-height: 270px;
+  position: relative;
+  text-align: left;
+  width: 509px;
+}
+.rental-policy-2 .x1-general-renta-eement-required-0xy0vn {
+  background-color: transparent;
+  color: var(--black);
+  flex-shrink: 1;
+  font-family: 'Overpass', Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  height: 33px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-left: 31px;
+  margin-top: 47px;
+  min-height: 33px;
+  position: relative;
+  text-align: left;
+  width: 521px;
+}
+.rental-policy-2 .x2-rental-fees-c-s-cancellations-y1HRxC {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  height: 39px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 302px;
+  width: 511px;
+}
+.rental-policy-2 .x3-the-mercer-club-offering-0xy0vn {
+  background-color: transparent;
+  color: var(--black);
+  flex-shrink: 1;
+  font-family: 'Overpass', Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-left: 31px;
+  margin-top: 26px;
+  min-height: 29px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 243px;
+}
+.rental-policy-2 .x4-your-commitme-of-retail-value-0xy0vn {
+  background-color: transparent;
+  color: var(--black);
+  flex-shrink: 1;
+  font-family: 'Overpass', Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-left: 32px;
+  margin-top: 24px;
+  min-height: 29px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 508px;
+}
+.rental-policy-2 .x5-limitation-of-liability-52Wjwg {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  height: 29px;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 1392px;
+  white-space: nowrap;
+  width: 210px;
+}
+.rental-policy-2 .x6-miscellaneous-0xy0vn {
+  align-self: flex-end;
+  background-color: transparent;
+  color: var(--black);
+  flex-shrink: 1;
+  font-family: 'Overpass', Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-top: 29px;
+  min-height: 29px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 640px;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --black-haze: rgba(247,247,247,1.0);
+  --cararra: rgba(235,235,235,1.0);
+  --dove-gray: rgba(112,112,112,1.0);
+  --fire-bush: rgba(231,148,42,1.0);
+  --gravel: rgba(74,74,74,1.0);
+  --gray: rgba(126,126,126,1.0);
+  --silver: rgba(192,192,192,1.0);
+  --white: rgba(255,255,255,1.0);
+}
+@media screen and (max-width: 1079px) {
+  .rental-policy { 
+    display: none;
+   }
+  .rental-policy-1 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1080px) and (max-width: 1919px) {
+  .rental-policy { 
+    display: none;
+   }
+  .rental-policy-2 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .rental-policy-1 { 
+    display: none;
+   }
+  .rental-policy-2 { 
+    display: none;
+   }
+}

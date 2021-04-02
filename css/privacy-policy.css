@@ -1,0 +1,4883 @@
+/* screen - privacy-policy */
+
+.border-1px-cararra {
+  border: 1px solid var(--cararra);
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.border-3px-black {
+  border: 3px solid var(--black);
+}
+.nunitosans-normal-silver-10px {
+  color: var(--silver);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 400;
+}
+.overpass-black-black-23px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 900;
+}
+.overpass-bold-black-15px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-20px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-fire-bush-12px {
+  color: var(--fire-bush);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-normal-fire-bush-20px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica;
+  font-size: 20px;
+}
+.overpass-normal-gravel-15px {
+  color: var(--gravel);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gravel-15px-2 {
+  color: var(--gravel);
+  font-family: "Overpass", Helvetica;
+  font-size: 15px;
+}
+.overpass-normal-gray-12px {
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-15px {
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy {
+  background-color: var(--white);
+  height: 10158px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+.privacy-policy .about-us-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 411px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 9886px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy .as-required-by-law-this-may-in-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Segoe UI", Helvetica;
+  font-size: 15px;
+  height: 754px;
+  left: 1067px;
+  letter-spacing: -0.18px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 5230px;
+  width: 640px;
+}
+.privacy-policy .browse-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 411px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 9860px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy .browse-poi346 {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  left: calc(43.07% - 22px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 50px;
+}
+.privacy-policy .component-21-1-MXGsu3 {
+  background-color: transparent;
+  background-image: url(../img/path-34@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 21px;
+  position: absolute;
+  right: 0px;
+  top: calc(50.00% - 10px);
+  width: 21px;
+}
+.privacy-policy .component-22-1-Ebfosa {
+  background-color: transparent;
+  height: 21px;
+  left: 224px;
+  position: absolute;
+  top: calc(44.84% - 9px);
+  width: 522px;
+}
+.privacy-policy .contact-us-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 411px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 9987px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy .cookies-web-bea-rson-has-access-C61RwL {
+  background-color: transparent;
+  height: 1430px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 1877px;
+  width: 640px;
+}
+.privacy-policy .customer-service954-787-0304-C61RwL {
+  background-color: transparent;
+  color: var(--gray);
+  font-family: "Overpass", Helvetica;
+  font-size: 12px;
+  height: 59px;
+  left: 1291px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 9865px;
+  width: 161px;
+}
+.privacy-policy .customers-also-nts-name-and-em-C61RwL {
+  background-color: transparent;
+  height: 198px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 1424px;
+  width: 640px;
+}
+.privacy-policy .do-not-track-se-tners-with-adve-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Nunito Sans", Helvetica;
+  font-size: 15px;
+  height: 588px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 6290px;
+  width: 640px;
+}
+.privacy-policy .editorial-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 411px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 9962px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy .editorial-poi346 {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(43.21% - 24px);
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+.privacy-policy .email-8s4xvg {
+  background-color: transparent;
+  height: 84.21%;
+  left: 5.45%;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 26.32%;
+  white-space: nowrap;
+  width: 15.76%;
+}
+.privacy-policy .email-KdigvU {
+  background-color: transparent;
+  height: 84.21%;
+  left: 5.45%;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 26.32%;
+  white-space: nowrap;
+  width: 15.76%;
+}
+.privacy-policy .email-subscription-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Overpass', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 788px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 9364px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy .fa-qs-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 411px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 9912px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy .faq-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 260px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy .for-communicati-keting-partners-C61RwL {
+  background-color: transparent;
+  height: 66px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 3834px;
+  width: 640px;
+}
+.privacy-policy .for-compliance-appropriate-to-C61RwL {
+  background-color: transparent;
+  height: 66px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 3602px;
+  width: 640px;
+}
+.privacy-policy .group-163-biSsuR {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 100%;
+  left: 68.09%;
+  position: absolute;
+  top: 0px;
+  width: 31.91%;
+}
+.privacy-policy .group-163-zxXjO7 {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 100%;
+  left: 51.61%;
+  position: absolute;
+  top: 0px;
+  width: 48.39%;
+}
+.privacy-policy .group-164-biSsuR {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 100%;
+  left: 34.04%;
+  position: absolute;
+  top: 0px;
+  width: 31.91%;
+}
+.privacy-policy .group-164-zxXjO7 {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 48.39%;
+}
+.privacy-policy .group-172-FYBPGC {
+  background-color: transparent;
+  height: 100%;
+  left: 102.49%;
+  position: relative;
+  top: 0px;
+  width: 99.04%;
+}
+.privacy-policy .group-172-sovy2d {
+  background-color: transparent;
+  height: 100%;
+  left: -101.43%;
+  position: relative;
+  top: 0px;
+  width: 97.43%;
+}
+.privacy-policy .group-173-HPnu8y {
+  background-color: transparent;
+  background-image: url(../img/path-34@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 100%;
+  position: absolute;
+  right: 323px;
+  top: 0px;
+  width: 21px;
+}
+.privacy-policy .group-174-biSsuR {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31.91%;
+}
+.privacy-policy .group-179-Ebfosa {
+  background-color: var(--white);
+  box-shadow: -5px 0px 15px rgba(0,0,0,0.051);;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.privacy-policy .group-5-3cZhlu {
+  background-color: transparent;
+  background-image: url(../img/path-27@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 1px);
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 12px;
+}
+.privacy-policy .group-6-3cZhlu {
+  background-color: transparent;
+  background-image: url(../img/path-28@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 1px);
+  left: calc(34.59% - 4px);
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+.privacy-policy .group-7-3cZhlu {
+  background-color: transparent;
+  background-image: url(../img/path-30@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 100%;
+  position: absolute;
+  right: calc(32.50% - 4px);
+  top: 1px;
+  width: 12px;
+}
+.privacy-policy .group-8-C61RwL {
+  background-color: transparent;
+  height: 12px;
+  left: 1291px;
+  position: absolute;
+  top: 9851px;
+  width: 79px;
+}
+.privacy-policy .if-you-are-the-ercerclubnyccom-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Segoe UI", Helvetica;
+  font-size: 15px;
+  height: 176px;
+  left: 1067px;
+  letter-spacing: -0.38px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 7540px;
+  width: 640px;
+}
+.privacy-policy .img2589-C61RwL {
+  background-color: transparent;
+  height: 924px;
+  left: 1067px;
+  object-fit: cover;
+  position: absolute;
+  top: 4148px;
+  width: 638px;
+}
+.privacy-policy .karsten-winegea-ie-v-i-unsplash-C61RwL {
+  background-color: transparent;
+  height: 413px;
+  left: 191px;
+  object-fit: cover;
+  position: absolute;
+  top: 375px;
+  width: 1514px;
+}
+.privacy-policy .line-2-KKTDyW {
+  background-color: transparent;
+  bottom: calc(49.93% - 1px);
+  height: 2px;
+  left: calc(31.93% - 2px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+.privacy-policy .line-2-xxWNWV {
+  background-color: transparent;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(31.93% - 2px);
+  top: calc(49.93% - 1px);
+  width: 7px;
+}
+.privacy-policy .line-4-C61RwL {
+  background-color: transparent;
+  height: 5px;
+  left: 674px;
+  object-fit: cover;
+  position: absolute;
+  top: 292px;
+  width: 103px;
+}
+.privacy-policy .log-in-Ebfosa {
+  background-color: transparent;
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(40.55% - 17px);
+  text-align: left;
+  top: calc(47.54% - 9px);
+  white-space: nowrap;
+  width: 41px;
+}
+.privacy-policy .log-in-aIywlF {
+  background-color: transparent;
+  height: 21px;
+  position: absolute;
+  right: calc(25.80% - 90px);
+  top: calc(44.84% - 9px);
+  width: 350px;
+}
+.privacy-policy .mask-group-1-HPnu8y {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.privacy-policy .mask-group-1-MXGsu3 {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: calc(50.00% - 10px);
+  width: 522px;
+}
+.privacy-policy .membership-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 411px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 9937px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy .membership-poi346 {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  left: calc(49.89% - 42px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 85px;
+}
+.privacy-policy .mobile-device-i-g-fileslike-mos-C61RwL {
+  background-color: transparent;
+  height: 1540px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 1877px;
+  width: 640px;
+}
+.privacy-policy .name-7mv9Nr {
+  background-color: transparent;
+  height: 84.21%;
+  left: 5.45%;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 26.32%;
+  white-space: nowrap;
+  width: 16.97%;
+}
+.privacy-policy .nav-C61RwL {
+  background-color: transparent;
+  height: 79px;
+  left: -9px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+.privacy-policy .password-Udz9Uv {
+  background-color: transparent;
+  height: 84.21%;
+  left: 5.45%;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 26.32%;
+  white-space: nowrap;
+  width: 27.88%;
+}
+.privacy-policy .password-vOAwsG {
+  background-color: transparent;
+  height: 84.21%;
+  left: 5.45%;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 26.32%;
+  white-space: nowrap;
+  width: 27.88%;
+}
+.privacy-policy .path-13-3cZhlu {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+.privacy-policy .path-292-Ebfosa {
+  background-color: transparent;
+  bottom: calc(12.57% - 1px);
+  height: 7px;
+  left: calc(50.00% - 7px);
+  object-fit: cover;
+  position: absolute;
+  width: 13px;
+}
+.privacy-policy .path-31-d71PT4 {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: calc(100.00% - 5px);
+}
+.privacy-policy .path-32-d71PT4 {
+  background-color: transparent;
+  height: 3px;
+  left: calc(49.94% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(49.94% - 2px);
+  width: 3px;
+}
+.privacy-policy .path-5-KKTDyW {
+  background-color: transparent;
+  bottom: calc(49.13% - 6px);
+  height: 12px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(31.78% - 2px);
+  width: 7px;
+}
+.privacy-policy .path-5-xxWNWV {
+  background-color: transparent;
+  height: 12px;
+  left: calc(31.78% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(49.13% - 6px);
+  width: 7px;
+}
+.privacy-policy .personal-inform-dress-or-a-pers-C61RwL {
+  background-color: transparent;
+  height: 308px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 1424px;
+  width: 640px;
+}
+.privacy-policy .placeholder-person-Ebfosa {
+  background-color: transparent;
+  border-radius: 14.5px;
+  height: 29px;
+  object-fit: cover;
+  position: absolute;
+  right: 205px;
+  top: calc(50.00% - 14px);
+  width: 29px;
+}
+.privacy-policy .privacy-policy-C61RwL {
+  background-color: transparent;
+  color: var(--black-haze);
+  font-family: 'Overpass', Helvetica;
+  font-size: 200px;
+  font-style: normal;
+  font-weight: 900;
+  height: 479px;
+  left: -27px;
+  letter-spacing: 1.60px;
+  line-height: 184px;
+  opacity: 0.7;
+  position: absolute;
+  text-align: left;
+  top: 885px;
+  width: 1882px;
+}
+.privacy-policy .privacy-policy-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 677px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 260px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy .privacy-policy-mzXdH9 {
+  background-color: transparent;
+  height: auto;
+  left: 851px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 9912px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy .rectangle-24-C61RwL {
+  background-color: var(--black);
+  height: 413px;
+  left: -9px;
+  position: absolute;
+  top: 9228px;
+  width: 1920px;
+}
+.privacy-policy .rectangle-255-Ebfosa {
+  background-color: var(--white);
+  box-shadow: -5px 0px 15px rgba(0,0,0,0.051);;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.privacy-policy .rectangle-57-C61RwL {
+  background-color: var(--white);
+  border-radius: 27px;
+  height: 53px;
+  left: 487px;
+  position: absolute;
+  top: 9436px;
+  width: 928px;
+}
+.privacy-policy .rectangle-58-C61RwL {
+  background-color: var(--fire-bush);
+  border-radius: 24px;
+  height: 41px;
+  left: 1209px;
+  position: absolute;
+  top: 9442px;
+  width: 199px;
+}
+.privacy-policy .rental-policy-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 517px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 260px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy .rental-policy-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 851px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 9860px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy .right-to-reques-the-sale-of-th-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 572px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 7904px;
+  width: 640px;
+}
+.privacy-policy .sign-up-Ebfosa {
+  background-color: transparent;
+  height: 18px;
+  left: calc(40.19% - 20px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: calc(47.54% - 9px);
+  white-space: nowrap;
+  width: 49px;
+}
+.privacy-policy .sign-up-for-membership-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 1228px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 9457px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy .span0-0FuNgA {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: italic;
+  font-weight: 700;
+}
+.privacy-policy .span0-BnpHHt {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy .span0-CUfxsI {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span0-CdCIQ1 {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span0-DBgWvj {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy .span0-Dtuhcr {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: italic;
+  font-weight: 700;
+  letter-spacing: 0.00px;
+}
+.privacy-policy .span0-EJD6Mt {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: italic;
+  font-weight: 700;
+}
+.privacy-policy .span0-GxTPai {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy .span0-KruMCy {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: italic;
+  font-weight: 700;
+}
+.privacy-policy .span0-NenxNB {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy .span0-RStMOZ {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy .span0-Yhqu5J {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy .span0-an3SzE {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy .span0-fsOXV8 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -0.18px;
+}
+.privacy-policy .span0-gdDxxS {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy .span0-iI0MfK {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy .span0-nLYbUc {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy .span0-qw9aQW {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: italic;
+  font-weight: 700;
+}
+.privacy-policy .span0-tFRoSw {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: italic;
+  font-weight: 700;
+}
+.privacy-policy .span0-uhDrVD {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: italic;
+  font-weight: 700;
+}
+.privacy-policy .span0-zb3KL0 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy .span1-0FuNgA {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span1-BnpHHt {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span1-CUfxsI {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: italic;
+  font-weight: 400;
+}
+.privacy-policy .span1-CdCIQ1 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy .span1-DBgWvj {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span1-Dtuhcr {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.24px;
+}
+.privacy-policy .span1-EJD6Mt {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span1-GxTPai {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span1-KruMCy {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span1-NenxNB {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span1-RStMOZ {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span1-Yhqu5J {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span1-an3SzE {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span1-fsOXV8 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.18px;
+}
+.privacy-policy .span1-gdDxxS {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span1-iI0MfK {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span1-nLYbUc {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span1-qw9aQW {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span1-tFRoSw {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span1-uhDrVD {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span1-zb3KL0 {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span10-iI0MfK {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy .span11-iI0MfK {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span12-iI0MfK {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy .span13-iI0MfK {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span14-iI0MfK {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy .span15-iI0MfK {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span2-CdCIQ1 {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span2-DBgWvj {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy .span2-Dtuhcr {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span2-KruMCy {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy .span2-NenxNB {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy .span2-an3SzE {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy .span2-fsOXV8 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -0.18px;
+}
+.privacy-policy .span2-iI0MfK {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy .span3-DBgWvj {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span3-KruMCy {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span3-NenxNB {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span3-an3SzE {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span3-fsOXV8 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.18px;
+}
+.privacy-policy .span3-iI0MfK {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span4-DBgWvj {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy .span4-NenxNB {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy .span4-fsOXV8 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -0.18px;
+}
+.privacy-policy .span4-iI0MfK {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy .span5-DBgWvj {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span5-NenxNB {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span5-fsOXV8 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.18px;
+}
+.privacy-policy .span5-iI0MfK {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span6-NenxNB {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy .span6-fsOXV8 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -0.18px;
+}
+.privacy-policy .span6-iI0MfK {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy .span7-NenxNB {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span7-fsOXV8 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.18px;
+}
+.privacy-policy .span7-iI0MfK {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span8-NenxNB {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy .span8-fsOXV8 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span8-iI0MfK {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy .span9-NenxNB {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .span9-iI0MfK {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy .star-with-your-email-C61RwL {
+  background-color: transparent;
+  color: var(--silver);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 15px;
+  font-style: italic;
+  font-weight: 300;
+  height: auto;
+  left: 530px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 9456px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy .supportthemercerclubnyccom-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1291px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 9912px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy .terms-conditions-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 829px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 260px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy .terms-conditions-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 851px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 9886px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy .the-mercer-club-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 411px;
+  letter-spacing: 0.28px;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  top: 9831px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy .the-mercer-club-Ebfosa {
+  background-color: transparent;
+  bottom: calc(47.83% - 16px);
+  height: 33px;
+  letter-spacing: 0.28px;
+  line-height: 23px;
+  position: absolute;
+  right: calc(49.94% - 109px);
+  text-align: center;
+  white-space: nowrap;
+  width: 218px;
+}
+.privacy-policy .the-mercer-club-on-personally-i-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Segoe UI", Helvetica;
+  font-size: 15px;
+  height: 462px;
+  left: 410px;
+  letter-spacing: -0.42px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 5524px;
+  width: 640px;
+}
+.privacy-policy .the-purposes-an-in-more-detail-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 44px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 5452px;
+  width: 640px;
+}
+.privacy-policy .the-purposes-an-low-in-addition-C61RwL {
+  background-color: transparent;
+  height: 264px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 3602px;
+  width: 640px;
+}
+.privacy-policy .to-comply-with-r-any-other-pur-C61RwL {
+  background-color: transparent;
+  height: 242px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 4338px;
+  width: 640px;
+}
+.privacy-policy .to-develop-and-for-example-by-C61RwL {
+  background-color: transparent;
+  height: 66px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 3932px;
+  width: 640px;
+}
+.privacy-policy .we-may-communic-r-mobile-device-C61RwL {
+  background-color: transparent;
+  height: 119px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 4758px;
+  width: 640px;
+}
+.privacy-policy .we-may-disclose-you-in-general-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Nunito Sans", Helvetica;
+  font-size: 20px;
+  height: 76px;
+  left: 410px;
+  letter-spacing: -0.18px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 5242px;
+  width: 640px;
+}
+.privacy-policy .x-analyzing-usag-o-our-customers-C61RwL {
+  background-color: transparent;
+  height: 54px;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 4006px;
+  width: 640px;
+}
+.privacy-policy .x-as-necessary-t-required-by-law-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 118px;
+  left: 410px;
+  letter-spacing: -0.18px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 5326px;
+  width: 659px;
+}
+.privacy-policy .x-protect-our-yo-unauthorized-or-C61RwL {
+  background-color: transparent;
+  height: 130px;
+  left: 1067px;
+  letter-spacing: -0.24px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 3676px;
+  width: 640px;
+}
+.privacy-policy .x-to-present-you-in-finding-a-l-C61RwL {
+  background-color: transparent;
+  height: 242px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 3874px;
+  width: 659px;
+}
+.privacy-policy .x-to-provide-new-your-account-i-C61RwL {
+  background-color: transparent;
+  height: 162px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 4588px;
+  width: 640px;
+}
+.privacy-policy .x1-overviewthis-nd-any-of-our-s-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Overpass", Helvetica;
+  font-size: 20px;
+  height: 262px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 1012px;
+  width: 1297px;
+}
+.privacy-policy .x10-changes-to-t-may-revise-and-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Nunito Sans", Helvetica;
+  font-size: 15px;
+  height: 220px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 8604px;
+  width: 640px;
+}
+.privacy-policy .x11-contact-usif-ercerclubnyccom-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Nunito Sans", Helvetica;
+  font-size: 15px;
+  height: 66px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 8972px;
+  width: 640px;
+}
+.privacy-policy .x2-information-we-collect-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 1388px;
+  white-space: nowrap;
+  width: 649px;
+}
+.privacy-policy .x3-how-we-use-your-information-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 3566px;
+  white-space: nowrap;
+  width: 1297px;
+}
+.privacy-policy .x4-how-we-disclo-our-information-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 700;
+  height: 29px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 5206px;
+  white-space: nowrap;
+  width: 640px;
+}
+.privacy-policy .x5-third-party-w-se-websites-are-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Nunito Sans", Helvetica;
+  font-size: 15px;
+  height: 110px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 6014px;
+  width: 640px;
+}
+.privacy-policy .x6-your-choicesa-nt-with-the-mer-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Nunito Sans", Helvetica;
+  font-size: 15px;
+  height: 706px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 6272px;
+  width: 640px;
+}
+.privacy-policy .x7-securitywe-us-we-make-good-fa-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Nunito Sans", Helvetica;
+  font-size: 15px;
+  height: 242px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 7126px;
+  width: 640px;
+}
+.privacy-policy .x8-childrens-pri-rvision-of-a-pa-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Segoe UI", Helvetica;
+  font-size: 15px;
+  height: 220px;
+  left: 410px;
+  letter-spacing: -0.38px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 7516px;
+  width: 640px;
+}
+.privacy-policy .x9-notices-to-ca-third-partys-d-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Nunito Sans", Helvetica;
+  font-size: 15px;
+  height: 572px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 7884px;
+  width: 640px;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --black-haze: rgba(247,247,247,1.0);
+  --cararra: rgba(235,235,235,1.0);
+  --dove-gray: rgba(112,112,112,1.0);
+  --fire-bush: rgba(231,148,42,1.0);
+  --gravel: rgba(74,74,74,1.0);
+  --gray: rgba(126,126,126,1.0);
+  --silver: rgba(192,192,192,1.0);
+  --white: rgba(255,255,255,1.0);
+}
+/* screen - privacy-policy-1 */
+
+.border-1px-cararra {
+  border: 1px solid var(--cararra);
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.border-3px-black {
+  border: 3px solid var(--black);
+}
+.nunitosans-normal-silver-10px {
+  color: var(--silver);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 400;
+}
+.overpass-black-black-23px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 900;
+}
+.overpass-bold-black-15px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-20px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-fire-bush-12px {
+  color: var(--fire-bush);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-normal-fire-bush-20px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica;
+  font-size: 20px;
+}
+.overpass-normal-gravel-15px {
+  color: var(--gravel);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gravel-15px-2 {
+  color: var(--gravel);
+  font-family: "Overpass", Helvetica;
+  font-size: 15px;
+}
+.overpass-normal-gray-12px {
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-15px {
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 {
+  background-color: var(--white);
+  height: 13700px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1080px;
+}
+.privacy-policy-1 .about-us-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 156px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 13350px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-1 .as-required-by-law-this-may-in-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Segoe UI", Helvetica;
+  font-size: 15px;
+  height: 578px;
+  left: 157px;
+  letter-spacing: -0.18px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 8338px;
+  width: 620px;
+}
+.privacy-policy-1 .browse-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 156px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 13324px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-1 .browse-poi346 {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  left: calc(43.11% - 22px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 50px;
+}
+.privacy-policy-1 .contact-us-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 156px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 13454px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-1 .cookies-web-bea-rson-has-access-C61RwL {
+  background-color: transparent;
+  height: 1430px;
+  left: 156px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 3346px;
+  width: 640px;
+}
+.privacy-policy-1 .customer-service954-787-0304-C61RwL {
+  background-color: transparent;
+  color: var(--gray);
+  font-family: "Overpass", Helvetica;
+  font-size: 12px;
+  height: 59px;
+  left: 812px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 13337px;
+  width: 161px;
+}
+.privacy-policy-1 .customers-also-nts-name-and-em-C61RwL {
+  background-color: transparent;
+  height: 198px;
+  left: 156px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 1538px;
+  width: 640px;
+}
+.privacy-policy-1 .do-not-track-se-tners-with-adve-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Nunito Sans", Helvetica;
+  font-size: 15px;
+  height: 588px;
+  left: 157px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 9708px;
+  width: 639px;
+}
+.privacy-policy-1 .editorial-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 156px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 13428px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-1 .editorial-poi346 {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(43.16% - 24px);
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+.privacy-policy-1 .email-subscription-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Overpass', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 394px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 12956px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-1 .fa-qs-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 156px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 13376px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-1 .faq-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 266px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 217px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-1 .for-communicati-keting-partners-C61RwL {
+  background-color: transparent;
+  height: 66px;
+  left: 156px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 5598px;
+  width: 640px;
+}
+.privacy-policy-1 .for-compliance-appropriate-to-C61RwL {
+  background-color: transparent;
+  height: 66px;
+  left: 156px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 5366px;
+  width: 640px;
+}
+.privacy-policy-1 .group-179-Ebfosa {
+  background-color: var(--white);
+  box-shadow: -5px 0px 15px rgba(0,0,0,0.051);;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.privacy-policy-1 .group-5-3cZhlu {
+  background-color: transparent;
+  background-image: url(../img/path-27@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 1px);
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 12px;
+}
+.privacy-policy-1 .group-6-3cZhlu {
+  background-color: transparent;
+  background-image: url(../img/path-28@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 1px);
+  left: calc(34.59% - 4px);
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+.privacy-policy-1 .group-7-3cZhlu {
+  background-color: transparent;
+  background-image: url(../img/path-30-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 100%;
+  position: absolute;
+  right: calc(32.50% - 4px);
+  top: 1px;
+  width: 12px;
+}
+.privacy-policy-1 .group-8-C61RwL {
+  background-color: transparent;
+  height: 12px;
+  left: 812px;
+  position: absolute;
+  top: 13323px;
+  width: 79px;
+}
+.privacy-policy-1 .if-you-are-the-ercerclubnyccom-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Segoe UI", Helvetica;
+  font-size: 15px;
+  height: 176px;
+  left: 156px;
+  letter-spacing: -0.38px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 10848px;
+  width: 640px;
+}
+.privacy-policy-1 .img2589-C61RwL {
+  background-color: transparent;
+  height: 911px;
+  left: 157px;
+  object-fit: cover;
+  position: absolute;
+  top: 6409px;
+  width: 637px;
+}
+.privacy-policy-1 .karsten-winegea-ie-v-i-unsplash-C61RwL {
+  background-color: transparent;
+  height: 352px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 366px;
+  width: 1028px;
+}
+.privacy-policy-1 .line-4-C61RwL {
+  background-color: transparent;
+  height: 5px;
+  left: 530px;
+  object-fit: cover;
+  position: absolute;
+  top: 248px;
+  width: 103px;
+}
+.privacy-policy-1 .log-in-Ebfosa {
+  background-color: transparent;
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(32.63% - 13px);
+  text-align: left;
+  top: calc(47.54% - 9px);
+  white-space: nowrap;
+  width: 41px;
+}
+.privacy-policy-1 .membership-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 156px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 13402px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-1 .membership-poi346 {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  left: calc(49.94% - 42px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 85px;
+}
+.privacy-policy-1 .mobile-device-i-g-fileslike-mos-C61RwL {
+  background-color: transparent;
+  height: 1540px;
+  left: 156px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 1777px;
+  width: 640px;
+}
+.privacy-policy-1 .nav-C61RwL {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  pointer-events: auto;
+  position: fixed;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 1080px;
+}
+.privacy-policy-1 .nav-C61RwL:hover {
+
+transform: translate(0, -5px);
+}
+.privacy-policy-1 .path-13-3cZhlu {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+.privacy-policy-1 .path-292-Ebfosa {
+  background-color: transparent;
+  bottom: calc(12.57% - 1px);
+  height: 7px;
+  left: calc(50.00% - 7px);
+  object-fit: cover;
+  position: absolute;
+  width: 13px;
+}
+.privacy-policy-1 .path-31-d71PT4 {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: calc(100.00% - 5px);
+}
+.privacy-policy-1 .path-32-d71PT4 {
+  background-color: transparent;
+  height: 3px;
+  left: calc(49.94% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(49.94% - 2px);
+  width: 3px;
+}
+.privacy-policy-1 .path-851-C61RwL {
+  background-color: transparent;
+  height: 413px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 12782px;
+  width: 1080px;
+}
+.privacy-policy-1 .path-852-C61RwL {
+  background-color: transparent;
+  height: 41px;
+  left: 766px;
+  object-fit: cover;
+  position: absolute;
+  top: 13024px;
+  width: 199px;
+}
+.privacy-policy-1 .personal-inform-dress-or-a-pers-C61RwL {
+  background-color: transparent;
+  height: 314px;
+  left: 152px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 1208px;
+  width: 640px;
+}
+.privacy-policy-1 .placeholder-person-Ebfosa {
+  background-color: transparent;
+  border-radius: 14.5px;
+  height: 29px;
+  object-fit: cover;
+  position: absolute;
+  right: 80px;
+  top: calc(50.00% - 14px);
+  width: 29px;
+}
+.privacy-policy-1 .privacy-policy-C61RwL {
+  background-color: transparent;
+  color: var(--black-haze);
+  font-family: 'Overpass', Helvetica;
+  font-size: 200px;
+  font-style: normal;
+  font-weight: 900;
+  height: 1116px;
+  left: 18px;
+  letter-spacing: 1.60px;
+  line-height: 184px;
+  opacity: 0.7;
+  position: absolute;
+  text-align: left;
+  top: 882px;
+  width: 1017px;
+}
+.privacy-policy-1 .privacy-policy-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 533px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 217px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-1 .privacy-policy-mzXdH9 {
+  background-color: transparent;
+  height: auto;
+  left: 500px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 13376px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-1 .rectangle-255-Ebfosa {
+  background-color: var(--white);
+  border-radius: 40px;
+  box-shadow: -5px 0px 15px rgba(0,0,0,0.051);;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.privacy-policy-1 .rectangle-57-C61RwL {
+  background-color: var(--white);
+  border-radius: 27px;
+  height: 53px;
+  left: 94px;
+  position: absolute;
+  top: 13018px;
+  width: 882px;
+}
+.privacy-policy-1 .rental-policy-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 373px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 217px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-1 .rental-policy-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 500px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 13324px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-1 .rental-policy-mzXdH9 {
+  background-color: transparent;
+  color: var(--black-haze);
+  font-family: 'Overpass', Helvetica;
+  font-size: 200px;
+  font-style: normal;
+  font-weight: 900;
+  height: 479px;
+  left: 1070px;
+  letter-spacing: 1.60px;
+  line-height: 184px;
+  opacity: 0.7;
+  position: absolute;
+  text-align: left;
+  top: 1940px;
+  width: 850px;
+}
+.privacy-policy-1 .right-to-reques-the-sale-of-th-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 572px;
+  left: 157px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 11666px;
+  width: 639px;
+}
+.privacy-policy-1 .sign-up-Ebfosa {
+  background-color: transparent;
+  height: 18px;
+  left: calc(31.13% - 15px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: calc(49.18% - 9px);
+  white-space: nowrap;
+  width: 49px;
+}
+.privacy-policy-1 .sign-up-for-membership-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 792px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 13039px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-1 .span0-0FuNgA {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: italic;
+  font-weight: 700;
+}
+.privacy-policy-1 .span0-BnpHHt {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-1 .span0-CUfxsI {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span0-CdCIQ1 {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span0-DBgWvj {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-1 .span0-Dtuhcr {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: italic;
+  font-weight: 700;
+  letter-spacing: 0.00px;
+}
+.privacy-policy-1 .span0-EJD6Mt {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: italic;
+  font-weight: 700;
+}
+.privacy-policy-1 .span0-GxTPai {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-1 .span0-KruMCy {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: italic;
+  font-weight: 700;
+}
+.privacy-policy-1 .span0-NenxNB {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-1 .span0-RStMOZ {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-1 .span0-Yhqu5J {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-1 .span0-an3SzE {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-1 .span0-fsOXV8 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -0.18px;
+}
+.privacy-policy-1 .span0-gdDxxS {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-1 .span0-iI0MfK {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-1 .span0-nLYbUc {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-1 .span0-qw9aQW {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: italic;
+  font-weight: 700;
+}
+.privacy-policy-1 .span0-tFRoSw {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: italic;
+  font-weight: 700;
+}
+.privacy-policy-1 .span0-uhDrVD {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: italic;
+  font-weight: 700;
+}
+.privacy-policy-1 .span0-zb3KL0 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-1 .span1-0FuNgA {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span1-BnpHHt {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span1-CUfxsI {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: italic;
+  font-weight: 400;
+}
+.privacy-policy-1 .span1-CdCIQ1 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-1 .span1-DBgWvj {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span1-Dtuhcr {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.24px;
+}
+.privacy-policy-1 .span1-EJD6Mt {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span1-GxTPai {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span1-KruMCy {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span1-NenxNB {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span1-RStMOZ {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span1-Yhqu5J {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span1-an3SzE {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span1-fsOXV8 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.18px;
+}
+.privacy-policy-1 .span1-gdDxxS {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span1-iI0MfK {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span1-nLYbUc {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span1-qw9aQW {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span1-tFRoSw {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span1-uhDrVD {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span1-zb3KL0 {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span10-iI0MfK {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-1 .span11-iI0MfK {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span12-iI0MfK {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-1 .span13-iI0MfK {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span14-iI0MfK {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-1 .span15-iI0MfK {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span2-CdCIQ1 {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span2-DBgWvj {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-1 .span2-Dtuhcr {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span2-KruMCy {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-1 .span2-NenxNB {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-1 .span2-an3SzE {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-1 .span2-fsOXV8 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -0.18px;
+}
+.privacy-policy-1 .span2-iI0MfK {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-1 .span3-DBgWvj {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span3-KruMCy {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span3-NenxNB {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span3-an3SzE {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span3-fsOXV8 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.18px;
+}
+.privacy-policy-1 .span3-iI0MfK {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span4-DBgWvj {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-1 .span4-NenxNB {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-1 .span4-fsOXV8 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -0.18px;
+}
+.privacy-policy-1 .span4-iI0MfK {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-1 .span5-DBgWvj {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span5-NenxNB {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span5-fsOXV8 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.18px;
+}
+.privacy-policy-1 .span5-iI0MfK {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span6-NenxNB {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-1 .span6-fsOXV8 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -0.18px;
+}
+.privacy-policy-1 .span6-iI0MfK {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-1 .span7-NenxNB {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span7-fsOXV8 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.18px;
+}
+.privacy-policy-1 .span7-iI0MfK {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span8-NenxNB {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-1 .span8-fsOXV8 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span8-iI0MfK {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-1 .span9-NenxNB {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .span9-iI0MfK {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-1 .supportthemercerclubnyccom-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 812px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 13384px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-1 .terms-conditions-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 685px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 217px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-1 .terms-conditions-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 500px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 13350px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-1 .the-mercer-club-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 156px;
+  letter-spacing: 0.28px;
+  line-height: 23px;
+  position: absolute;
+  text-align: left;
+  top: 13294px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-1 .the-mercer-club-Ebfosa {
+  background-color: transparent;
+  bottom: calc(47.83% - 16px);
+  height: 33px;
+  left: calc(49.42% - 108px);
+  letter-spacing: 0.28px;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 218px;
+}
+.privacy-policy-1 .the-mercer-club-on-personally-i-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Segoe UI", Helvetica;
+  font-size: 15px;
+  height: 462px;
+  left: 156px;
+  letter-spacing: -0.42px;
+  line-height: 22px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 7696px;
+  width: 621px;
+}
+.privacy-policy-1 .the-purposes-an-in-more-detail-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 44px;
+  left: 156px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 7624px;
+  width: 621px;
+}
+.privacy-policy-1 .the-purposes-an-low-in-addition-C61RwL {
+  background-color: transparent;
+  height: 264px;
+  left: 154px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 4848px;
+  width: 640px;
+}
+.privacy-policy-1 .to-comply-with-r-any-other-pur-C61RwL {
+  background-color: transparent;
+  height: 242px;
+  left: 156px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 5874px;
+  width: 640px;
+}
+.privacy-policy-1 .to-develop-and-for-example-by-C61RwL {
+  background-color: transparent;
+  height: 66px;
+  left: 156px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 5696px;
+  width: 640px;
+}
+.privacy-policy-1 .we-may-communic-r-mobile-device-C61RwL {
+  background-color: transparent;
+  height: 119px;
+  left: 156px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 6294px;
+  width: 640px;
+}
+.privacy-policy-1 .we-may-disclose-you-in-general-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Nunito Sans", Helvetica;
+  font-size: 20px;
+  height: 76px;
+  left: 156px;
+  letter-spacing: -0.18px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 7414px;
+  width: 621px;
+}
+.privacy-policy-1 .x-analyzing-usag-o-our-customers-C61RwL {
+  background-color: transparent;
+  height: 54px;
+  left: 156px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 5770px;
+  width: 640px;
+}
+.privacy-policy-1 .x-as-necessary-t-required-by-law-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 118px;
+  left: 156px;
+  letter-spacing: -0.18px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 7498px;
+  width: 640px;
+}
+.privacy-policy-1 .x-protect-our-yo-unauthorized-or-C61RwL {
+  background-color: transparent;
+  height: 130px;
+  left: 156px;
+  letter-spacing: -0.24px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 5440px;
+  width: 640px;
+}
+.privacy-policy-1 .x-to-present-you-in-finding-a-l-C61RwL {
+  background-color: transparent;
+  height: 242px;
+  left: 154px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 5120px;
+  width: 659px;
+}
+.privacy-policy-1 .x-to-provide-new-your-account-i-C61RwL {
+  background-color: transparent;
+  height: 162px;
+  left: 156px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 6124px;
+  width: 640px;
+}
+.privacy-policy-1 .x1-overviewthis-nd-any-of-our-s-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Overpass", Helvetica;
+  font-size: 20px;
+  height: 380px;
+  left: 95px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 794px;
+  width: 892px;
+}
+.privacy-policy-1 .x10-changes-to-t-may-revise-and-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Nunito Sans", Helvetica;
+  font-size: 15px;
+  height: 220px;
+  left: 156px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 12276px;
+  width: 640px;
+}
+.privacy-policy-1 .x11-contact-usif-ercerclubnyccom-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Nunito Sans", Helvetica;
+  font-size: 15px;
+  height: 66px;
+  left: 156px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 12548px;
+  width: 640px;
+}
+.privacy-policy-1 .x2-information-we-collect-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 152px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 1172px;
+  white-space: nowrap;
+  width: 649px;
+}
+.privacy-policy-1 .x3-how-we-use-your-information-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 154px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 4812px;
+  white-space: nowrap;
+  width: 675px;
+}
+.privacy-policy-1 .x4-how-we-disclo-our-information-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 700;
+  height: 29px;
+  left: 156px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 7378px;
+  white-space: nowrap;
+  width: 621px;
+}
+.privacy-policy-1 .x5-third-party-w-se-websites-are-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Nunito Sans", Helvetica;
+  font-size: 15px;
+  height: 110px;
+  left: 156px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 8186px;
+  width: 621px;
+}
+.privacy-policy-1 .x6-your-choicesa-nt-with-the-mer-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Nunito Sans", Helvetica;
+  font-size: 15px;
+  height: 706px;
+  left: 156px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 8944px;
+  width: 640px;
+}
+.privacy-policy-1 .x7-securitywe-us-we-make-good-fa-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Nunito Sans", Helvetica;
+  font-size: 15px;
+  height: 242px;
+  left: 156px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 10326px;
+  width: 640px;
+}
+.privacy-policy-1 .x8-childrens-pri-rvision-of-a-pa-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Segoe UI", Helvetica;
+  font-size: 15px;
+  height: 220px;
+  left: 157px;
+  letter-spacing: -0.38px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 10606px;
+  width: 639px;
+}
+.privacy-policy-1 .x9-notices-to-ca-third-partys-d-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Nunito Sans", Helvetica;
+  font-size: 15px;
+  height: 572px;
+  left: 156px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 11066px;
+  width: 640px;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --black-haze: rgba(247,247,247,1.0);
+  --cararra: rgba(235,235,235,1.0);
+  --dove-gray: rgba(112,112,112,1.0);
+  --fire-bush: rgba(231,148,42,1.0);
+  --gravel: rgba(74,74,74,1.0);
+  --gray: rgba(126,126,126,1.0);
+  --silver: rgba(192,192,192,1.0);
+  --white: rgba(255,255,255,1.0);
+}
+/* screen - privacy-policy-2 */
+
+.border-1px-cararra {
+  border: 1px solid var(--cararra);
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.border-3px-black {
+  border: 3px solid var(--black);
+}
+.nunitosans-normal-silver-10px {
+  color: var(--silver);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 400;
+}
+.overpass-black-black-23px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 900;
+}
+.overpass-bold-black-15px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-20px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-fire-bush-12px {
+  color: var(--fire-bush);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-normal-fire-bush-20px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica;
+  font-size: 20px;
+}
+.overpass-normal-gravel-15px {
+  color: var(--gravel);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gravel-15px-2 {
+  color: var(--gravel);
+  font-family: "Overpass", Helvetica;
+  font-size: 15px;
+}
+.overpass-normal-gray-12px {
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-15px {
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 {
+  background-color: var(--white);
+  height: 14600px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 600px;
+}
+.privacy-policy-2 .about-us-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 14312px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-2 .as-required-by-law-this-may-in-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Segoe UI", Helvetica;
+  font-size: 15px;
+  height: 578px;
+  left: 69px;
+  letter-spacing: -0.18px;
+  line-height: 22px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 8870px;
+  width: 482px;
+}
+.privacy-policy-2 .browse-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 14286px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-2 .browse-poi346 {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  left: calc(43.19% - 22px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 50px;
+}
+.privacy-policy-2 .contact-us-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 14416px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-2 .cookies-web-bea-rson-has-access-C61RwL {
+  background-color: transparent;
+  height: 1806px;
+  left: 71px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 3424px;
+  width: 480px;
+}
+.privacy-policy-2 .customer-service954-787-0304-C61RwL {
+  background-color: transparent;
+  color: var(--gray);
+  font-family: "Overpass", Helvetica;
+  font-size: 12px;
+  height: 59px;
+  left: 398px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 14309px;
+  width: 161px;
+}
+.privacy-policy-2 .customers-also-nts-name-and-em-C61RwL {
+  background-color: transparent;
+  height: 249px;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 1570px;
+  width: 484px;
+}
+.privacy-policy-2 .do-not-track-se-tners-with-adve-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Nunito Sans", Helvetica;
+  font-size: 15px;
+  height: 703px;
+  left: 69px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 10354px;
+  width: 482px;
+}
+.privacy-policy-2 .editorial-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 14390px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-2 .editorial-poi346 {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(43.01% - 24px);
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+.privacy-policy-2 .email-subscription-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Overpass', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 154px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 13979px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-2 .fa-qs-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 14338px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-2 .faq-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 153px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-2 .for-communicati-keting-partners-C61RwL {
+  background-color: transparent;
+  height: 95px;
+  left: 68px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 6114px;
+  width: 483px;
+}
+.privacy-policy-2 .for-compliance-appropriate-to-C61RwL {
+  background-color: transparent;
+  height: 153px;
+  left: 68px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 5858px;
+  width: 483px;
+}
+.privacy-policy-2 .group-179-Ebfosa {
+  background-color: var(--white);
+  box-shadow: -5px 0px 15px rgba(0,0,0,0.051);;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.privacy-policy-2 .group-5-3cZhlu {
+  background-color: transparent;
+  background-image: url(../img/path-27@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 1px);
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 12px;
+}
+.privacy-policy-2 .group-6-3cZhlu {
+  background-color: transparent;
+  background-image: url(../img/path-28-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 1px);
+  left: calc(34.59% - 4px);
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+.privacy-policy-2 .group-7-3cZhlu {
+  background-color: transparent;
+  background-image: url(../img/path-30-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 100%;
+  position: absolute;
+  right: calc(32.50% - 4px);
+  top: 1px;
+  width: 12px;
+}
+.privacy-policy-2 .group-8-C61RwL {
+  background-color: transparent;
+  height: 12px;
+  left: 398px;
+  position: absolute;
+  top: 14295px;
+  width: 79px;
+}
+.privacy-policy-2 .if-you-are-the-ercerclubnyccom-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Segoe UI", Helvetica;
+  font-size: 15px;
+  height: 223px;
+  left: 71px;
+  letter-spacing: -0.38px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 11742px;
+  width: 480px;
+}
+.privacy-policy-2 .img2589-C61RwL {
+  background-color: transparent;
+  height: 661px;
+  left: 69px;
+  object-fit: cover;
+  position: absolute;
+  top: 7074px;
+  width: 480px;
+}
+.privacy-policy-2 .karsten-winegea-ie-v-i-unsplash-C61RwL {
+  background-color: transparent;
+  height: 238px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 288px;
+  width: 549px;
+}
+.privacy-policy-2 .line-4-C61RwL {
+  background-color: transparent;
+  height: 5px;
+  left: 278px;
+  object-fit: cover;
+  position: absolute;
+  top: 184px;
+  width: 103px;
+}
+.privacy-policy-2 .log-in-Ebfosa {
+  background-color: transparent;
+  bottom: calc(45.90% - 8px);
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(20.93% - 9px);
+  text-align: left;
+  white-space: nowrap;
+  width: 41px;
+}
+.privacy-policy-2 .membership-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 14364px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-2 .membership-poi346 {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(49.97% - 42px);
+  text-align: left;
+  white-space: nowrap;
+  width: 85px;
+}
+.privacy-policy-2 .mobile-device-i-g-fileslike-mos-C61RwL {
+  background-color: transparent;
+  height: 1540px;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 1844px;
+  width: 487px;
+}
+.privacy-policy-2 .nav-C61RwL {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  pointer-events: auto;
+  position: fixed;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 600px;
+}
+.privacy-policy-2 .nav-C61RwL:hover {
+
+transform: translate(0, -5px);
+}
+.privacy-policy-2 .path-13-3cZhlu {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+.privacy-policy-2 .path-292-Ebfosa {
+  background-color: transparent;
+  bottom: calc(12.57% - 1px);
+  height: 7px;
+  left: calc(50.00% - 7px);
+  object-fit: cover;
+  position: absolute;
+  width: 13px;
+}
+.privacy-policy-2 .path-31-d71PT4 {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: calc(100.00% - 5px);
+}
+.privacy-policy-2 .path-32-d71PT4 {
+  background-color: transparent;
+  height: 3px;
+  left: calc(49.94% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(49.94% - 2px);
+  width: 3px;
+}
+.privacy-policy-2 .path-851-C61RwL {
+  background-color: transparent;
+  height: 413px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 13805px;
+  width: 600px;
+}
+.privacy-policy-2 .path-852-C61RwL {
+  background-color: transparent;
+  height: 36px;
+  left: 371px;
+  object-fit: cover;
+  position: absolute;
+  top: 14036px;
+  width: 199px;
+}
+.privacy-policy-2 .personal-inform-dress-or-a-pers-C61RwL {
+  background-color: transparent;
+  height: 357px;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 1198px;
+  width: 484px;
+}
+.privacy-policy-2 .privacy-policy-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 281px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 153px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-2 .privacy-policy-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 248px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 14344px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-2 .privacy-policy-mzXdH9 {
+  background-color: transparent;
+  color: var(--black-haze);
+  font-family: 'Overpass', Helvetica;
+  font-size: 200px;
+  font-style: normal;
+  font-weight: 900;
+  height: 1604px;
+  left: 21px;
+  letter-spacing: 1.60px;
+  line-height: 184px;
+  opacity: 0.09;
+  position: absolute;
+  text-align: left;
+  top: 1096px;
+  width: 533px;
+}
+.privacy-policy-2 .rectangle-255-Ebfosa {
+  background-color: var(--white);
+  border-radius: 40px;
+  box-shadow: -5px 0px 15px rgba(0,0,0,0.051);;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.privacy-policy-2 .rectangle-57-C61RwL {
+  background-color: var(--white);
+  border-radius: 27px;
+  height: 53px;
+  left: 18px;
+  position: absolute;
+  top: 14027px;
+  width: 559px;
+}
+.privacy-policy-2 .rental-policy-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 151px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 153px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-2 .rental-policy-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 248px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 14292px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-2 .right-to-reques-the-sale-of-th-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 572px;
+  left: 71px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 12742px;
+  width: 480px;
+}
+.privacy-policy-2 .sign-up-Ebfosa {
+  background-color: transparent;
+  bottom: calc(45.90% - 8px);
+  height: 18px;
+  left: calc(16.52% - 8px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 49px;
+}
+.privacy-policy-2 .sign-up-for-membership-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 398px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 14048px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-2 .span0-0FuNgA {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: italic;
+  font-weight: 700;
+}
+.privacy-policy-2 .span0-BnpHHt {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-2 .span0-CUfxsI {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span0-CdCIQ1 {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span0-DBgWvj {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-2 .span0-Dtuhcr {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: italic;
+  font-weight: 700;
+  letter-spacing: 0.00px;
+}
+.privacy-policy-2 .span0-EJD6Mt {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: italic;
+  font-weight: 700;
+}
+.privacy-policy-2 .span0-GxTPai {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-2 .span0-KruMCy {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: italic;
+  font-weight: 700;
+}
+.privacy-policy-2 .span0-NenxNB {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-2 .span0-RStMOZ {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-2 .span0-Yhqu5J {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-2 .span0-an3SzE {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-2 .span0-fsOXV8 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -0.18px;
+}
+.privacy-policy-2 .span0-gdDxxS {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-2 .span0-iI0MfK {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-2 .span0-nLYbUc {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-2 .span0-qw9aQW {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: italic;
+  font-weight: 700;
+}
+.privacy-policy-2 .span0-tFRoSw {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: italic;
+  font-weight: 700;
+}
+.privacy-policy-2 .span0-uhDrVD {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: italic;
+  font-weight: 700;
+}
+.privacy-policy-2 .span0-zb3KL0 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-2 .span1-0FuNgA {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span1-BnpHHt {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span1-CUfxsI {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: italic;
+  font-weight: 400;
+}
+.privacy-policy-2 .span1-CdCIQ1 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-2 .span1-DBgWvj {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span1-Dtuhcr {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.24px;
+}
+.privacy-policy-2 .span1-EJD6Mt {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span1-GxTPai {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span1-KruMCy {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span1-NenxNB {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span1-RStMOZ {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span1-Yhqu5J {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span1-an3SzE {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span1-fsOXV8 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.18px;
+}
+.privacy-policy-2 .span1-gdDxxS {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span1-iI0MfK {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span1-nLYbUc {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span1-qw9aQW {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span1-tFRoSw {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span1-uhDrVD {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span1-zb3KL0 {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span10-iI0MfK {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-2 .span11-iI0MfK {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span12-iI0MfK {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-2 .span13-iI0MfK {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span14-iI0MfK {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-2 .span15-iI0MfK {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span2-CdCIQ1 {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span2-DBgWvj {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-2 .span2-Dtuhcr {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span2-KruMCy {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-2 .span2-NenxNB {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-2 .span2-an3SzE {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-2 .span2-fsOXV8 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -0.18px;
+}
+.privacy-policy-2 .span2-iI0MfK {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-2 .span3-DBgWvj {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span3-KruMCy {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span3-NenxNB {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span3-an3SzE {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Nunito Sans', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span3-fsOXV8 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.18px;
+}
+.privacy-policy-2 .span3-iI0MfK {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span4-DBgWvj {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-2 .span4-NenxNB {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-2 .span4-fsOXV8 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -0.18px;
+}
+.privacy-policy-2 .span4-iI0MfK {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-2 .span5-DBgWvj {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span5-NenxNB {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span5-fsOXV8 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.18px;
+}
+.privacy-policy-2 .span5-iI0MfK {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span6-NenxNB {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-2 .span6-fsOXV8 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -0.18px;
+}
+.privacy-policy-2 .span6-iI0MfK {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-2 .span7-NenxNB {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span7-fsOXV8 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.18px;
+}
+.privacy-policy-2 .span7-iI0MfK {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span8-NenxNB {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-2 .span8-fsOXV8 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span8-iI0MfK {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.privacy-policy-2 .span9-NenxNB {
+  color: rgba(0,0,0,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .span9-iI0MfK {
+  color: rgba(74,74,74,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-2 .supportthemercerclubnyccom-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 398px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 14356px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-2 .terms-conditions-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 401px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 153px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-2 .terms-conditions-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 248px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 14318px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-2 .the-mercer-club-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0.28px;
+  line-height: 23px;
+  position: absolute;
+  text-align: left;
+  top: 14256px;
+  white-space: nowrap;
+  width: auto;
+}
+.privacy-policy-2 .the-mercer-club-Ebfosa {
+  background-color: transparent;
+  bottom: calc(39.13% - 13px);
+  height: 33px;
+  left: calc(47.64% - 104px);
+  letter-spacing: 0.28px;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 218px;
+}
+.privacy-policy-2 .the-mercer-club-on-personally-i-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Segoe UI", Helvetica;
+  font-size: 15px;
+  height: 598px;
+  left: 69px;
+  letter-spacing: -0.42px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 8086px;
+  width: 482px;
+}
+.privacy-policy-2 .the-purposes-an-in-more-detail-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 46px;
+  left: 69px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 8016px;
+  width: 463px;
+}
+.privacy-policy-2 .the-purposes-an-low-in-addition-C61RwL {
+  background-color: transparent;
+  height: 315px;
+  left: 69px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 5284px;
+  width: 482px;
+}
+.privacy-policy-2 .to-comply-with-r-any-other-pur-C61RwL {
+  background-color: transparent;
+  height: 291px;
+  left: 68px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 6404px;
+  width: 483px;
+}
+.privacy-policy-2 .to-develop-and-for-example-by-C61RwL {
+  background-color: transparent;
+  height: 71px;
+  left: 69px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 6236px;
+  width: 482px;
+}
+.privacy-policy-2 .we-may-communic-r-mobile-device-C61RwL {
+  background-color: transparent;
+  height: 94px;
+  left: 69px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 6940px;
+  width: 472px;
+}
+.privacy-policy-2 .we-may-disclose-you-in-general-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Nunito Sans", Helvetica;
+  font-size: 20px;
+  height: 76px;
+  left: 69px;
+  letter-spacing: -0.18px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 7798px;
+  width: 482px;
+}
+.privacy-policy-2 .x-analyzing-usag-o-our-customers-C61RwL {
+  background-color: transparent;
+  height: 54px;
+  left: 69px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 6332px;
+  width: 482px;
+}
+.privacy-policy-2 .x-as-necessary-t-required-by-law-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 121px;
+  left: 69px;
+  letter-spacing: -0.18px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 7890px;
+  width: 482px;
+}
+.privacy-policy-2 .x-protect-our-yo-unauthorized-or-C61RwL {
+  background-color: transparent;
+  height: 130px;
+  left: 68px;
+  letter-spacing: -0.24px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 5958px;
+  width: 473px;
+}
+.privacy-policy-2 .x-to-present-you-in-finding-a-l-C61RwL {
+  background-color: transparent;
+  height: 243px;
+  left: 68px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 5608px;
+  width: 483px;
+}
+.privacy-policy-2 .x-to-provide-new-your-account-i-C61RwL {
+  background-color: transparent;
+  height: 191px;
+  left: 69px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 6728px;
+  width: 482px;
+}
+.privacy-policy-2 .x1-overviewthis-nd-any-of-our-s-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Overpass", Helvetica;
+  font-size: 20px;
+  height: 513px;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 612px;
+  width: 510px;
+}
+.privacy-policy-2 .x10-changes-to-t-may-revise-and-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Nunito Sans", Helvetica;
+  font-size: 15px;
+  height: 296px;
+  left: 71px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 13348px;
+  width: 480px;
+}
+.privacy-policy-2 .x11-contact-usif-ercerclubnyccom-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Nunito Sans", Helvetica;
+  font-size: 15px;
+  height: 96px;
+  left: 71px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 13662px;
+  width: 480px;
+}
+.privacy-policy-2 .x2-information-we-collect-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 1154px;
+  white-space: nowrap;
+  width: 629px;
+}
+.privacy-policy-2 .x3-how-we-use-your-information-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 69px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 5248px;
+  white-space: nowrap;
+  width: 482px;
+}
+.privacy-policy-2 .x4-how-we-disclo-our-information-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 700;
+  height: 29px;
+  left: 69px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 7772px;
+  white-space: nowrap;
+  width: 366px;
+}
+.privacy-policy-2 .x5-third-party-w-se-websites-are-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Nunito Sans", Helvetica;
+  font-size: 15px;
+  height: 137px;
+  left: 69px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 8718px;
+  width: 482px;
+}
+.privacy-policy-2 .x6-your-choicesa-nt-with-the-mer-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Nunito Sans", Helvetica;
+  font-size: 15px;
+  height: 862px;
+  left: 69px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 9470px;
+  width: 482px;
+}
+.privacy-policy-2 .x7-securitywe-us-we-make-good-fa-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Nunito Sans", Helvetica;
+  font-size: 15px;
+  height: 333px;
+  left: 69px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 11078px;
+  width: 482px;
+}
+.privacy-policy-2 .x8-childrens-pri-rvision-of-a-pa-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Segoe UI", Helvetica;
+  font-size: 15px;
+  height: 292px;
+  left: 69px;
+  letter-spacing: -0.38px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 11434px;
+  width: 482px;
+}
+.privacy-policy-2 .x9-notices-to-ca-third-partys-d-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Nunito Sans", Helvetica;
+  font-size: 15px;
+  height: 728px;
+  left: 71px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 11998px;
+  width: 480px;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --black-haze: rgba(247,247,247,1.0);
+  --cararra: rgba(235,235,235,1.0);
+  --dove-gray: rgba(112,112,112,1.0);
+  --fire-bush: rgba(231,148,42,1.0);
+  --gravel: rgba(74,74,74,1.0);
+  --gray: rgba(126,126,126,1.0);
+  --silver: rgba(192,192,192,1.0);
+  --white: rgba(255,255,255,1.0);
+}
+@media screen and (max-width: 1079px) {
+  .privacy-policy { 
+    display: none;
+   }
+  .privacy-policy-1 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1080px) and (max-width: 1919px) {
+  .privacy-policy { 
+    display: none;
+   }
+  .privacy-policy-2 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .privacy-policy-1 { 
+    display: none;
+   }
+  .privacy-policy-2 { 
+    display: none;
+   }
+}

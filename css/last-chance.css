@@ -1,0 +1,579 @@
+/* ------------Global Styles------------ */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Overpass", sans-serif;
+}
+
+a,
+button {
+  text-decoration: none;
+}
+
+.container {
+  padding: 1em 2em;
+}
+
+h1,
+h2 {
+  margin: 0em;
+}
+
+p {
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* ------------Header Styles------------ */
+header {
+  box-shadow: 0px 2px 21px 0px rgb(227, 227, 227);
+  width: 100%;
+  background-color: white;
+  position: sticky;
+  top: 0;
+  z-index: 3;
+}
+
+.nav-arrow {
+  margin-top: 1em;
+  height: 10px;
+}
+.grid-nav-container {
+  display: grid;
+  grid-template-columns: 23% 54% 11.5% 11.5%;
+  grid-template-rows: 50px;
+}
+
+.LOG-IN,
+.SIGN-UP {
+  color: rgba(231, 148, 42, 1);
+  align-self: center;
+  font-size: 0.7em;
+}
+
+.LOG-IN {
+  text-align: left;
+}
+.SIGN-UP {
+  text-align: right;
+}
+
+.brand-name {
+  color: black;
+  margin: 0 1em;
+  font-size: 0.5em;
+  font-weight: 900;
+}
+
+header div {
+  padding: 0;
+}
+
+.profile-icon img,
+.profile-icon {
+  align-self: center;
+  height: 2em;
+  justify-self: end;
+}
+
+.logo {
+  align-self: center;
+}
+
+/* ------------Drop Down Menu Styles Within Header------------ */
+.navMenu a {
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  text-decoration: none;
+}
+
+.navMenu .dropdown .dropbtn {
+  border: none;
+  outline: none;
+  background-color: white;
+  margin: 0;
+  width: 100%;
+}
+
+.navMenu .dropdown-content {
+  display: none;
+}
+
+.navMenu .dropdown-content a {
+  color: #fff;
+  text-decoration: none;
+  background-color: white;
+  color: rgb(121, 121, 121);
+  font-weight: 600;
+}
+
+.navMenu .dropdown:hover .dropdown-content {
+  display: grid;
+  grid-template-columns: 30% 40% 30%;
+  justify-content: center;
+  margin-top: 1em;
+}
+
+/* ------------Main Styles------------ */
+
+.arrow-container p {
+  font-size: 0.8rem;
+  font-style: italic;
+}
+
+.ava-out {
+  color: rgba(231, 148, 42, 1);
+}
+
+.email-sub {
+  background-color: black;
+  padding: 2em;
+  margin: 1em 0 2em 0;
+}
+
+.col-3 img {
+  height: 2em;
+}
+
+/* ------------Form Styles------------ */
+.email-sub h2 {
+  color: white;
+}
+form {
+  width: 100%;
+  position: relative;
+}
+
+label {
+  color: white;
+  font-weight: 600;
+  font-size: 1em;
+}
+
+input {
+  margin-top: 2em;
+  border-radius: 30px;
+  height: 4em;
+  width: 100%;
+}
+
+::placeholder {
+  padding-left: 1em;
+  color: rgb(192, 192, 192);
+  font-size: 0.8em;
+}
+
+.submit-btn {
+  background-color: rgba(231, 148, 42, 1);
+  border-radius: 30px;
+  cursor: pointer;
+  color: #ffffff;
+  height: 3.4em;
+  float: right;
+  right: 2px;
+  margin: 2em 0.5em;
+  position: absolute;
+  top: 12px;
+  border-style: none;
+  font-weight: 600;
+  font-size: 0.7em;
+  width: 40%;
+}
+
+input:focus {
+  outline: none;
+}
+
+/* ------------Footer Styles------------ */
+
+footer {
+  line-height: 1.5em;
+}
+
+footer .brand-name {
+  font-size: 1em;
+}
+
+footer a,
+footer p {
+  font-size: 0.75em;
+  text-decoration: none;
+  color: rgb(100, 100, 100);
+}
+
+@media (max-width: 425px) {
+  /* ------------Main Styles------------ */
+  .grid-main-container {
+    display: grid;
+    grid-template-columns: 5% 45% 6%;
+    justify-content: space-between;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    height: 100%;
+  }
+
+  .arrow-container p {
+    font-size: 0.5rem;
+    font-style: italic;
+  }
+
+  .arrowImage {
+    width: 18px;
+    height: 24px;
+  }
+
+  .left-arrow .arrow {
+    position: absolute;
+    top: 50%;
+    left: 6%;
+  }
+  .left-arrow .arrow-text {
+    position: absolute;
+    top: 54%;
+    left: 3%;
+  }
+  .right-arrow .arrow {
+    position: absolute;
+    top: 50%;
+    right: 6%;
+  }
+  .right-arrow .arrow-text {
+    position: absolute;
+    top: 54%;
+    right: 3%;
+  }
+  .image-container-1row {
+    display: grid;
+    grid-template-columns: 100%;
+    justify-content: center;
+    margin-bottom: 1%;
+  }
+  .image-container-2row {
+    display: grid;
+    grid-template-columns: 100%;
+    justify-content: center;
+    margin: auto;
+  }
+
+  .img-2Col-col-1,
+  .img-2Col-col-2,
+  .img-2Col-col-3,
+  .img-2Col-col-4 {
+    position: relative;
+    right: 35%;
+    width: 65vw;
+    height: auto;
+  }
+  .img-3Col {
+    /* width: 65vw;
+    height: 46vh;
+    position: relative;
+    top: 100%;
+    right: 100%; */
+    display:none;
+  }
+  .img-4Col {
+    /* width: 35vw;
+    height: 46vh;
+    position: relative;
+    margin: auto; */
+    display:none;
+  }
+}
+
+@media (min-width: 768px) {
+  /* ------------Header Styles------------ */
+  .grid-nav-container {
+    display: grid;
+    grid-template-columns: 8em 20em 4em 4em;
+    justify-content: center;
+  }
+
+  .brand-name {
+    font-size: 1em;
+  }
+
+  .navMenu .dropdown:hover .dropdown-content {
+    grid-template-columns: 8em 8em 8em;
+  }
+
+  /* ------------Main Styles------------ */
+  .grid-main-container {
+    display: grid;
+    grid-template-columns: 5% 45% 26% 13% 6%;
+    justify-content: space-between;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    height: 100%;
+  }
+
+  .arrow-container p {
+    font-size: 0.5rem;
+    font-style: italic;
+  }
+
+  .arrowImage {
+    width: 18px;
+    height: 24px;
+  }
+
+  .image-container-1row {
+    display: grid;
+    grid-template-columns: 49% 49%;
+    justify-content: space-between;
+    margin-bottom: 1%;
+  }
+  .image-container-2row {
+    display: grid;
+    grid-template-columns: 24% 74%;
+    justify-content: space-between;
+  }
+
+  .arrow-container a,
+  p {
+    position: relative;
+    top: 38%;
+  }
+
+  .img-2Col-col-1,
+  .img-2Col-col-2,
+  .img-2Col-col-3,
+  .img-2Col-col-4 {
+    width: 100%;
+    height: 22.4vh;
+  }
+
+  .img-3Col,
+  .img-4Col {
+    width: 100%;
+    height: auto;
+  }
+  .img-3Col,
+  .img-4Col {
+    height: 46vh;
+  }
+
+  /* ------------Form Styles------------ */
+  label {
+    font-size: 2em;
+  }
+
+  input {
+    margin-top: 2em;
+    height: 4em;
+  }
+
+  .email-sub {
+    background-color: black;
+    padding: 1.5em;
+  }
+  ::placeholder {
+    font-size: 1em;
+  }
+
+  /* ------------Footer Styles------------ */
+  footer {
+    text-align: left;
+    padding: 9em;
+  }
+  footer .brand-name {
+    margin: 0em;
+    font-size: 1.5em;
+  }
+  .grid-footer-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+  }
+  .col-3 img {
+    height: 10%;
+  }
+}
+
+@media (min-width: 1024px) {
+  /* ------------Main Styles------------ */
+  .grid-main-container {
+    display: grid;
+    grid-template-columns: 5% 45% 26% 13% 6%;
+    justify-content: space-between;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    height: 100%;
+  }
+
+  .image-container-1row {
+    display: grid;
+    grid-template-columns: 49% 49%;
+    justify-content: space-between;
+    margin-bottom: 1%;
+  }
+  .image-container-2row {
+    display: grid;
+    grid-template-columns: 24% 74%;
+    justify-content: space-between;
+  }
+
+  .arrow-container a,
+  p {
+    position: relative;
+    top: 38%;
+  }
+
+  .img-2Col-col-1,
+  .img-2Col-col-2,
+  .img-2Col-col-3,
+  .img-2Col-col-4 {
+    width: 100%;
+    height: 27.3vh;
+  }
+
+  .img-3Col,
+  .img-4Col {
+    width: 100%;
+    height: auto;
+  }
+  .img-3Col,
+  .img-4Col {
+    height: 56vh;
+  }
+  .email-sub {
+    background-color: black;
+    padding: 3.5em;
+  }
+}
+@media (min-width: 1440px) {
+  /* ------------Main Styles------------ */
+  .grid-main-container {
+    display: grid;
+    grid-template-columns: 5% 45% 26% 12% 6%;
+    justify-content: space-between;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    height: 100%;
+  }
+
+  .image-container-1row {
+    display: grid;
+    grid-template-columns: 48.5% 48.5%;
+    justify-content: space-between;
+    margin-bottom: 1%;
+  }
+  .image-container-2row {
+    display: grid;
+    grid-template-columns: 23.5% 73.5%;
+    justify-content: space-between;
+  }
+
+  .arrow-container a,
+  p {
+    position: relative;
+    top: 38%;
+  }
+
+  .img-2Col-col-1,
+  .img-2Col-col-2,
+  .img-2Col-col-3,
+  .img-2Col-col-4 {
+    width: 100%;
+    height: 37.25vh;
+  }
+
+  .img-3Col,
+  .img-4Col {
+    width: 100%;
+    height: auto;
+  }
+  .img-3Col,
+  .img-4Col {
+    height: 76vh;
+  }
+
+  .email-sub {
+    background-color: black;
+    padding: 5em;
+  }
+}
+@media (min-width: 2560px) {
+  /* ------------Main Styles------------ */
+  .grid-main-container {
+    display: grid;
+    grid-template-columns: 5% 45% 26% 12% 6%;
+    justify-content: space-between;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    height: 100%;
+  }
+
+  .image-container-1row {
+    display: grid;
+    grid-template-columns: 48.5% 48.5%;
+    justify-content: space-between;
+    margin-bottom: 1%;
+  }
+  .image-container-2row {
+    display: grid;
+    grid-template-columns: 23.5% 73.5%;
+    justify-content: space-between;
+  }
+
+  .arrow-container a,
+  p {
+    position: relative;
+    top: 38%;
+  }
+
+  .img-2Col-col-1,
+  .img-2Col-col-2,
+  .img-2Col-col-3,
+  .img-2Col-col-4 {
+    width: 100%;
+    height: 38.45vh;
+  }
+
+  .img-3Col,
+  .img-4Col {
+    width: 100%;
+    height: auto;
+  }
+  .img-3Col,
+  .img-4Col {
+    height: 78vh;
+  }
+
+  .email-sub {
+    background-color: black;
+    padding: 7em;
+  }
+
+  input {
+    margin-top: 2em;
+    border-radius: 30px;
+    height: 5em;
+    width: 100%;
+  }
+
+  label {
+    color: white;
+    font-weight: 600;
+    font-size: 2em;
+  }
+
+  .submit-btn {
+    position: absolute;
+    top: 1px;
+    border-style: none;
+    font-weight: 700;
+    font-size: 1em;
+    width: 40%;
+  }
+}

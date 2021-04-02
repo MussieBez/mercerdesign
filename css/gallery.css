@@ -1,0 +1,342 @@
+/* ------------Global Styles------------ */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Overpass", sans-serif;
+}
+
+a,
+button {
+  text-decoration: none;
+}
+
+.container {
+  padding: 1em 2em;
+}
+
+h1,
+h2 {
+  margin: 0em;
+}
+
+p {
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* ------------Header Styles------------ */
+header {
+  box-shadow: 0px 2px 21px 0px rgb(227, 227, 227);
+  width: 100%;
+  background-color: white;
+  position: sticky;
+  top: 0;
+  z-index: 3;
+}
+
+.nav-arrow {
+  margin-top: 1em;
+  height: 10px;
+}
+.grid-nav-container {
+  display: grid;
+  grid-template-columns: 23% 54% 11.5% 11.5%;
+  grid-template-rows: 50px;
+}
+
+.LOG-IN,
+.SIGN-UP {
+  color: rgba(231, 148, 42, 1);
+  align-self: center;
+  font-size: 0.7em;
+}
+
+.LOG-IN {
+  text-align: left;
+}
+.SIGN-UP {
+  text-align: right;
+}
+
+.brand-name {
+  color: black;
+  margin: 0 1em;
+  font-size: 0.5em;
+  font-weight: 900;
+}
+
+header div {
+  padding: 0;
+}
+
+.profile-icon img,
+.profile-icon {
+  align-self: center;
+  height: 2em;
+  justify-self: end;
+}
+
+.logo {
+  align-self: center;
+}
+
+/* ------------Drop Down Menu Styles Within Header------------ */
+.navMenu a {
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  text-decoration: none;
+}
+
+.navMenu .dropdown .dropbtn {
+  border: none;
+  outline: none;
+  background-color: white;
+  margin: 0;
+  width: 100%;
+}
+
+.navMenu .dropdown-content {
+  display: none;
+}
+
+.navMenu .dropdown-content a {
+  color: #fff;
+  text-decoration: none;
+  background-color: white;
+  color: rgb(121, 121, 121);
+  font-weight: 600;
+}
+
+.navMenu .dropdown:hover .dropdown-content {
+  display: grid;
+  grid-template-columns: 30% 40% 30%;
+  justify-content: center;
+  margin-top: 1em;
+}
+
+/* ------------Main Styles------------ */
+main button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 3px;
+  /* margin-left: 57%; */
+}
+
+.trash-icon {
+  width: 40%;
+  height: auto;
+  background-color: none;
+  cursor: pointer;
+  float: right;
+}
+.gallery-img {
+  width: 100%;
+  height: auto;
+  /* max-width: 100%;
+  max-height: 100%; */
+  text-align: center;
+}
+.card {
+  text-align: center;
+  padding: 1em 0;
+}
+
+.brd-name {
+  font-weight: 900;
+}
+
+.ava-out {
+  color: rgba(231, 148, 42, 1);
+}
+
+.email-sub {
+  background-color: black;
+  padding: 2em;
+  margin: 1em 0 2em 0;
+}
+
+.col-3 img {
+  height: 2em;
+}
+
+/* ------------Form Styles------------ */
+.email-sub h2 {
+  color: white;
+}
+form {
+  width: 100%;
+  position: relative;
+}
+
+label {
+  color: white;
+  font-weight: 600;
+  font-size: 1em;
+}
+
+input {
+  margin-top: 2em;
+  border-radius: 30px;
+  height: 4em;
+  width: 100%;
+}
+
+::placeholder {
+  padding-left: 1em;
+  color: rgb(192, 192, 192);
+  font-size: 0.8em;
+}
+
+.submit-btn {
+  background-color: rgba(231, 148, 42, 1);
+  border-radius: 30px;
+  cursor: pointer;
+  color: #ffffff;
+  height: 3.4em;
+  float: right;
+  right: 2px;
+  margin: 2em 0.5em;
+  position: absolute;
+  top: 12px;
+  border-style: none;
+  font-weight: 600;
+  font-size: 0.7em;
+  width: 40%;
+}
+
+input:focus {
+  outline: none;
+}
+
+/* ------------Footer Styles------------ */
+
+footer {
+  line-height: 1.5em;
+}
+
+footer .brand-name {
+  font-size: 1em;
+}
+
+footer a,
+footer p {
+  font-size: 0.75em;
+  text-decoration: none;
+  color: rgb(100, 100, 100);
+}
+
+@media (max-width: 425px) {
+  .trash-icon {
+    font-size: 0.5rem;
+    float: right;
+    width: fit-content;
+  }
+  .card{
+    margin-bottom: 2rem;
+    padding: 0.2em 0;
+  }
+}
+
+@media (min-width: 768px) {
+  /* ------------Header Styles------------ */
+  .grid-nav-container {
+    display: grid;
+    grid-template-columns: 8em 20em 4em 4em;
+    justify-content: center;
+  }
+
+  .brand-name {
+    font-size: 1em;
+  }
+
+  .navMenu .dropdown:hover .dropdown-content {
+    grid-template-columns: 8em 8em 8em;
+  }
+
+  /* ------------Main Styles------------ */
+
+  .grid-main-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-content: space-between;
+  }
+
+  .gallery-img {
+    height: 80%;
+    width: 70%;
+  }
+
+  .card {
+    padding: 2em;
+  }
+  .trash-icon {
+    font-size: 0.5rem;
+    width: 35%;
+  }
+  /* ------------Form Styles------------ */
+  label {
+    font-size: 2em;
+  }
+
+  input {
+    margin-top: 2em;
+    height: 4em;
+  }
+
+  .email-sub {
+    background-color: black;
+    padding: 7em;
+  }
+  ::placeholder {
+    font-size: 1em;
+  }
+
+  /* ------------Footer Styles------------ */
+  footer {
+    text-align: left;
+    padding: 9em;
+  }
+  footer .brand-name {
+    margin: 0em;
+    font-size: 1.5em;
+  }
+  .grid-footer-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+  }
+  .col-3 img {
+    height: 10%;
+  }
+}
+
+@media (min-width: 1024px) {
+  /* ------------Main Styles------------ */
+  .grid-main-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .trash-icon {
+    font-size: 0.5rem;
+  }
+  
+}
+@media (min-width: 2560px) {
+  /* ------------Main Styles------------ */
+  .trash-icon {
+    font-size: 1rem;
+  }
+  
+}

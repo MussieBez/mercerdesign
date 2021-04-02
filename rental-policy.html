@@ -1,0 +1,1131 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/rental-policy.css" />
+    <style>
+      @import url("https://fonts.googleapis.com/css?family=Overpass:400,700,900,600,400italic|Nunito+Sans:400,700,900,300,400italic,700italic,300italic");
+
+      @font-face {
+        font-family: "SegoeUI-Bold";
+        font-style: normal;
+        font-weight: 700;
+        src: url("https://anima-uploads.s3.amazonaws.com/5c584d745e9ae3000a003018/segoeuib.ttf") format("truetype");
+      }
+
+      @font-face {
+        font-family: "SegoeUI-Regular";
+        font-style: normal;
+        font-weight: 400;
+        src: url("https://anima-uploads.s3.amazonaws.com/5c4fb9717d3628000b06e02f/segoe-ui.ttf") format("truetype");
+      }
+
+      .component-wrapper a,
+      .screen a {
+        text-decoration: none;
+        display: contents;
+      }
+
+      .full-width-a {
+        width: 100%;
+      }
+
+      .full-height-a {
+        height: 100%;
+      }
+
+      .screen textarea:focus,
+      .screen input:focus {
+        outline: none;
+      }
+
+      .screen *,
+      .component-wrapper * {
+        box-sizing: border-box;
+        -webkit-font-smoothing: antialiased;
+      }
+
+      .screen div {
+        -webkit-text-size-adjust: none;
+      }
+
+      .container-center-vertical,
+      .container-center-horizontal {
+        pointer-events: none;
+        display: flex;
+        flex-direction: row;
+        padding: 0;
+        margin: 0;
+      }
+
+      .container-center-vertical {
+        align-items: center;
+        height: 100%;
+      }
+
+      .container-center-horizontal {
+        justify-content: center;
+        width: 100%;
+      }
+
+      .container-center-vertical > *,
+      .container-center-horizontal > * {
+        pointer-events: auto;
+        flex-shrink: 0;
+      }
+
+      .component-wrapper,
+      .screen {
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        word-break: break-all;
+        word-break: break-word;
+      }
+
+      .auto-animated div {
+        opacity: 0;
+        position: absolute;
+        --z-index: -1;
+      }
+
+      .auto-animated .container-center-vertical,
+      .auto-animated .container-center-horizontal {
+        opacity: 1;
+      }
+
+      .overlay {
+        position: absolute;
+        opacity: 0;
+        display: none;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        position: fixed;
+      }
+
+      .animate-appear {
+        opacity: 0;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 normal forwards;
+      }
+
+      .animate-disappear {
+        opacity: 1;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 reverse forwards;
+      }
+
+      .animate-nodelay {
+        animation-delay: 0s;
+      }
+
+      @keyframes reveal {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+      .align-self-flex-start {
+        align-self: flex-start;
+      }
+      .align-self-flex-end {
+        align-self: flex-end;
+      }
+      .align-self-flex-center {
+        align-self: center;
+      }
+      .valign-text-middle {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .valign-text-bottom {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+      }
+      input:focus {
+        outline: none;
+      }
+      .component-wrapper,
+      .component-wrapper * {
+        pointer-events: none;
+      }
+
+      .component-wrapper a *,
+      .component-wrapper a,
+      .component-wrapper input,
+      .component-wrapper video,
+      .component-wrapper iframe,
+      .listeners-active,
+      .listeners-active * {
+        pointer-events: auto;
+      }
+
+      .hidden,
+      .hidden * {
+        visibility: hidden;
+        pointer-events: none;
+      }
+
+      .smart-layers-pointers,
+      .smart-layers-pointers * {
+        pointer-events: auto;
+        visibility: visible;
+      }
+
+      .component-wrapper.not-ready,
+      .component-wrapper.not-ready * {
+        visibility: hidden !important;
+      }
+
+      .listeners-active-click,
+      .listeners-active-click * {
+        cursor: pointer;
+      }
+    </style>
+    <meta name="author" content="AnimaApp.com - Design to code, Automated." />
+  </head>
+  <body style="margin: 0; background: rgba(255, 255, 255, 1)">
+    <input type="hidden" id="anPageName" name="page" value="rental-policy" />
+    <div class="container-center-horizontal">
+      <div class="rental-policy screen">
+        <div class="flex-col-C61RwL">
+          <div class="flex-col-0xy0vn">
+            <div class="nav-xpmbvu">
+              <div class="group-179-muqwAb">
+                <div class="browse-0ubkx9 overpass-normal-gray-15px">Browse</div>
+                <div class="membership-0ubkx9 overpass-normal-gray-15px">Membership</div>
+                <div class="editorial-0ubkx9 overpass-normal-gray-15px">Editorial</div>
+              </div>
+              <div class="rectangle-255-muqwAb"></div>
+              <div class="the-mercer-club-muqwAb overpass-black-black-23px">THE MERCER CLUB</div>
+              <div class="log-in-muqwAb overpass-bold-fire-bush-12px">LOG-IN</div>
+              <div class="sign-up-muqwAb overpass-bold-fire-bush-12px">SIGN-UP</div>
+              <img class="path-292-muqwAb" src="img/path-292@1x.png" />
+              <div class="log-in-e4xgKU">
+                <div class="mask-group-1-BWYyxP">
+                  <div class="group-172-Oq4yWJ">
+                    <div class="group-164-OOPFAM border-1px-cararra">
+                      <div class="email-yrW0L4 nunitosans-normal-silver-10px">Email</div>
+                    </div>
+                    <div class="group-163-OOPFAM border-1px-cararra">
+                      <div class="password-atNbiA nunitosans-normal-silver-10px">Password</div>
+                    </div>
+                  </div>
+                </div>
+                <div class="group-173-BWYyxP">
+                  <img class="path-5-hxbpWu" src="img/path-5@1x.png" />
+                  <img class="line-2-hxbpWu" src="img/line-2@1x.png" />
+                </div>
+              </div>
+              <a href="dashboard.html"><img class="placeholder-person-muqwAb" src="img/placeholder-person@1x.png" /></a>
+              <div class="component-22-1-muqwAb">
+                <div class="mask-group-1-358aYo">
+                  <div class="group-172-i5lxlV">
+                    <div class="group-164-dYmxNj border-1px-cararra">
+                      <div class="email-XfcshI nunitosans-normal-silver-10px">Email</div>
+                    </div>
+                    <div class="group-174-dYmxNj border-1px-cararra">
+                      <div class="name-E4z7x9 nunitosans-normal-silver-10px">Name</div>
+                    </div>
+                    <div class="group-163-dYmxNj border-1px-cararra">
+                      <div class="password-WmNwgv nunitosans-normal-silver-10px">Password</div>
+                    </div>
+                  </div>
+                </div>
+                <div class="component-21-1-358aYo">
+                  <img class="path-5-SkFUBF" src="img/path-5-3@1x.png" />
+                  <img class="line-2-SkFUBF" src="img/line-2@1x.png" />
+                </div>
+              </div>
+            </div>
+            <div class="flex-row-xpmbvu">
+              <a href="faq.html"><div class="faq-fKmFVR overpass-bold-black-15px">FAQ</div></a>
+              <div class="rental-policy-fKmFVR overpass-bold-black-15px">Rental Policy</div>
+              <a href="privacy-policy.html"
+                ><div class="privacy-policy-fKmFVR overpass-bold-black-15px">Privacy Policy</div></a
+              >
+              <a href="terms-conditions.html"
+                ><div class="terms-conditions-fKmFVR overpass-bold-black-15px">Terms &amp; Conditions</div></a
+              >
+            </div>
+            <img class="line-4-xpmbvu" src="img/line-4-1@1x.png" />
+            <img class="img7544-xpmbvu" src="img\tmc_winter_ad__20.png" />
+            <div class="overlap-group-xpmbvu">
+              <div class="rental-policy-O40pOL">RENTAL POLICY</div>
+              <!-- <div class="these-terms-and-d-rent-articles-O40pOL">
+                These terms and conditions are a legal agreement between you (&#34;You&#34; or &#34;Your&#34;) and The
+                Mercer Club, Inc.&nbsp;&nbsp;(&#34;The Mercer Club, Inc.,&#34; &#34;We,&#34;, “we” &#34;us,&#34; or
+                &#34;our&#34;), establishing terms and conditions under which You will submit information to, and rent
+                articles of clothing and accessories (each a “Product” and collectively, &#34;Products or Items&#34;)
+                and receive related services (“Services”) from, The Mercer Club, Inc. via our website at
+                https://www.themercerclubnyc.com (the &#34;Website&#34;).<br /><br />CAREFULLY READ THE TERMS AND
+                CONDITIONS OF THIS AGREEMENT. BY ORDERING PRODUCTS OFFERED ON OUR SITE, SIGNING UP FOR THE SERVICE AND
+                PUTTING IN YOUR CREDIT CARD DETAILS, YOU ARE AGREEING TO BE BOUND BY AND ARE BECOMING A PARTY TO THIS
+                AGREEMENT. IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THIS AGREEMENT, PLEASE DO NOT ORDER ANY PRODUCTS
+                AND DO NOT RENT THE PRODUCTS.<br /><br />WE RESERVE THE RIGHT TO CHANGE THE TERMS OF THIS AGREEMENT IN
+                THE FUTURE AND ANY CHANGES WILL APPLY TO THE RENTAL OF ANY PRODUCTS AFTER THE DATE OF SUCH CHANGE.
+              </div> -->
+            </div>
+            <div class="x1-general-renta-eement-required-xpmbvu overpass-bold-black-20px">
+              1. General; Rental Not Purchase; Adult Agreement Required.
+            </div>
+            <div class="flex-row-9Sxrs4">
+              <div class="this-agreement-set-forth-in-t-4xxXEe overpass-normal-gravel-15px">
+                This Agreement contains all the terms and conditions governing Your rental of Products from The Mercer
+                Club, Inc. via themercerclubnyc.com website from time to time. You agree that Your general use of our
+                Website, other than rental orders as set forth in this Agreement, is subject in all respects to our
+                Website Terms and Conditions of Use available at Terms &amp; Conditions and Privacy Policy at Privacy,
+                as such terms may change from time to time. No other terms or conditions (preprinted or otherwise) shall
+                have any force or effect. You agree and acknowledge that You are renting the Products and that ownership
+                of the Products remains with The Mercer Club, Inc. at all times.
+              </div>
+              <div class="our-products-ma-age-you-may-acc-4xxXEe overpass-normal-gravel-15px">
+                Our Products may be rented for use by individuals under 18 years of age, but rentals are made only to
+                adults who must provide credit card information which must be approved by our merchant and processing
+                agent. If You are under 18 years of age, You may accept these terms and conditions and order Products
+                only with involvement and approval of Your parent or legal guardian. We currently and generally limit
+                the number of articles of clothing that can be rented by You and our other customers to TWO (2) at any
+                time. Your purchase of a subscription provides you one (1) or two (2) articles of clothing per order,
+                quantities of each as defined by your membership plan, that can be in your possession at any given time
+                until the rental period of three (3) days is over so long as you continue to make RECURRING payments for
+                your membership each month.
+              </div>
+            </div>
+            <div class="x2-rental-fees-c-s-cancellations-xpmbvu overpass-bold-black-20px">
+              2. Rental Fees; Credit Card Authorizations; Cancellations.
+            </div>
+            <div class="flex-row-NEryYQ">
+              <div class="the-rental-fee-ur-order-you-he-JqV6J8 overpass-normal-gravel-15px">
+                The rental fee (“Rental Fee”) for the Products will be the monthly rental fee (as defined on the website
+                for your specific membership) PLUS any insurance or shipping charges listed on the website in connection
+                with your membership.<br /><br />Upon Your order, You hereby authorize us to charge your credit card for
+                the Rental Fee and / or monthly subscription fee on a RECURRING basis whereby your card will be
+                automatically charged thirty days from the commencement of your membership. We will charge Your credit
+                card the amount of the Rental Fee immediately upon Your rental order or checkout where you confirm and
+                submit – “Check Out”.
+              </div>
+              <div class="in-addition-at-ue-provided-tha-JqV6J8 overpass-normal-gravel-15px">
+                In addition, at the time of Your order of a Product, You hereby authorize The Mercer Club, Inc. to
+                charge Your credit card for the ORIGINAL RETAIL VALUE of that Product (when new) as set forth, plus any
+                applicable sales taxes (“Retail Value”); provided that we will only charge the Retail Value in the
+                circumstances set forth in Section 4 below.<br /><br />Rental Fees exclude all federal, state and local
+                taxes, fees, customs, duties, levies and other governmental assessments, all of which shall be paid by
+                You directly or, if paid by The Mercer Club, Inc., shall be reimbursed by You to The Mercer Club, Inc.
+                in connection with Your order for the rental.<br /><br />You may cancel your membership at any time
+                prior to the renewal of your membership to The Mercer Club to avoid being charged for another month.
+                Canceling account post renewal date will result in your account being charged for an entire month of The
+                Mercer Club membership. Once you cancel your membership, you are responsible for submitting to the U.S.
+                Postal Service (USPS) through Priority Mail any outstanding articles of clothing or accessories in your
+                possession within THREE (3) CALENDAR DAYS. Failure to do so will result in you being charged for the
+                entire value of the Product, which at that point will be yours to keep.
+              </div>
+            </div>
+            <div class="x3-the-mercer-club-offering-xpmbvu overpass-bold-black-20px">3. The Mercer Club Offering.</div>
+            <div class="flex-row-CwAhOb">
+              <div class="a-deliveryall-d-for-not-meetin-VM8DSh overpass-normal-gravel-15px-2">
+                <span class="span0-Zafaqs">a. Delivery<br /></span
+                ><span class="span1-Zafaqs"
+                  >All deliveries will be made as per The Mercer Club delivery and mailing schedules. Sometimes The
+                  Mercer Club Products may appear slightly different in color and style than the photos displayed on our
+                  website. Our liability to you for not meeting your satisfaction is limited to refund of a maximum of
+                  one month’s rental fee divided by 4 (excluding insurance and any relevant delivery charges) as
+                  determined by us. See Section 5(b) below.<br /><br /></span
+                ><span class="span2-Zafaqs">b. Guarantees<br /></span
+                ><span class="span3-Zafaqs"
+                  >Return of Unworn Products Due to Size. If Your Product does not fit You, then You may return the
+                  Product(s) to us by simply mailing to us using the pre-paid label and inform us via email or phone
+                  that you are returning the Product(s) in conformance with the return procedures in Section 4(b) below
+                  (a “Sizing Return”). Unless you are completely dissatisfied with your garments, no refund will be
+                  issued and another Product will be mailed to you automatically.</span
+                >
+              </div>
+              <div class="c-cleaningall-p-er-club-inc-sha-VM8DSh overpass-normal-gravel-15px-2">
+                <span class="span0-yYfK9i">c. Cleaning<br /></span
+                ><span class="span1-yYfK9i"
+                  >All Products will be professionally cleaned and delivered ready to wear for each consumer. We tumble
+                  wash and / or dry clean and inspect each product with the utmost care, but use of the product is at
+                  your own risk and The Mercer Club, Inc. shall not be held liable for any health-related complaints
+                  associated with a product rented from our site.<br /><br /></span
+                ><span class="span2-yYfK9i">d. Return Packaging<br /></span
+                ><span class="span3-yYfK9i"
+                  >With delivery of the Product, we will provide You with a pre-paid, pre-addressed envelope or box as
+                  well as instructions for Your use in returning the Products to The Mercer Club, Inc. (“Return
+                  Packaging”).<br /><br /></span
+                ><span class="span4-yYfK9i">e. Services<br /></span
+                ><span class="span5-yYfK9i"
+                  >On our Website, we offer various Services to assist You in selecting a Product. Our Services are
+                  provided “AS IS” without guarantee as to results.</span
+                >
+              </div>
+            </div>
+            <div class="x4-your-commitme-of-retail-value-xpmbvu overpass-bold-black-20px">
+              4. Your Commitments to Us; Payment of Retail Value.
+            </div>
+            <div class="flex-row-xoTq4a">
+              <div class="a-receipt-of-th-cknowledge-that-3RAdEZ overpass-normal-gravel-15px-2">
+                <span class="span0-LeajNK">a. Receipt of the Products<br /></span
+                ><span class="span1-LeajNK"
+                  >Upon shipment, You bear responsibility for the Product(s). In the event that an unsecure shipping
+                  address is provided, The Mercer Club, Inc. does not bear liability for Products left unattended.
+                  Furthermore, You acknowledge that providing anything other than a secure shipping address may result
+                  in delivery delays and additional delivery fees for which The Mercer Club, Inc. is not to be held
+                  liable, but You will be held liable.<br /><br /></span
+                ><span class="span2-LeajNK">b. Use of the Products<br /></span
+                ><span class="span3-LeajNK"
+                  >You agree to treat the Products with great care, and return it in the same condition as was delivered
+                  to you. You are completely responsible for loss, destruction or damage to the Products due to theft,
+                  disappearance, fire, stains or any other cause, other than normal wear and tear. Normal wear and tear
+                  encompasses minor stains, missing beads, stuck zippers or other minor damage covered by the
+                  subscription price you paid in order to rent the Product. If You return a Product that is damaged
+                  beyond normal wear and tear, then You agree that we shall charge You, and You shall pay, for repairing
+                  or replacing the Product, as determined in our discretion, as advertised on our site OR explained to
+                  you in the package delivered to you.<br /><br /></span
+                ><span class="span4-LeajNK">c. Payment of Retail Value<br /></span
+                ><span class="span5-LeajNK"
+                  >You agree to treat the Products with great care, and return it in the same condition as was delivered
+                  to you. You are completely responsible for loss, destruction or damage to the Products due to theft,
+                  disappearance, fire, stains or any other cause, other than normal wear and tear.<br /><br />-
+                  Collections: If You do not pay the amounts You owe us when due, then we may institute collection
+                  procedures. You agree to pay our costs of collection, including without limitation reasonable
+                  attorneys’ fees.<br /><br />- Removal: We reserve the right to terminate your right to be a member of
+                  The Mercer Club at any time in the event of Your breach of this Agreement or for no reason or any
+                  other reason in our discretion.</span
+                >
+              </div>
+              <div class="d-emailwe-will-ose-e-mails-whe-3RAdEZ overpass-normal-gravel-15px-2">
+                <span class="span0-ubza6I">d. Email<br /></span
+                ><span class="span1-ubza6I"
+                  >We will use the preferences and orders You provide on our Website to send You e-mails and other
+                  marketing materials for other Products. You may opt out of receiving those e-mails by clicking on the
+                  links provided at the bottom of those e-mails when available.<br /><br /></span
+                ><span class="span2-ubza6I">e. Limited Warranty<br /></span
+                ><span class="span3-ubza6I"
+                  >The limited warranties set forth in Section 3 apply only to You, may be acted upon only by You, and
+                  may not be assigned, sold or transferred to any third party. No warranties are granted other than as
+                  set forth in Section 3. Our warranty herein shall not apply to any matters arising from violation of
+                  Your commitments set forth in Section 4 of this Agreement.<br /><br /></span
+                ><span class="span4-ubza6I">f. Remedies<br /></span
+                ><span class="span5-ubza6I"
+                  >Your sole and exclusive remedy and The Mercer Club, Inc.’s sole and exclusive liability for a breach
+                  of The Mercer Club, Inc.’s limited warranty shall be, at The Mercer Club, Inc.’s option, The Mercer
+                  Club, Inc.’s use of its commercially reasonable efforts to replace the non-conforming Product in a
+                  timely manner or a refund of Your Rental Fee (excluding insurance and delivery charges).<br /><br /></span
+                ><span class="span6-ubza6I">g. Disclaimers<br /></span
+                ><span class="span7-ubza6I"
+                  >THIS LIMITED WARRANTY IS IN LIEU OF ANY OTHER WARRANTIES, WHETHER EXPRESS OR IMPLIED, WRITTEN OR ORAL
+                  (INCLUDING, WITHOUT LIMITATION, ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR
+                  NON-INFRINGEMENT) WITH RESPECT TO THE PRODUCTS, THE SERVICES RELATED THERETO OR THE USE OR RESULTS OF
+                  THE PRODUCTS OR SERVICES.</span
+                >
+              </div>
+            </div>
+            <div class="x5-limitation-of-liability-xpmbvu overpass-bold-black-20px">5. Limitation of Liability.</div>
+            <div class="flex-row-vzHI8C">
+              <div class="a-no-indirect-d-ss-of-profits-o-5xB171 overpass-normal-gravel-15px-2">
+                <span class="span0-9YBJLp">a. No Indirect Damages. <br /></span
+                ><span class="span1-9YBJLp"
+                  >IN NO EVENT SHALL THE MERCER CLUB, INC. / (OR ITS SUPPLIERS OR LICENSORS) BE LIABLE TO YOU OR ANY
+                  THIRD PARTY FOR SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY, PUNITIVE, MULTIPLE OR OTHER INDIRECT
+                  DAMAGES, OR FOR LOSS OF PROFITS OR LOSS OF USE DAMAGES, ARISING OUT OF THE PRODUCTS OR SERVICES
+                  RELATED THERETO, WHETHER BASED UPON WARRANTY, CONTRACT, TORT, STRICT LIABILITY OR OTHERWISE, EVEN IF
+                  LE TOTE, INC./ LE TOTE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR LOSSES.</span
+                >
+              </div>
+              <div class="b-limited-direc-ll-not-exceed-t-5xB171 overpass-normal-gravel-15px-2">
+                <span class="span0-u04AXG">b. Limited Direct Damages. <br /></span
+                ><span class="span1-u04AXG"
+                  >THE MERCER CLUB, INC.’S (AND ITS SUPPLIERS’ AND LICENSORS&#39;) AGGREGATE LIABILITY ARISING OUT OF
+                  PRODUCTS AND SERVICES RELATED THERETO, WHETHER BASED UPON WARRANTY, CONTRACT, TORT, STRICT LIABILITY
+                  OR OTHERWISE, SHALL NOT EXCEED THE APPLICABLE RENTAL FEES PAID BY YOU FOR THE APPLICABLE PRODUCT
+                  AND/OR SERVICE<br /><br /></span
+                ><span class="span2-u04AXG">c. Use of Results at Your Risk.<br /></span
+                ><span class="span3-u04AXG"
+                  >YOU ASSUME SOLE AND EXCLUSIVE RESPONSIBILITY AND LIABILITY FOR ANY CLAIMS AGAINST YOU AND/OR DAMAGES
+                  ARISING FROM USE OF THE PRODUCTS DURING YOUR RENTAL PERIOD.</span
+                >
+              </div>
+            </div>
+          </div>
+          <div class="flex-row-0xy0vn">
+            <div class="flex-col-GyJUNH">
+              <div class="x6-miscellaneous-3xHcwy overpass-bold-black-20px">6. Miscellaneous.</div>
+              <div class="this-agreement-and-oral-agreem-3xHcwy overpass-normal-gravel-15px">
+                This Agreement constitutes the entire agreement between You and The Mercer Club, Inc. with respect to
+                the subject matter hereof and is the final, complete, and exclusive statement of the terms of the
+                Agreement, superseding all prior written and oral agreements, understandings and undertakings with
+                respect to the subject matter hereof. Modifications may be made only by The Mercer Club, Inc. We reserve
+                the right to terminate or amend this Agreement at any time for any or no reason, effective upon notice
+                to You of such termination or amendment. The waiver of any term or condition or any breach thereof shall
+                not affect any other term of condition of this Agreement. The Agreement shall be governed by and
+                construed in accordance with the laws of the State of New York, excluding its conflicts of laws
+                principles. You shall not assign this Agreement without The Mercer Club, Inc.’s prior written consent.
+                Termination of this Agreement will not relieve.<br /><br />Sections 1, 2, 3, 4, 5, 6 and 7 shall survive
+                this termination of this Agreement according to their terms. If any provision of this Agreement shall be
+                held illegal, unenforceable, or in conflict with any law of any authority having jurisdiction over this
+                Agreement, the validity of the remaining portions or provisions hereof shall remain in full force and
+                effect. The Mercer Club, Inc. shall not be liable for failure to perform any of its obligations
+                hereunder by reason that are beyond its reasonable control, including, without limitation, fire,
+                earthquake, interruptions in supply, other natural disaster, war embargo, and/or riots or acts of
+                terrorism.
+              </div>
+            </div>
+            <img class="ray-tiller-j-du-rftv-m-unsplash-GyJUNH" src="img/ray-tiller-jdulfsrftvm-unsplash@1x.png" />
+          </div>
+          <div class="overlap-group3-0xy0vn">
+            <div class="rectangle-24-GW1jy1"></div>
+            <div class="email-subscription-GW1jy1">NEWSLETTER SIGN-UP</div>
+            <div class="rectangle-57-GW1jy1"></div>
+            <div class="rectangle-58-GW1jy1"></div>
+            <div class="sign-up-for-membership-GW1jy1">SIGN-UP FOR NEWSLETTER</div>
+            <div class="star-with-your-email-GW1jy1">STAR WITH YOUR EMAIL</div>
+          </div>
+        </div>
+        <div class="flex-row-C61RwL">
+          <div class="flex-col-dXBp89">
+            <div class="overlap-group1-0PZcXW">
+              <a href="category.html"><div class="browse-nlxkfa overpass-normal-gray-12px">Browse</div></a>
+              <a href="home.html"
+                ><div class="the-mercer-club-nlxkfa overpass-black-black-23px">THE MERCER CLUB</div></a
+              >
+            </div>
+            <a href="about-us.html"><div class="about-us-0PZcXW overpass-normal-gray-12px">About Us</div></a>
+            <a href="faq.html"><div class="fa-qs-0PZcXW overpass-normal-gray-12px">FAQs</div></a>
+            <div class="membership-0PZcXW overpass-normal-gray-12px">Membership</div>
+            <a href="editorial.html"><div class="editorial-0PZcXW overpass-normal-gray-12px">Editorial</div></a>
+            <div class="contact-us-0PZcXW overpass-normal-gray-12px">Contact Us</div>
+          </div>
+          <div class="flex-col-Xi618D">
+            <div class="rental-policy-y0eQTV overpass-normal-gray-12px">Rental Policy</div>
+            <a href="terms-conditions.html"
+              ><div class="terms-conditions-y0eQTV overpass-normal-gray-12px">Terms &amp; Conditions</div></a
+            >
+            <a href="privacy-policy.html"
+              ><div class="privacy-policy-y0eQTV overpass-normal-gray-12px">Privacy Policy</div></a
+            >
+          </div>
+          <div class="flex-col-ycScJA">
+            <div class="group-8-9HOxau">
+              <div class="group-5-2LyrUC"></div>
+              <div class="group-6-2LyrUC"></div>
+              <img class="path-13-2LyrUC" src="img/path-13@1x.png" />
+              <div class="group-7-2LyrUC">
+                <img class="path-31-OnRYQe" src="img/path-31@1x.png" />
+                <img class="path-32-OnRYQe" src="img/path-32@1x.png" />
+              </div>
+            </div>
+            <div class="overlap-group2-9HOxau">
+              <div class="supportthemercerclubnyccom-puVyE2 overpass-normal-gray-12px">
+                support@themercerclubnyc.com
+              </div>
+              <div class="customer-service954-787-0304-puVyE2">
+                <span class="span0-yu79uS">Customer Service<br /></span><span class="span1-yu79uS">(954) 787-0304</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container-center-horizontal">
+      <form class="rental-policy-1 screen" name="form2" action="form2" method="post">
+        <div class="flex-col-C61RwL">
+          <div class="nav-0xy0vn smart-layers-pointers">
+            <div class="group-179-dsfOTe">
+              <div class="browse-bh6aaC overpass-normal-gray-15px">Browse</div>
+              <div class="membership-bh6aaC overpass-normal-gray-15px">Membership</div>
+              <div class="editorial-bh6aaC overpass-normal-gray-15px">Editorial</div>
+            </div>
+            <div class="rectangle-255-dsfOTe"></div>
+            <div class="the-mercer-club-dsfOTe overpass-black-black-23px">THE MERCER CLUB</div>
+            <div class="log-in-dsfOTe overpass-bold-fire-bush-12px">LOG-IN</div>
+            <div class="sign-up-dsfOTe overpass-bold-fire-bush-12px">SIGN-UP</div>
+            <img class="path-292-dsfOTe" src="img/path-292-5@1x.png" />
+            <a href="dashboard.html"><img class="placeholder-person-dsfOTe" src="img/placeholder-person@1x.png" /></a>
+          </div>
+          <div class="flex-row-0xy0vn">
+            <div class="faq-GyJUNH overpass-bold-black-15px">FAQ</div>
+            <div class="rental-policy-GyJUNH overpass-bold-black-15px">Rental Policy</div>
+            <div class="privacy-policy-GyJUNH overpass-bold-black-15px">Privacy Policy</div>
+            <div class="terms-conditions-GyJUNH overpass-bold-black-15px">Terms &amp; Conditions</div>
+          </div>
+          <img class="line-4-0xy0vn" src="img/line-4-1@1x.png" />
+          <img class="img7544-0xy0vn" src="img\tmc_winter_ad__20.png" />
+          <!-- <div class="these-terms-and-d-rent-articles-0xy0vn">
+            These terms and conditions are a legal agreement between you (&#34;You&#34; or &#34;Your&#34;) and The
+            Mercer Club, Inc.&nbsp;&nbsp;(&#34;The Mercer Club, Inc.,&#34; &#34;We,&#34;, “we” &#34;us,&#34; or
+            &#34;our&#34;), establishing terms and conditions under which You will submit information to, and rent
+            articles of clothing and accessories (each a “Product” and collectively, &#34;Products or Items&#34;) and
+            receive related services (“Services”) from, The Mercer Club, Inc. via our website at
+            https://www.themercerclubnyc.com (the &#34;Website&#34;).<br /><br />CAREFULLY READ THE TERMS AND CONDITIONS
+            OF THIS AGREEMENT. BY ORDERING PRODUCTS OFFERED ON OUR SITE, SIGNING UP FOR THE SERVICE AND PUTTING IN YOUR
+            CREDIT CARD DETAILS, YOU ARE AGREEING TO BE BOUND BY AND ARE BECOMING A PARTY TO THIS AGREEMENT. IF YOU DO
+            NOT AGREE TO ALL OF THE TERMS OF THIS AGREEMENT, PLEASE DO NOT ORDER ANY PRODUCTS AND DO NOT RENT THE
+            PRODUCTS.<br /><br />WE RESERVE THE RIGHT TO CHANGE THE TERMS OF THIS AGREEMENT IN THE FUTURE AND ANY
+            CHANGES WILL APPLY TO THE RENTAL OF ANY PRODUCTS AFTER THE DATE OF SUCH CHANGE.
+          </div> -->
+          <div class="x1-general-renta-eement-required-0xy0vn">
+            1. General; Rental Not Purchase; Adult Agreement Required.
+          </div>
+          <div class="flex-row-oV5UrE">
+            <div class="this-agreement-set-forth-in-t-QkTteQ overpass-normal-gravel-15px">
+              This Agreement contains all the terms and conditions governing Your rental of Products from The Mercer
+              Club, Inc. via themercerclubnyc.com website from time to time. You agree that Your general use of our
+              Website, other than rental orders as set forth in this Agreement, is subject in all respects to our
+              Website Terms and Conditions of Use available at Terms &amp; Conditions and Privacy Policy at Privacy, as
+              such terms may change from time to time. No other terms or conditions (preprinted or otherwise) shall have
+              any force or effect. You agree and acknowledge that You are renting the Products and that ownership of the
+              Products remains with The Mercer Club, Inc. at all times.
+            </div>
+            <div class="our-products-ma-age-you-may-acc-QkTteQ overpass-normal-gravel-15px">
+              Our Products may be rented for use by individuals under 18 years of age, but rentals are made only to
+              adults who must provide credit card information which must be approved by our merchant and processing
+              agent. If You are under 18 years of age, You may accept these terms and conditions and order Products only
+              with involvement and approval of Your parent or legal guardian. We currently and generally limit the
+              number of articles of clothing that can be rented by You and our other customers to TWO (2) at any time.
+              Your purchase of a subscription provides you one (1) or two (2) articles of clothing per order, quantities
+              of each as defined by your membership plan, that can be in your possession at any given time until the
+              rental period of three (3) days is over so long as you continue to make RECURRING payments for your
+              membership each month.
+            </div>
+          </div>
+          <div class="x2-rental-fees-c-s-cancellations-0xy0vn">
+            2. Rental Fees; Credit Card Authorizations; Cancellations.
+          </div>
+          <div class="flex-row-4iD7zR">
+            <div class="the-rental-fee-ur-order-you-he-ossvxU overpass-normal-gravel-15px">
+              The rental fee (“Rental Fee”) for the Products will be the monthly rental fee (as defined on the website
+              for your specific membership) PLUS any insurance or shipping charges listed on the website in connection
+              with your membership.<br /><br />Upon Your order, You hereby authorize us to charge your credit card for
+              the Rental Fee and / or monthly subscription fee on a RECURRING basis whereby your card will be
+              automatically charged thirty days from the commencement of your membership. We will charge Your credit
+              card the amount of the Rental Fee immediately upon Your rental order or checkout where you confirm and
+              submit – “Check Out”.
+            </div>
+            <div class="in-addition-at-ue-provided-tha-ossvxU overpass-normal-gravel-15px">
+              In addition, at the time of Your order of a Product, You hereby authorize The Mercer Club, Inc. to charge
+              Your credit card for the ORIGINAL RETAIL VALUE of that Product (when new) as set forth, plus any
+              applicable sales taxes (“Retail Value”); provided that we will only charge the Retail Value in the
+              circumstances set forth in Section 4 below.<br /><br />Rental Fees exclude all federal, state and local
+              taxes, fees, customs, duties, levies and other governmental assessments, all of which shall be paid by You
+              directly or, if paid by The Mercer Club, Inc., shall be reimbursed by You to The Mercer Club, Inc. in
+              connection with Your order for the rental.<br /><br />You may cancel your membership at any time prior to
+              the renewal of your membership to The Mercer Club to avoid being charged for another month. Canceling
+              account post renewal date will result in your account being charged for an entire month of The Mercer Club
+              membership. Once you cancel your membership, you are responsible for submitting to the U.S. Postal Service
+              (USPS) through Priority Mail any outstanding articles of clothing or accessories in your possession within
+              THREE (3) CALENDAR DAYS. Failure to do so will result in you being charged for the entire value of the
+              Product, which at that point will be yours to keep.
+            </div>
+          </div>
+          <div class="x3-the-mercer-club-offering-0xy0vn">3. The Mercer Club Offering.</div>
+          <div class="flex-row-t6Autm">
+            <div class="a-deliveryall-d-for-not-meetin-gD87cZ overpass-normal-gravel-15px-2">
+              <span class="span0-bxgF2y">a. Delivery<br /></span
+              ><span class="span1-bxgF2y"
+                >All deliveries will be made as per The Mercer Club delivery and mailing schedules. Sometimes The Mercer
+                Club Products may appear slightly different in color and style than the photos displayed on our website.
+                Our liability to you for not meeting your satisfaction is limited to refund of a maximum of one month’s
+                rental fee divided by 4 (excluding insurance and any relevant delivery charges) as determined by us. See
+                Section 5(b) below.<br /><br /></span
+              ><span class="span2-bxgF2y">b. Guarantees<br /></span
+              ><span class="span3-bxgF2y"
+                >Return of Unworn Products Due to Size. If Your Product does not fit You, then You may return the
+                Product(s) to us by simply mailing to us using the pre-paid label and inform us via email or phone that
+                you are returning the Product(s) in conformance with the return procedures in Section 4(b) below (a
+                “Sizing Return”). Unless you are completely dissatisfied with your garments, no refund will be issued
+                and another Product will be mailed to you automatically.</span
+              >
+            </div>
+            <div class="c-cleaningall-p-er-club-inc-sha-gD87cZ overpass-normal-gravel-15px-2">
+              <span class="span0-i1f73o">c. Cleaning<br /></span
+              ><span class="span1-i1f73o"
+                >All Products will be professionally cleaned and delivered ready to wear for each consumer. We tumble
+                wash and / or dry clean and inspect each product with the utmost care, but use of the product is at your
+                own risk and The Mercer Club, Inc. shall not be held liable for any health-related complaints associated
+                with a product rented from our site.<br /><br /></span
+              ><span class="span2-i1f73o">d. Return Packaging<br /></span
+              ><span class="span3-i1f73o"
+                >With delivery of the Product, we will provide You with a pre-paid, pre-addressed envelope or box as
+                well as instructions for Your use in returning the Products to The Mercer Club, Inc. (“Return
+                Packaging”).<br /><br /></span
+              ><span class="span4-i1f73o">e. Services<br /></span
+              ><span class="span5-i1f73o"
+                >On our Website, we offer various Services to assist You in selecting a Product. Our Services are
+                provided “AS IS” without guarantee as to results.</span
+              >
+            </div>
+          </div>
+          <div class="x4-your-commitme-of-retail-value-0xy0vn">4. Your Commitments to Us; Payment of Retail Value.</div>
+          <div class="flex-row-uPORJx">
+            <div class="a-receipt-of-th-cknowledge-that-RgyNpo overpass-normal-gravel-15px-2">
+              <span class="span0-M6Pcku">a. Receipt of the Products<br /></span
+              ><span class="span1-M6Pcku"
+                >Upon shipment, You bear responsibility for the Product(s). In the event that an unsecure shipping
+                address is provided, The Mercer Club, Inc. does not bear liability for Products left unattended.
+                Furthermore, You acknowledge that providing anything other than a secure shipping address may result in
+                delivery delays and additional delivery fees for which The Mercer Club, Inc. is not to be held liable,
+                but You will be held liable.<br /><br /></span
+              ><span class="span2-M6Pcku">b. Use of the Products<br /></span
+              ><span class="span3-M6Pcku"
+                >You agree to treat the Products with great care, and return it in the same condition as was delivered
+                to you. You are completely responsible for loss, destruction or damage to the Products due to theft,
+                disappearance, fire, stains or any other cause, other than normal wear and tear. Normal wear and tear
+                encompasses minor stains, missing beads, stuck zippers or other minor damage covered by the subscription
+                price you paid in order to rent the Product. If You return a Product that is damaged beyond normal wear
+                and tear, then You agree that we shall charge You, and You shall pay, for repairing or replacing the
+                Product, as determined in our discretion, as advertised on our site OR explained to you in the package
+                delivered to you.<br /><br /></span
+              ><span class="span4-M6Pcku">c. Payment of Retail Value<br /></span
+              ><span class="span5-M6Pcku"
+                >You agree to treat the Products with great care, and return it in the same condition as was delivered
+                to you. You are completely responsible for loss, destruction or damage to the Products due to theft,
+                disappearance, fire, stains or any other cause, other than normal wear and tear.<br /><br />-
+                Collections: If You do not pay the amounts You owe us when due, then we may institute collection
+                procedures. You agree to pay our costs of collection, including without limitation reasonable attorneys’
+                fees.<br /><br />- Removal: We reserve the right to terminate your right to be a member of The Mercer
+                Club at any time in the event of Your breach of this Agreement or for no reason or any other reason in
+                our discretion.</span
+              >
+            </div>
+            <div class="d-emailwe-will-ose-e-mails-whe-RgyNpo overpass-normal-gravel-15px-2">
+              <span class="span0-Z2Opzr">d. Email<br /></span
+              ><span class="span1-Z2Opzr"
+                >We will use the preferences and orders You provide on our Website to send You e-mails and other
+                marketing materials for other Products. You may opt out of receiving those e-mails by clicking on the
+                links provided at the bottom of those e-mails when available.<br /><br /></span
+              ><span class="span2-Z2Opzr">e. Limited Warranty<br /></span
+              ><span class="span3-Z2Opzr"
+                >The limited warranties set forth in Section 3 apply only to You, may be acted upon only by You, and may
+                not be assigned, sold or transferred to any third party. No warranties are granted other than as set
+                forth in Section 3. Our warranty herein shall not apply to any matters arising from violation of Your
+                commitments set forth in Section 4 of this Agreement.<br /><br /></span
+              ><span class="span4-Z2Opzr">f. Remedies<br /></span
+              ><span class="span5-Z2Opzr"
+                >Your sole and exclusive remedy and The Mercer Club, Inc.’s sole and exclusive liability for a breach of
+                The Mercer Club, Inc.’s limited warranty shall be, at The Mercer Club, Inc.’s option, The Mercer Club,
+                Inc.’s use of its commercially reasonable efforts to replace the non-conforming Product in a timely
+                manner or a refund of Your Rental Fee (excluding insurance and delivery charges).<br /><br /></span
+              ><span class="span6-Z2Opzr">g. Disclaimers<br /></span
+              ><span class="span7-Z2Opzr"
+                >THIS LIMITED WARRANTY IS IN LIEU OF ANY OTHER WARRANTIES, WHETHER EXPRESS OR IMPLIED, WRITTEN OR ORAL
+                (INCLUDING, WITHOUT LIMITATION, ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR
+                NON-INFRINGEMENT) WITH RESPECT TO THE PRODUCTS, THE SERVICES RELATED THERETO OR THE USE OR RESULTS OF
+                THE PRODUCTS OR SERVICES.</span
+              >
+            </div>
+          </div>
+          <div class="x5-limitation-of-liability-0xy0vn">5. Limitation of Liability.</div>
+          <div class="flex-row-OtmKqf">
+            <div class="a-no-indirect-d-ss-of-profits-o-xWQcfe overpass-normal-gravel-15px-2">
+              <span class="span0-BtCibU">a. No Indirect Damages. <br /></span
+              ><span class="span1-BtCibU"
+                >IN NO EVENT SHALL THE MERCER CLUB, INC. / (OR ITS SUPPLIERS OR LICENSORS) BE LIABLE TO YOU OR ANY THIRD
+                PARTY FOR SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY, PUNITIVE, MULTIPLE OR OTHER INDIRECT DAMAGES,
+                OR FOR LOSS OF PROFITS OR LOSS OF USE DAMAGES, ARISING OUT OF THE PRODUCTS OR SERVICES RELATED THERETO,
+                WHETHER BASED UPON WARRANTY, CONTRACT, TORT, STRICT LIABILITY OR OTHERWISE, EVEN IF LE TOTE, INC./ LE
+                TOTE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR LOSSES.</span
+              >
+            </div>
+            <div class="b-limited-direc-ll-not-exceed-t-xWQcfe overpass-normal-gravel-15px-2">
+              <span class="span0-vSJOfk">b. Limited Direct Damages. <br /></span
+              ><span class="span1-vSJOfk"
+                >THE MERCER CLUB, INC.’S (AND ITS SUPPLIERS’ AND LICENSORS&#39;) AGGREGATE LIABILITY ARISING OUT OF
+                PRODUCTS AND SERVICES RELATED THERETO, WHETHER BASED UPON WARRANTY, CONTRACT, TORT, STRICT LIABILITY OR
+                OTHERWISE, SHALL NOT EXCEED THE APPLICABLE RENTAL FEES PAID BY YOU FOR THE APPLICABLE PRODUCT AND/OR
+                SERVICE<br /><br /></span
+              ><span class="span2-vSJOfk">c. Use of Results at Your Risk.<br /></span
+              ><span class="span3-vSJOfk"
+                >YOU ASSUME SOLE AND EXCLUSIVE RESPONSIBILITY AND LIABILITY FOR ANY CLAIMS AGAINST YOU AND/OR DAMAGES
+                ARISING FROM USE OF THE PRODUCTS DURING YOUR RENTAL PERIOD.</span
+              >
+            </div>
+          </div>
+          <div class="x6-miscellaneous-0xy0vn">6. Miscellaneous.</div>
+          <div class="flex-row-0aLMTk">
+            <div class="this-agreement-and-oral-agreem-O2UJZ2 overpass-normal-gravel-15px">
+              This Agreement constitutes the entire agreement between You and The Mercer Club, Inc. with respect to the
+              subject matter hereof and is the final, complete, and exclusive statement of the terms of the Agreement,
+              superseding all prior written and oral agreements, understandings and undertakings with respect to the
+              subject matter hereof. Modifications may be made only by The Mercer Club, Inc. We reserve the right to
+              terminate or amend this Agreement at any time for any or no reason, effective upon notice to You of such
+              termination or amendment. The waiver of any term or condition or any breach thereof shall not affect any
+              other term of condition of this Agreement. The Agreement shall be governed by and construed in accordance
+              with the laws of the State of New York, excluding its conflicts of laws principles. You shall not assign
+              this Agreement without The Mercer Club, Inc.’s prior written consent. Termination of this Agreement will
+              not relieve.<br /><br />Sections 1, 2, 3, 4, 5, 6 and 7 shall survive this termination of this Agreement
+              according to their terms. If any provision of this Agreement shall be held illegal, unenforceable, or in
+              conflict with any law of any authority having jurisdiction over this Agreement, the validity of the
+              remaining portions or provisions hereof shall remain in full force and effect. The Mercer Club, Inc. shall
+              not be liable for failure to perform any of its obligations hereunder by reason that are beyond its
+              reasonable control, including, without limitation, fire, earthquake, interruptions in supply, other
+              natural disaster, war embargo, and/or riots or acts of terrorism.
+            </div>
+            <img class="ray-tiller-j-du-rftv-m-unsplash-O2UJZ2" src="img/ray-tiller-jdulfsrftvm-unsplash-1@1x.png" />
+          </div>
+          <div class="overlap-group-0xy0vn">
+            <img class="path-851-y1HRxC" src="img/path-851@1x.png" />
+            <div class="rectangle-57-y1HRxC"></div>
+            <a href="javascript:SubmitForm('form2')"><img class="path-852-y1HRxC" src="img/path-852@1x.png" /></a>
+            <div class="sign-up-for-membership-y1HRxC">SIGN-UP FOR NEWSLETTER</div>
+            <div class="email-subscription-y1HRxC">NEWSLETTER SIGN-UP</div>
+          </div>
+        </div>
+        <div class="flex-row-C61RwL">
+          <div class="flex-col-dXBp89">
+            <div class="overlap-group1-0PZcXW">
+              <div class="browse-nlxkfa overpass-normal-gray-12px">Browse</div>
+              <div class="the-mercer-club-nlxkfa overpass-black-black-23px">THE MERCER CLUB</div>
+            </div>
+            <div class="about-us-0PZcXW overpass-normal-gray-12px">About Us</div>
+            <div class="fa-qs-0PZcXW overpass-normal-gray-12px">FAQs</div>
+            <div class="membership-0PZcXW overpass-normal-gray-12px">Membership</div>
+            <div class="editorial-0PZcXW overpass-normal-gray-12px">Editorial</div>
+            <div class="contact-us-0PZcXW overpass-normal-gray-12px">Contact Us</div>
+          </div>
+          <div class="flex-col-Xi618D">
+            <div class="rental-policy-y0eQTV overpass-normal-gray-12px">Rental Policy</div>
+            <div class="terms-conditions-y0eQTV overpass-normal-gray-12px">Terms &amp; Conditions</div>
+            <div class="privacy-policy-y0eQTV overpass-normal-gray-12px">Privacy Policy</div>
+          </div>
+          <div class="flex-col-ycScJA">
+            <div class="group-8-9HOxau">
+              <a href="https://www.linkedin.com/company/the-mercer-club/" target="_blank">
+                <div class="group-5-2LyrUC"></div
+              ></a>
+              <a href="https://www.facebook.com/TheMercerClub/" target="_blank"> <div class="group-6-2LyrUC"></div></a>
+              <a href="https://twitter.com/themercerclub" target="_blank"
+                ><img class="path-13-2LyrUC" src="img/path-13@1x.png"
+              /></a>
+              <div class="group-7-2LyrUC">
+                <a href="https://www.instagram.com/themercerclub/" target="_blank"
+                  ><img class="path-31-OnRYQe" src="img/path-31@1x.png"
+                /></a>
+                <img class="path-32-OnRYQe" src="img/path-32@1x.png" />
+              </div>
+            </div>
+            <div class="overlap-group2-9HOxau">
+              <div class="supportthemercerclubnyccom-puVyE2 overpass-normal-gray-12px">
+                support@themercerclubnyc.com
+              </div>
+              <div class="customer-service954-787-0304-puVyE2">
+                <span class="span0-yu79uS">Customer Service<br /></span><span class="span1-yu79uS">(954) 787-0304</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+    <div class="container-center-horizontal">
+      <form class="rental-policy-2 screen" name="form6" action="form6" method="post">
+        <div class="flex-col-C61RwL">
+          <div class="nav-0xy0vn smart-layers-pointers">
+            <div class="group-179-dsfOTe">
+              <div class="browse-bh6aaC overpass-normal-gray-15px">Browse</div>
+              <div class="membership-bh6aaC overpass-normal-gray-15px">Membership</div>
+              <div class="editorial-bh6aaC overpass-normal-gray-15px">Editorial</div>
+            </div>
+            <div class="rectangle-255-dsfOTe"></div>
+            <div class="the-mercer-club-dsfOTe overpass-black-black-23px">THE MERCER CLUB</div>
+            <div class="log-in-dsfOTe overpass-bold-fire-bush-12px">LOG-IN</div>
+            <div class="sign-up-dsfOTe overpass-bold-fire-bush-12px">SIGN-UP</div>
+            <img class="path-292-dsfOTe" src="img/path-292-5@1x.png" />
+          </div>
+          <div class="flex-row-0xy0vn">
+            <div class="faq-GyJUNH overpass-bold-black-15px">FAQ</div>
+            <div class="rental-policy-GyJUNH overpass-bold-black-15px">Rental Policy</div>
+            <div class="privacy-policy-GyJUNH overpass-bold-black-15px">Privacy Policy</div>
+            <div class="terms-conditions-GyJUNH overpass-bold-black-15px">Terms &amp; Conditions</div>
+          </div>
+          <img class="line-4-0xy0vn" src="img/line-4-11@1x.png" />
+          <img class="img7544-0xy0vn" src="img\tmc_winter_ad__20.png" />
+          <!-- <div class="these-terms-and-d-rent-articles-0xy0vn">
+            These terms and conditions are a legal agreement between you (&#34;You&#34; or &#34;Your&#34;) and The
+            Mercer Club, Inc.&nbsp;&nbsp;(&#34;The Mercer Club, Inc.,&#34; &#34;We,&#34;, “we” &#34;us,&#34; or
+            &#34;our&#34;), establishing terms and conditions under which You will submit information to, and rent
+            articles of clothing and accessories (each a “Product” and collectively, &#34;Products or Items&#34;) and
+            receive related services (“Services”) from, The Mercer Club, Inc. via our website at
+            https://www.themercerclubnyc.com (the &#34;Website&#34;).<br /><br />CAREFULLY READ THE TERMS AND CONDITIONS
+            OF THIS AGREEMENT. BY ORDERING PRODUCTS OFFERED ON OUR SITE, SIGNING UP FOR THE SERVICE AND PUTTING IN YOUR
+            CREDIT CARD DETAILS, YOU ARE AGREEING TO BE BOUND BY AND ARE BECOMING A PARTY TO THIS AGREEMENT. IF YOU DO
+            NOT AGREE TO ALL OF THE TERMS OF THIS AGREEMENT, PLEASE DO NOT ORDER ANY PRODUCTS AND DO NOT RENT THE
+            PRODUCTS.<br /><br />WE RESERVE THE RIGHT TO CHANGE THE TERMS OF THIS AGREEMENT IN THE FUTURE AND ANY
+            CHANGES WILL APPLY TO THE RENTAL OF ANY PRODUCTS AFTER THE DATE OF SUCH CHANGE.
+          </div> -->
+          <div class="x1-general-renta-eement-required-0xy0vn">
+            1. General; Rental Not Purchase; Adult Agreement Required.
+          </div>
+          <div class="this-agreement-set-forth-in-t-0xy0vn overpass-normal-gravel-15px">
+            This Agreement contains all the terms and conditions governing Your rental of Products from The Mercer Club,
+            Inc. via themercerclubnyc.com website from time to time. You agree that Your general use of our Website,
+            other than rental orders as set forth in this Agreement, is subject in all respects to our Website Terms and
+            Conditions of Use available at Terms &amp; Conditions and Privacy Policy at Privacy, as such terms may
+            change from time to time. No other terms or conditions (preprinted or otherwise) shall have any force or
+            effect. You agree and acknowledge that You are renting the Products and that ownership of the Products
+            remains with The Mercer Club, Inc. at all times.
+          </div>
+          <div class="overlap-group-0xy0vn">
+            <div class="our-products-ma-age-you-may-acc-y1HRxC overpass-normal-gravel-15px">
+              Our Products may be rented for use by individuals under 18 years of age, but rentals are made only to
+              adults who must provide credit card information which must be approved by our merchant and processing
+              agent. If You are under 18 years of age, You may accept these terms and conditions and order Products only
+              with involvement and approval of Your parent or legal guardian. We currently and generally limit the
+              number of articles of clothing that can be rented by You and our other customers to TWO (2) at any time.
+              Your purchase of a subscription provides you one (1) or two (2) articles of clothing per order, quantities
+              of each as defined by your membership plan, that can be in your possession at any given time until the
+              rental period of three (3) days is over so long as you continue to make RECURRING payments for your
+              membership each month.
+            </div>
+            <div class="x2-rental-fees-c-s-cancellations-y1HRxC">
+              2. Rental Fees; Credit Card Authorizations; Cancellations.
+            </div>
+          </div>
+          <div class="the-rental-fee-ur-order-you-he-0xy0vn overpass-normal-gravel-15px">
+            The rental fee (“Rental Fee”) for the Products will be the monthly rental fee (as defined on the website for
+            your specific membership) PLUS any insurance or shipping charges listed on the website in connection with
+            your membership.<br /><br />Upon Your order, You hereby authorize us to charge your credit card for the
+            Rental Fee and / or monthly subscription fee on a RECURRING basis whereby your card will be automatically
+            charged thirty days from the commencement of your membership. We will charge Your credit card the amount of
+            the Rental Fee immediately upon Your rental order or checkout where you confirm and submit – “Check Out”.
+          </div>
+          <div class="in-addition-at-ue-provided-tha-0xy0vn overpass-normal-gravel-15px">
+            In addition, at the time of Your order of a Product, You hereby authorize The Mercer Club, Inc. to charge
+            Your credit card for the ORIGINAL RETAIL VALUE of that Product (when new) as set forth, plus any applicable
+            sales taxes (“Retail Value”); provided that we will only charge the Retail Value in the circumstances set
+            forth in Section 4 below.<br /><br />Rental Fees exclude all federal, state and local taxes, fees, customs,
+            duties, levies and other governmental assessments, all of which shall be paid by You directly or, if paid by
+            The Mercer Club, Inc., shall be reimbursed by You to The Mercer Club, Inc. in connection with Your order for
+            the rental.<br /><br />You may cancel your membership at any time prior to the renewal of your membership to
+            The Mercer Club to avoid being charged for another month. Canceling account post renewal date will result in
+            your account being charged for an entire month of The Mercer Club membership. Once you cancel your
+            membership, you are responsible for submitting to the U.S. Postal Service (USPS) through Priority Mail any
+            outstanding articles of clothing or accessories in your possession within THREE (3) CALENDAR DAYS. Failure
+            to do so will result in you being charged for the entire value of the Product, which at that point will be
+            yours to keep.
+          </div>
+          <div class="x3-the-mercer-club-offering-0xy0vn">3. The Mercer Club Offering.</div>
+          <div class="overlap-group1-0xy0vn">
+            <div class="a-deliveryall-d-for-not-meetin-NG5cxJ overpass-normal-gravel-15px-2">
+              <span class="span0-4GuTM1">a. Delivery<br /></span
+              ><span class="span1-4GuTM1"
+                >All deliveries will be made as per The Mercer Club delivery and mailing schedules. Sometimes The Mercer
+                Club Products may appear slightly different in color and style than the photos displayed on our website.
+                Our liability to you for not meeting your satisfaction is limited to refund of a maximum of one month’s
+                rental fee divided by 4 (excluding insurance and any relevant delivery charges) as determined by us. See
+                Section 5(b) below.<br /><br /></span
+              ><span class="span2-4GuTM1">b. Guarantees<br /></span
+              ><span class="span3-4GuTM1"
+                >Return of Unworn Products Due to Size. If Your Product does not fit You, then You may return the
+                Product(s) to us by simply mailing to us using the pre-paid label and inform us via email or phone that
+                you are returning the Product(s) in conformance with the return procedures in Section 4(b) below (a
+                “Sizing Return”). Unless you are completely dissatisfied with your garments, no refund will be issued
+                and another Product will be mailed to you automatically.</span
+              >
+            </div>
+            <div class="c-cleaningall-p-er-club-inc-sha-NG5cxJ overpass-normal-gravel-15px-2">
+              <span class="span0-HxxSmf">c. Cleaning<br /></span
+              ><span class="span1-HxxSmf"
+                >All Products will be professionally cleaned and delivered ready to wear for each consumer. We tumble
+                wash and / or dry clean and inspect each product with the utmost care, but use of the product is at your
+                own risk and The Mercer Club, Inc. shall not be held liable for any health-related complaints associated
+                with a product rented from our site.<br /><br /></span
+              ><span class="span2-HxxSmf">d. Return Packaging<br /></span
+              ><span class="span3-HxxSmf"
+                >With delivery of the Product, we will provide You with a pre-paid, pre-addressed envelope or box as
+                well as instructions for Your use in returning the Products to The Mercer Club, Inc. (“Return
+                Packaging”).<br /><br /></span
+              ><span class="span4-HxxSmf">e. Services<br /></span
+              ><span class="span5-HxxSmf"
+                >On our Website, we offer various Services to assist You in selecting a Product. Our Services are
+                provided “AS IS” without guarantee as to results.</span
+              >
+            </div>
+          </div>
+          <div class="x4-your-commitme-of-retail-value-0xy0vn">4. Your Commitments to Us; Payment of Retail Value.</div>
+          <div class="overlap-group2-0xy0vn">
+            <div class="a-receipt-of-th-cknowledge-that-52Wjwg overpass-normal-gravel-15px-2">
+              <span class="span0-vBh5Ag">a. Receipt of the Products<br /></span
+              ><span class="span1-vBh5Ag"
+                >Upon shipment, You bear responsibility for the Product(s). In the event that an unsecure shipping
+                address is provided, The Mercer Club, Inc. does not bear liability for Products left unattended.
+                Furthermore, You acknowledge that providing anything other than a secure shipping address may result in
+                delivery delays and additional delivery fees for which The Mercer Club, Inc. is not to be held liable,
+                but You will be held liable.<br /><br /></span
+              ><span class="span2-vBh5Ag">b. Use of the Products<br /></span
+              ><span class="span3-vBh5Ag"
+                >You agree to treat the Products with great care, and return it in the same condition as was delivered
+                to you. You are completely responsible for loss, destruction or damage to the Products due to theft,
+                disappearance, fire, stains or any other cause, other than normal wear and tear. Normal wear and tear
+                encompasses minor stains, missing beads, stuck zippers or other minor damage covered by the subscription
+                price you paid in order to rent the Product. If You return a Product that is damaged beyond normal wear
+                and tear, then You agree that we shall charge You, and You shall pay, for repairing or replacing the
+                Product, as determined in our discretion, as advertised on our site OR explained to you in the package
+                delivered to you.<br /><br /></span
+              ><span class="span4-vBh5Ag">c. Payment of Retail Value<br /></span
+              ><span class="span5-vBh5Ag"
+                >You agree to treat the Products with great care, and return it in the same condition as was delivered
+                to you. You are completely responsible for loss, destruction or damage to the Products due to theft,
+                disappearance, fire, stains or any other cause, other than normal wear and tear.<br /><br />-
+                Collections: If You do not pay the amounts You owe us when due, then we may institute collection
+                procedures. You agree to pay our costs of collection, including without limitation reasonable attorneys’
+                fees.<br /><br />- Removal: We reserve the right to terminate your right to be a member of The Mercer
+                Club at any time in the event of Your breach of this Agreement or for no reason or any other reason in
+                our discretion.</span
+              >
+            </div>
+            <div class="d-emailwe-will-ose-e-mails-whe-52Wjwg overpass-normal-gravel-15px-2">
+              <span class="span0-V6IGfp">d. Email<br /></span
+              ><span class="span1-V6IGfp"
+                >We will use the preferences and orders You provide on our Website to send You e-mails and other
+                marketing materials for other Products. You may opt out of receiving those e-mails by clicking on the
+                links provided at the bottom of those e-mails when available.<br /><br /></span
+              ><span class="span2-V6IGfp">e. Limited Warranty<br /></span
+              ><span class="span3-V6IGfp"
+                >The limited warranties set forth in Section 3 apply only to You, may be acted upon only by You, and may
+                not be assigned, sold or transferred to any third party. No warranties are granted other than as set
+                forth in Section 3. Our warranty herein shall not apply to any matters arising from violation of Your
+                commitments set forth in Section 4 of this Agreement.<br /><br /></span
+              ><span class="span4-V6IGfp">f. Remedies<br /></span
+              ><span class="span5-V6IGfp"
+                >Your sole and exclusive remedy and The Mercer Club, Inc.’s sole and exclusive liability for a breach of
+                The Mercer Club, Inc.’s limited warranty shall be, at The Mercer Club, Inc.’s option, The Mercer Club,
+                Inc.’s use of its commercially reasonable efforts to replace the non-conforming Product in a timely
+                manner or a refund of Your Rental Fee (excluding insurance and delivery charges).<br /><br /></span
+              ><span class="span6-V6IGfp">g. Disclaimers<br /></span
+              ><span class="span7-V6IGfp"
+                >THIS LIMITED WARRANTY IS IN LIEU OF ANY OTHER WARRANTIES, WHETHER EXPRESS OR IMPLIED, WRITTEN OR ORAL
+                (INCLUDING, WITHOUT LIMITATION, ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR
+                NON-INFRINGEMENT) WITH RESPECT TO THE PRODUCTS, THE SERVICES RELATED THERETO OR THE USE OR RESULTS OF
+                THE PRODUCTS OR SERVICES.</span
+              >
+            </div>
+            <div class="x5-limitation-of-liability-52Wjwg">5. Limitation of Liability.</div>
+            <div class="a-no-indirect-d-ss-of-profits-o-52Wjwg overpass-normal-gravel-15px-2">
+              <span class="span0-HeRNOk">a. No Indirect Damages. <br /></span
+              ><span class="span1-HeRNOk"
+                >IN NO EVENT SHALL THE MERCER CLUB, INC. / (OR ITS SUPPLIERS OR LICENSORS) BE LIABLE TO YOU OR ANY THIRD
+                PARTY FOR SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY, PUNITIVE, MULTIPLE OR OTHER INDIRECT DAMAGES,
+                OR FOR LOSS OF PROFITS OR LOSS OF USE DAMAGES, ARISING OUT OF THE PRODUCTS OR SERVICES RELATED THERETO,
+                WHETHER BASED UPON WARRANTY, CONTRACT, TORT, STRICT LIABILITY OR OTHERWISE, EVEN IF LE TOTE, INC./ LE
+                TOTE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR LOSSES.</span
+              >
+            </div>
+            <div class="b-limited-direc-ll-not-exceed-t-52Wjwg overpass-normal-gravel-15px-2">
+              <span class="span0-oWJstP">b. Limited Direct Damages. <br /></span
+              ><span class="span1-oWJstP"
+                >THE MERCER CLUB, INC.’S (AND ITS SUPPLIERS’ AND LICENSORS&#39;) AGGREGATE LIABILITY ARISING OUT OF
+                PRODUCTS AND SERVICES RELATED THERETO, WHETHER BASED UPON WARRANTY, CONTRACT, TORT, STRICT LIABILITY OR
+                OTHERWISE, SHALL NOT EXCEED THE APPLICABLE RENTAL FEES PAID BY YOU FOR THE APPLICABLE PRODUCT AND/OR
+                SERVICE<br /><br /></span
+              ><span class="span2-oWJstP">c. Use of Results at Your Risk.<br /></span
+              ><span class="span3-oWJstP"
+                >YOU ASSUME SOLE AND EXCLUSIVE RESPONSIBILITY AND LIABILITY FOR ANY CLAIMS AGAINST YOU AND/OR DAMAGES
+                ARISING FROM USE OF THE PRODUCTS DURING YOUR RENTAL PERIOD.</span
+              >
+            </div>
+          </div>
+          <div class="x6-miscellaneous-0xy0vn">6. Miscellaneous.</div>
+          <div class="this-agreement-and-oral-agreem-0xy0vn overpass-normal-gravel-15px">
+            This Agreement constitutes the entire agreement between You and The Mercer Club, Inc. with respect to the
+            subject matter hereof and is the final, complete, and exclusive statement of the terms of the Agreement,
+            superseding all prior written and oral agreements, understandings and undertakings with respect to the
+            subject matter hereof. Modifications may be made only by The Mercer Club, Inc. We reserve the right to
+            terminate or amend this Agreement at any time for any or no reason, effective upon notice to You of such
+            termination or amendment. The waiver of any term or condition or any breach thereof shall not affect any
+            other term of condition of this Agreement. The Agreement shall be governed by and construed in accordance
+            with the laws of the State of New York, excluding its conflicts of laws principles. You shall not assign
+            this Agreement without The Mercer Club, Inc.’s prior written consent. Termination of this Agreement will not
+            relieve.<br /><br />Sections 1, 2, 3, 4, 5, 6 and 7 shall survive this termination of this Agreement
+            according to their terms. If any provision of this Agreement shall be held illegal, unenforceable, or in
+            conflict with any law of any authority having jurisdiction over this Agreement, the validity of the
+            remaining portions or provisions hereof shall remain in full force and effect. The Mercer Club, Inc. shall
+            not be liable for failure to perform any of its obligations hereunder by reason that are beyond its
+            reasonable control, including, without limitation, fire, earthquake, interruptions in supply, other natural
+            disaster, war embargo, and/or riots or acts of terrorism.
+          </div>
+          <img class="ray-tiller-j-du-rftv-m-unsplash-0xy0vn" src="img/ray-tiller-jdulfsrftvm-unsplash-2@1x.png" />
+          <div class="overlap-group4-0xy0vn">
+            <img class="path-851-rf3da9" src="img/path-851-5@1x.png" />
+            <div class="email-subscription-rf3da9">NEWSLETTER SIGN-UP</div>
+            <div class="rectangle-57-rf3da9"></div>
+            <a href="javascript:SubmitForm('form6')"><img class="path-852-rf3da9" src="img/path-852-5@1x.png" /></a>
+            <div class="sign-up-for-membership-rf3da9">SIGN-UP FOR NEWSLETTER</div>
+          </div>
+        </div>
+        <div class="flex-row-C61RwL">
+          <div class="flex-col-dXBp89">
+            <div class="overlap-group3-0PZcXW">
+              <div class="browse-E99VDD overpass-normal-gray-12px">Browse</div>
+              <div class="rental-policy-E99VDD overpass-normal-gray-12px">Rental Policy</div>
+              <div class="the-mercer-club-E99VDD overpass-black-black-23px">THE MERCER CLUB</div>
+            </div>
+            <div class="flex-row-0PZcXW">
+              <div class="about-us-5AJyKP overpass-normal-gray-12px">About Us</div>
+              <div class="terms-conditions-5AJyKP overpass-normal-gray-12px">Terms &amp; Conditions</div>
+            </div>
+            <div class="flex-row-gNHDIV">
+              <div class="fa-qs-Bx5qIC overpass-normal-gray-12px">FAQs</div>
+              <div class="privacy-policy-Bx5qIC overpass-normal-gray-12px">Privacy Policy</div>
+            </div>
+            <div class="membership-0PZcXW overpass-normal-gray-12px">Membership</div>
+            <div class="editorial-0PZcXW overpass-normal-gray-12px">Editorial</div>
+            <div class="contact-us-0PZcXW overpass-normal-gray-12px">Contact Us</div>
+          </div>
+          <div class="flex-col-Xi618D">
+            <div class="group-8-y0eQTV">
+              <a href="https://www.linkedin.com/company/the-mercer-club/" target="_blank">
+                <div class="group-5-tlDSyd"></div
+              ></a>
+              <a href="https://www.facebook.com/TheMercerClub/" target="_blank"> <div class="group-6-tlDSyd"></div></a>
+              <a href="https://twitter.com/themercerclub" target="_blank"
+                ><img class="path-13-tlDSyd" src="img/path-13@1x.png"
+              /></a>
+              <div class="group-7-tlDSyd">
+                <a href="https://www.instagram.com/themercerclub/" target="_blank"
+                  ><img class="path-31-xIdHR0" src="img/path-31-10@1x.png"
+                /></a>
+                <img class="path-32-xIdHR0" src="img/path-32@1x.png" />
+              </div>
+            </div>
+            <div class="overlap-group5-y0eQTV">
+              <div class="customer-service954-787-0304-xMQYUC">
+                <span class="span0-nbxfyy">Customer Service<br /></span><span class="span1-nbxfyy">(954) 787-0304</span>
+              </div>
+              <div class="supportthemercerclubnyccom-xMQYUC overpass-normal-gray-12px">
+                support@themercerclubnyc.com
+              </div>
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+    <script>
+      /* Copyright (c) 2016 Tobias Buschor https://goo.gl/gl0mbf | MIT License https://goo.gl/HgajeK */
+
+      if (!HTMLFormElement.prototype.reportValidity) {
+        HTMLFormElement.prototype.reportValidity = function () {
+          if (this.checkValidity()) return true;
+          var btn = document.createElement("button");
+          this.appendChild(btn);
+          btn.click();
+          this.removeChild(btn);
+          return false;
+        };
+      }
+
+      function SubmitForm(form_name) {
+        var form = document.getElementsByName(form_name)[0];
+        if (form.reportValidity()) {
+          form.submit();
+          if (window.submitted) window.submitted();
+        }
+      }
+    </script>
+  </body>
+</html>

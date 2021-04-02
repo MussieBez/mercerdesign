@@ -1,0 +1,2311 @@
+/* screen - about-us */
+
+.about-us {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 2358px;
+  justify-content: flex-start;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+.about-us .about-us-nJcGI6 {
+  background-color: transparent;
+  bottom: 106px;
+  height: 18px;
+  left: calc(22.47% - 11px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 51px;
+}
+.about-us .browse-nJcGI6 {
+  background-color: transparent;
+  bottom: 132px;
+  height: 18px;
+  left: calc(22.34% - 9px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 40px;
+}
+.about-us .browse-poi346 {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  left: calc(43.07% - 22px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 50px;
+}
+.about-us .component-22-1-Ebfosa {
+  background-color: transparent;
+  height: 19px;
+  left: 224px;
+  position: absolute;
+  top: calc(45.00% - 9px);
+  width: 522px;
+}
+.about-us .contact-us-nJcGI6 {
+  background-color: transparent;
+  bottom: 5px;
+  height: 18px;
+  left: calc(22.58% - 14px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 60px;
+}
+.about-us .customer-service954-787-0304-nJcGI6 {
+  background-color: transparent;
+  bottom: 86px;
+  color: var(--gray);
+  font-family: "Overpass", Helvetica;
+  font-size: 12px;
+  height: 59px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  right: calc(26.09% - 42px);
+  text-align: left;
+  width: 161px;
+}
+.about-us .editorial-nJcGI6 {
+  background-color: transparent;
+  bottom: 30px;
+  height: 18px;
+  left: calc(22.40% - 10px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 45px;
+}
+.about-us .editorial-poi346 {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(43.21% - 24px);
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+.about-us .email-KdigvU {
+  background-color: transparent;
+  height: 84.21%;
+  left: 5.45%;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 26.32%;
+  white-space: nowrap;
+  width: 15.76%;
+}
+.about-us .email-subscription-nJcGI6 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Overpass', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: 42px;
+  left: calc(49.05% - 144px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: calc(18.45% - 8px);
+  white-space: nowrap;
+  width: 294px;
+}
+.about-us .employees-dXBp89 {
+  background-color: transparent;
+  color: var(--black);
+  flex-shrink: 1;
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-left: 118px;
+  min-height: 29px;
+  min-width: 102px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us .fa-qs-nJcGI6 {
+  background-color: transparent;
+  bottom: 80px;
+  height: 18px;
+  left: calc(22.21% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 29px;
+}
+.about-us .flex-row-C61RwL {
+  align-items: flex-start;
+  align-self: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 29px;
+  justify-content: flex-start;
+  margin-right: 554.0px;
+  margin-top: 185px;
+  min-width: 540px;
+  position: relative;
+  width: auto;
+}
+.about-us .group-163-biSsuR {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 100%;
+  left: 68.09%;
+  position: absolute;
+  top: 0px;
+  width: 31.91%;
+}
+.about-us .group-164-biSsuR {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 100%;
+  left: 34.04%;
+  position: absolute;
+  top: 0px;
+  width: 31.91%;
+}
+.about-us .group-172-FYBPGC {
+  background-color: transparent;
+  height: 100%;
+  left: 102.49%;
+  position: relative;
+  top: 0px;
+  width: 99.04%;
+}
+.about-us .group-174-biSsuR {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31.91%;
+}
+.about-us .group-178-RH0WJ5 {
+  background-color: transparent;
+  height: 782px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.about-us .group-179-Ebfosa {
+  background-color: var(--white);
+  box-shadow: -5px 0px 15px rgba(0,0,0,0.051);;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.about-us .group-5-x1JB7h {
+  background-color: transparent;
+  background-image: url(../img/path-27-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 1px);
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 12px;
+}
+.about-us .group-6-x1JB7h {
+  background-color: transparent;
+  background-image: url(../img/path-28-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 1px);
+  left: calc(34.59% - 4px);
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+.about-us .group-7-x1JB7h {
+  background-color: transparent;
+  background-image: url(../img/path-30-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 100%;
+  position: absolute;
+  right: calc(32.50% - 4px);
+  top: 1px;
+  width: 12px;
+}
+.about-us .group-8-nJcGI6 {
+  background-color: transparent;
+  bottom: calc(19.07% - 2px);
+  height: 12px;
+  position: absolute;
+  right: calc(29.40% - 23px);
+  width: 79px;
+}
+.about-us .history-dXBp89 {
+  background-color: transparent;
+  color: var(--black);
+  flex-shrink: 1;
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  min-height: 29px;
+  min-width: 71px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us .history-of-the-mercer-club-4eduM0 {
+  background-color: transparent;
+  color: var(--black-haze);
+  font-family: 'Overpass', Helvetica;
+  font-size: 200px;
+  font-style: normal;
+  font-weight: 900;
+  height: 479px;
+  left: 0px;
+  letter-spacing: 1.60px;
+  line-height: 184px;
+  opacity: 0.7;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 1882px;
+}
+.about-us .humble-beginnings-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 438px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us .img7544-C61RwL {
+  align-self: center;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 413px;
+  margin-right: 24.0px;
+  margin-top: 78px;
+  object-fit: cover;
+  position: relative;
+  width: 1514px;
+}
+.about-us .line-4-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 5px;
+  margin-left: 410.5px;
+  margin-top: 3px;
+  object-fit: cover;
+  position: relative;
+  width: 74px;
+}
+.about-us .log-in-Ebfosa {
+  background-color: transparent;
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(40.55% - 17px);
+  text-align: left;
+  top: calc(47.54% - 9px);
+  white-space: nowrap;
+  width: 41px;
+}
+.about-us .mask-group-1-MXGsu3 {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: calc(50.00% - 10px);
+  width: 522px;
+}
+.about-us .membership-nJcGI6 {
+  background-color: transparent;
+  bottom: 55px;
+  height: 18px;
+  left: calc(22.69% - 16px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 69px;
+}
+.about-us .membership-poi346 {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  left: calc(49.89% - 42px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 85px;
+}
+.about-us .name-7mv9Nr {
+  background-color: transparent;
+  height: 84.21%;
+  left: 5.45%;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 26.32%;
+  white-space: nowrap;
+  width: 16.97%;
+}
+.about-us .nav-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 79px;
+  margin-left: -9px;
+  position: relative;
+  width: 1920px;
+}
+.about-us .overlap-group-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 479px;
+  margin-left: -27px;
+  margin-top: 97px;
+  position: relative;
+  width: 1882px;
+}
+.about-us .overlap-group1-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 782px;
+  margin-left: -9px;
+  margin-top: 54px;
+  position: relative;
+  width: 1920px;
+}
+.about-us .password-Udz9Uv {
+  background-color: transparent;
+  height: 84.21%;
+  left: 5.45%;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 26.32%;
+  white-space: nowrap;
+  width: 27.88%;
+}
+.about-us .path-13-x1JB7h {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+.about-us .path-292-Ebfosa {
+  background-color: transparent;
+  bottom: calc(12.57% - 1px);
+  height: 7px;
+  left: calc(50.00% - 7px);
+  object-fit: cover;
+  position: absolute;
+  width: 13px;
+}
+.about-us .path-31-4aS6Ao {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: calc(100.00% - 5px);
+}
+.about-us .path-32-4aS6Ao {
+  background-color: transparent;
+  height: 3px;
+  left: calc(49.94% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(49.94% - 2px);
+  width: 3px;
+}
+.about-us .photo-gallery-dXBp89 {
+  background-color: transparent;
+  color: var(--black);
+  flex-shrink: 1;
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-left: 118px;
+  min-height: 29px;
+  min-width: 131px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us .placeholder-person-Ebfosa {
+  background-color: transparent;
+  border-radius: 14.5px;
+  height: 29px;
+  object-fit: cover;
+  position: absolute;
+  right: 205px;
+  top: calc(50.00% - 14px);
+  width: 29px;
+}
+.about-us .privacy-policy-nJcGI6 {
+  background-color: transparent;
+  bottom: 80px;
+  height: 18px;
+  left: calc(46.56% - 34px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 73px;
+}
+.about-us .rectangle-24-nJcGI6 {
+  background-color: var(--black);
+  height: 413px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.about-us .rectangle-255-Ebfosa {
+  background-color: var(--white);
+  box-shadow: -5px 0px 15px rgba(0,0,0,0.051);;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.about-us .rectangle-57-nJcGI6 {
+  background-color: var(--white);
+  border-radius: 27px;
+  height: 53px;
+  left: calc(50.00% - 464px);
+  position: absolute;
+  top: calc(28.53% - 15px);
+  width: 928px;
+}
+.about-us .rectangle-58-nJcGI6 {
+  background-color: var(--fire-bush);
+  border-radius: 24px;
+  height: 41px;
+  position: absolute;
+  right: calc(29.23% - 58px);
+  top: calc(28.88% - 12px);
+  width: 199px;
+}
+.about-us .rental-policy-nJcGI6 {
+  background-color: transparent;
+  bottom: 132px;
+  height: 18px;
+  left: calc(46.46% - 32px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 69px;
+}
+.about-us .sign-up-Ebfosa {
+  background-color: transparent;
+  height: 18px;
+  left: calc(40.19% - 20px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: calc(47.54% - 9px);
+  white-space: nowrap;
+  width: 49px;
+}
+.about-us .sign-up-for-membership-nJcGI6 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(30.11% - 45px);
+  text-align: left;
+  top: calc(29.97% - 5px);
+  white-space: nowrap;
+  width: 150px;
+}
+.about-us .span0-rwFTTt {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.about-us .span1-rwFTTt {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: italic;
+  font-weight: 400;
+}
+.about-us .star-with-your-email-nJcGI6 {
+  background-color: transparent;
+  color: var(--silver);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 15px;
+  font-style: italic;
+  font-weight: 300;
+  height: 22px;
+  left: calc(30.96% - 55px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(29.93% - 7px);
+  white-space: nowrap;
+  width: 179px;
+}
+.about-us .supportthemercerclubnyccom-nJcGI6 {
+  background-color: transparent;
+  bottom: 80px;
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(25.50% - 45px);
+  text-align: left;
+  white-space: nowrap;
+  width: 175px;
+}
+.about-us .terms-conditions-nJcGI6 {
+  background-color: transparent;
+  bottom: 106px;
+  height: 18px;
+  left: calc(47.41% - 50px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 106px;
+}
+.about-us .the-mercer-club-Ebfosa {
+  background-color: transparent;
+  bottom: calc(47.83% - 16px);
+  height: 33px;
+  letter-spacing: 0.28px;
+  line-height: 23px;
+  position: absolute;
+  right: calc(49.94% - 109px);
+  text-align: center;
+  white-space: nowrap;
+  width: 218px;
+}
+.about-us .the-mercer-club-RH0WJ5 {
+  background-color: transparent;
+  height: auto;
+  left: 420px;
+  letter-spacing: 0.28px;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  top: 603px;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us .the-mercer-club-he-fashion-indu-4eduM0 {
+  background-color: transparent;
+  height: 419px;
+  left: 438px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 34px;
+  width: 1296px;
+}
+.border-1px-cararra {
+  border: 1px solid var(--cararra);
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.border-3px-black {
+  border: 3px solid var(--black);
+}
+.nunitosans-normal-silver-10px {
+  color: var(--silver);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 400;
+}
+.overpass-black-black-23px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 900;
+}
+.overpass-bold-black-15px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-20px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-fire-bush-12px {
+  color: var(--fire-bush);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-normal-fire-bush-20px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica;
+  font-size: 20px;
+}
+.overpass-normal-gravel-15px {
+  color: var(--gravel);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gravel-15px-2 {
+  color: var(--gravel);
+  font-family: "Overpass", Helvetica;
+  font-size: 15px;
+}
+.overpass-normal-gray-12px {
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-15px {
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --black-haze: rgba(247,247,247,1.0);
+  --cararra: rgba(235,235,235,1.0);
+  --dove-gray: rgba(112,112,112,1.0);
+  --fire-bush: rgba(231,148,42,1.0);
+  --gravel: rgba(74,74,74,1.0);
+  --gray: rgba(126,126,126,1.0);
+  --silver: rgba(192,192,192,1.0);
+  --white: rgba(255,255,255,1.0);
+}
+/* screen - about-us-1 */
+
+.about-us-1 {
+  align-items: center;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 2358px;
+  justify-content: flex-start;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1080px;
+}
+.about-us-1 .about-us-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 51px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us-1 .browse-bh6aaC {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  left: calc(43.11% - 22px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 50px;
+}
+.about-us-1 .browse-nlxkfa {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us-1 .contact-us-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 60px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us-1 .customer-service954-787-0304-puVyE2 {
+  background-color: transparent;
+  color: var(--gray);
+  font-family: "Overpass", Helvetica;
+  font-size: 12px;
+  height: 59px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 161px;
+}
+.about-us-1 .editorial-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 45px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us-1 .editorial-bh6aaC {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(43.16% - 24px);
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+.about-us-1 .email-subscription-y1HRxC {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Overpass', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 394px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 544px;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us-1 .employees-GyJUNH {
+  background-color: transparent;
+  color: var(--black);
+  flex-shrink: 1;
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-left: 118px;
+  min-height: 29px;
+  min-width: 102px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us-1 .fa-qs-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 29px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us-1 .flex-col-C61RwL {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 1685px;
+  position: relative;
+  width: 1080px;
+}
+.about-us-1 .flex-col-Xi618D {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: 48.0px;
+  margin-left: 126px;
+  min-height: 70px;
+  position: relative;
+  width: 106px;
+}
+.about-us-1 .flex-col-dXBp89 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 178px;
+  position: relative;
+  width: 218px;
+}
+.about-us-1 .flex-col-ycScJA {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: 41.15px;
+  margin-left: 206px;
+  min-height: 79px;
+  position: relative;
+  width: 175px;
+}
+.about-us-1 .flex-row-0xy0vn {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 29px;
+  justify-content: flex-start;
+  margin-left: 2.0px;
+  margin-top: 158px;
+  min-width: 540px;
+  position: relative;
+  width: auto;
+}
+.about-us-1 .flex-row-C61RwL {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 178px;
+  justify-content: flex-start;
+  margin-right: 81.0px;
+  margin-top: 49px;
+  min-width: 831px;
+  position: relative;
+  width: auto;
+}
+.about-us-1 .group-179-dsfOTe {
+  background-color: var(--white);
+  box-shadow: -5px 0px 15px rgba(0,0,0,0.051);;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.about-us-1 .group-5-2LyrUC {
+  background-color: transparent;
+  background-image: url(../img/path-27-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 1px);
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 12px;
+}
+.about-us-1 .group-6-2LyrUC {
+  background-color: transparent;
+  background-image: url(../img/path-28-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 1px);
+  left: calc(34.59% - 4px);
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+.about-us-1 .group-7-2LyrUC {
+  background-color: transparent;
+  background-image: url(../img/path-30-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 100%;
+  position: absolute;
+  right: calc(32.50% - 4px);
+  top: 1px;
+  width: 12px;
+}
+.about-us-1 .group-8-9HOxau {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 12px;
+  margin-left: 0.0px;
+  position: relative;
+  width: 79px;
+}
+.about-us-1 .history-GyJUNH {
+  background-color: transparent;
+  color: var(--black);
+  flex-shrink: 1;
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  min-height: 29px;
+  min-width: 71px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us-1 .history-of-the-mercer-club-y1HRxC {
+  background-color: transparent;
+  color: var(--black-haze);
+  font-family: 'Overpass', Helvetica;
+  font-size: 200px;
+  font-style: normal;
+  font-weight: 900;
+  height: 479px;
+  left: 43px;
+  letter-spacing: 1.60px;
+  line-height: 184px;
+  opacity: 0.7;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 1002px;
+}
+.about-us-1 .humble-beginnings-y1HRxC {
+  background-color: transparent;
+  height: auto;
+  left: 411px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us-1 .img7544-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 413px;
+  margin-top: 105px;
+  object-fit: cover;
+  position: relative;
+  width: 1000px;
+}
+.about-us-1 .line-4-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 5px;
+  margin-right: 469.0px;
+  margin-top: 3px;
+  object-fit: cover;
+  position: relative;
+  width: 74px;
+}
+.about-us-1 .log-in-dsfOTe {
+  background-color: transparent;
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(32.63% - 13px);
+  text-align: left;
+  top: calc(47.54% - 9px);
+  white-space: nowrap;
+  width: 41px;
+}
+.about-us-1 .membership-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 69px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us-1 .membership-bh6aaC {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  left: calc(49.94% - 42px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 85px;
+}
+.about-us-1 .nav-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 79px;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 1080px;
+}
+.about-us-1 .nav-0xy0vn:hover {
+
+transform: translate(0, -5px);
+}
+.about-us-1 .overlap-group-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 795px;
+  margin-top: 97px;
+  position: relative;
+  width: 1080px;
+}
+.about-us-1 .overlap-group1-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 48px;
+  position: relative;
+  width: 218px;
+}
+.about-us-1 .overlap-group2-9HOxau {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 65px;
+  margin-top: 1px;
+  position: relative;
+  width: 175px;
+}
+.about-us-1 .path-13-2LyrUC {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+.about-us-1 .path-292-dsfOTe {
+  background-color: transparent;
+  bottom: calc(12.57% - 1px);
+  height: 7px;
+  left: calc(50.00% - 7px);
+  object-fit: cover;
+  position: absolute;
+  width: 13px;
+}
+.about-us-1 .path-31-OnRYQe {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: calc(100.00% - 5px);
+}
+.about-us-1 .path-32-OnRYQe {
+  background-color: transparent;
+  height: 3px;
+  left: calc(49.94% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(49.94% - 2px);
+  width: 3px;
+}
+.about-us-1 .path-851-y1HRxC {
+  background-color: transparent;
+  height: 413px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 382px;
+  width: 1080px;
+}
+.about-us-1 .path-852-y1HRxC {
+  background-color: transparent;
+  height: 41px;
+  left: 775px;
+  object-fit: cover;
+  position: absolute;
+  top: 610px;
+  width: 199px;
+}
+.about-us-1 .photo-gallery-GyJUNH {
+  background-color: transparent;
+  color: var(--black);
+  flex-shrink: 1;
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-left: 118px;
+  min-height: 29px;
+  min-width: 131px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us-1 .placeholder-person-dsfOTe {
+  background-color: transparent;
+  border-radius: 14.5px;
+  height: 29px;
+  object-fit: cover;
+  position: absolute;
+  right: 80px;
+  top: calc(50.00% - 14px);
+  width: 29px;
+}
+.about-us-1 .privacy-policy-y0eQTV {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 73px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us-1 .rectangle-255-dsfOTe {
+  background-color: var(--white);
+  border-radius: 40px;
+  box-shadow: -5px 0px 15px rgba(0,0,0,0.051);;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.about-us-1 .rectangle-57-y1HRxC {
+  background-color: var(--white);
+  border-radius: 27px;
+  height: 53px;
+  left: 99px;
+  position: absolute;
+  top: 604px;
+  width: 882px;
+}
+.about-us-1 .rental-policy-y0eQTV {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  min-height: 18px;
+  min-width: 69px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us-1 .sign-up-dsfOTe {
+  background-color: transparent;
+  height: 18px;
+  left: calc(31.13% - 15px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: calc(49.18% - 9px);
+  white-space: nowrap;
+  width: 49px;
+}
+.about-us-1 .sign-up-for-membership-y1HRxC {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 804px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 625px;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us-1 .span0-yu79uS {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.about-us-1 .span1-yu79uS {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: italic;
+  font-weight: 400;
+}
+.about-us-1 .supportthemercerclubnyccom-puVyE2 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 47px;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us-1 .terms-conditions-y0eQTV {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 106px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us-1 .the-mercer-club-dsfOTe {
+  background-color: transparent;
+  bottom: calc(47.83% - 16px);
+  height: 33px;
+  left: calc(49.42% - 108px);
+  letter-spacing: 0.28px;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 218px;
+}
+.about-us-1 .the-mercer-club-he-fashion-indu-y1HRxC {
+  background-color: transparent;
+  height: 419px;
+  left: 84px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 78px;
+  width: 899px;
+}
+.about-us-1 .the-mercer-club-nlxkfa {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.28px;
+  line-height: 23px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+.border-1px-cararra {
+  border: 1px solid var(--cararra);
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.border-3px-black {
+  border: 3px solid var(--black);
+}
+.nunitosans-normal-silver-10px {
+  color: var(--silver);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 400;
+}
+.overpass-black-black-23px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 900;
+}
+.overpass-bold-black-15px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-20px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-fire-bush-12px {
+  color: var(--fire-bush);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-normal-fire-bush-20px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica;
+  font-size: 20px;
+}
+.overpass-normal-gravel-15px {
+  color: var(--gravel);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gravel-15px-2 {
+  color: var(--gravel);
+  font-family: "Overpass", Helvetica;
+  font-size: 15px;
+}
+.overpass-normal-gray-12px {
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-15px {
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --black-haze: rgba(247,247,247,1.0);
+  --cararra: rgba(235,235,235,1.0);
+  --dove-gray: rgba(112,112,112,1.0);
+  --fire-bush: rgba(231,148,42,1.0);
+  --gravel: rgba(74,74,74,1.0);
+  --gray: rgba(126,126,126,1.0);
+  --silver: rgba(192,192,192,1.0);
+  --white: rgba(255,255,255,1.0);
+}
+/* screen - about-us-2 */
+
+.about-us-2 {
+  align-items: center;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 2358px;
+  justify-content: flex-start;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 600px;
+}
+.about-us-2 .about-us-5AJyKP {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  min-height: 18px;
+  min-width: 51px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us-2 .browse-bh6aaC {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  left: calc(43.19% - 22px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 50px;
+}
+.about-us-2 .browse-nlxkfa {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us-2 .contact-us-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 60px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us-2 .customer-service954-787-0304-8SqM8O {
+  background-color: transparent;
+  color: var(--gray);
+  font-family: "Overpass", Helvetica;
+  font-size: 12px;
+  height: 59px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 161px;
+}
+.about-us-2 .editorial-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 45px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us-2 .editorial-bh6aaC {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(43.01% - 24px);
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+.about-us-2 .email-subscription-y1HRxC {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Overpass', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 154px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 997px;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us-2 .employees-GyJUNH {
+  background-color: transparent;
+  color: var(--black);
+  flex-shrink: 1;
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-left: 69px;
+  min-height: 29px;
+  min-width: 102px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us-2 .fa-qs-Bx5qIC {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  min-height: 18px;
+  min-width: 29px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us-2 .flex-col-C61RwL {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 2.0px;
+  min-height: 1868px;
+  position: relative;
+  width: 602px;
+}
+.about-us-2 .flex-col-Xi618D {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: 21.15px;
+  margin-left: 44px;
+  min-height: 79px;
+  position: relative;
+  width: 175px;
+}
+.about-us-2 .flex-col-dXBp89 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 178px;
+  position: relative;
+  width: 307px;
+}
+.about-us-2 .flex-row-0PZcXW {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 24px;
+  justify-content: flex-start;
+  margin-top: 2px;
+  min-width: 307px;
+  position: relative;
+  width: auto;
+}
+.about-us-2 .flex-row-0xy0vn {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 29px;
+  justify-content: flex-start;
+  margin-left: 1.0px;
+  margin-top: 69px;
+  min-width: 449px;
+  position: relative;
+  width: auto;
+}
+.about-us-2 .flex-row-C61RwL {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 178px;
+  justify-content: flex-start;
+  margin-left: 2.0px;
+  margin-top: 7px;
+  min-width: 526px;
+  position: relative;
+  width: auto;
+}
+.about-us-2 .flex-row-gNHDIV {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 24px;
+  justify-content: flex-start;
+  margin-top: 2px;
+  min-width: 274px;
+  position: relative;
+  width: auto;
+}
+.about-us-2 .group-179-dsfOTe {
+  background-color: var(--white);
+  box-shadow: -5px 0px 15px rgba(0,0,0,0.051);;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.about-us-2 .group-5-tlDSyd {
+  background-color: transparent;
+  background-image: url(../img/path-27-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 1px);
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 12px;
+}
+.about-us-2 .group-6-tlDSyd {
+  background-color: transparent;
+  background-image: url(../img/path-28-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 1px);
+  left: calc(34.59% - 4px);
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+.about-us-2 .group-7-tlDSyd {
+  background-color: transparent;
+  background-image: url(../img/path-30-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 100%;
+  position: absolute;
+  right: calc(32.50% - 4px);
+  top: 1px;
+  width: 12px;
+}
+.about-us-2 .group-8-y0eQTV {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 12px;
+  margin-left: 0.0px;
+  position: relative;
+  width: 79px;
+}
+.about-us-2 .history-GyJUNH {
+  background-color: transparent;
+  color: var(--black);
+  flex-shrink: 1;
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  min-height: 29px;
+  min-width: 71px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us-2 .history-of-the-mercer-club-y1HRxC {
+  background-color: transparent;
+  color: var(--black-haze);
+  font-family: 'Overpass', Helvetica;
+  font-size: 200px;
+  font-style: normal;
+  font-weight: 900;
+  height: 1258px;
+  left: 0px;
+  letter-spacing: 1.60px;
+  line-height: 184px;
+  opacity: 0.7;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  width: 602px;
+}
+.about-us-2 .humble-beginnings-y1HRxC {
+  background-color: transparent;
+  height: auto;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us-2 .img7544-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 325px;
+  margin-right: 9.0px;
+  margin-top: 34px;
+  object-fit: cover;
+  position: relative;
+  width: 577px;
+}
+.about-us-2 .line-4-0xy0vn {
+  align-self: flex-start;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 5px;
+  margin-left: 74.5px;
+  margin-top: 3px;
+  object-fit: cover;
+  position: relative;
+  width: 74px;
+}
+.about-us-2 .log-in-dsfOTe {
+  background-color: transparent;
+  bottom: calc(45.90% - 8px);
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(20.93% - 9px);
+  text-align: left;
+  white-space: nowrap;
+  width: 41px;
+}
+.about-us-2 .membership-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 2px;
+  min-height: 18px;
+  min-width: 69px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us-2 .membership-bh6aaC {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(49.97% - 42px);
+  text-align: left;
+  white-space: nowrap;
+  width: 85px;
+}
+.about-us-2 .nav-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 79px;
+  margin-right: 2.0px;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 600px;
+}
+.about-us-2 .nav-0xy0vn:hover {
+
+transform: translate(0, -5px);
+}
+.about-us-2 .overlap-group-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1265px;
+  margin-top: 58px;
+  position: relative;
+  width: 602px;
+}
+.about-us-2 .overlap-group1-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 54px;
+  position: relative;
+  width: 270px;
+}
+.about-us-2 .overlap-group2-y0eQTV {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 65px;
+  margin-top: 1px;
+  position: relative;
+  width: 175px;
+}
+.about-us-2 .path-13-tlDSyd {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+.about-us-2 .path-292-dsfOTe {
+  background-color: transparent;
+  bottom: calc(12.57% - 1px);
+  height: 7px;
+  left: calc(50.00% - 7px);
+  object-fit: cover;
+  position: absolute;
+  width: 13px;
+}
+.about-us-2 .path-31-xIdHR0 {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: calc(100.00% - 5px);
+}
+.about-us-2 .path-32-xIdHR0 {
+  background-color: transparent;
+  height: 3px;
+  left: calc(49.94% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(49.94% - 2px);
+  width: 3px;
+}
+.about-us-2 .path-851-y1HRxC {
+  background-color: transparent;
+  height: 413px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 831px;
+  width: 600px;
+}
+.about-us-2 .path-852-y1HRxC {
+  background-color: transparent;
+  height: 36px;
+  left: 371px;
+  object-fit: cover;
+  position: absolute;
+  top: 1054px;
+  width: 199px;
+}
+.about-us-2 .photo-gallery-GyJUNH {
+  background-color: transparent;
+  color: var(--black);
+  flex-shrink: 1;
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-left: 76px;
+  min-height: 29px;
+  min-width: 131px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us-2 .privacy-policy-Bx5qIC {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-left: 172px;
+  min-height: 18px;
+  min-width: 73px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us-2 .rectangle-255-dsfOTe {
+  background-color: var(--white);
+  border-radius: 40px;
+  box-shadow: -5px 0px 15px rgba(0,0,0,0.051);;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.about-us-2 .rectangle-57-y1HRxC {
+  background-color: var(--white);
+  border-radius: 27px;
+  height: 53px;
+  left: 18px;
+  position: absolute;
+  top: 1045px;
+  width: 559px;
+}
+.about-us-2 .rental-policy-nlxkfa {
+  background-color: transparent;
+  height: auto;
+  left: 201px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us-2 .sign-up-dsfOTe {
+  background-color: transparent;
+  bottom: calc(45.90% - 8px);
+  height: 18px;
+  left: calc(16.52% - 8px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 49px;
+}
+.about-us-2 .sign-up-for-membership-y1HRxC {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 398px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 1066px;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us-2 .span0-XpyE6j {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.about-us-2 .span1-XpyE6j {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: italic;
+  font-weight: 400;
+}
+.about-us-2 .supportthemercerclubnyccom-8SqM8O {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 47px;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us-2 .terms-conditions-5AJyKP {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-left: 150px;
+  min-height: 18px;
+  min-width: 106px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.about-us-2 .the-mercer-club-dsfOTe {
+  background-color: transparent;
+  bottom: calc(39.13% - 13px);
+  height: 33px;
+  left: calc(47.64% - 104px);
+  letter-spacing: 0.28px;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 218px;
+}
+.about-us-2 .the-mercer-club-he-fashion-indu-y1HRxC {
+  background-color: transparent;
+  height: 419px;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 80px;
+  width: 529px;
+}
+.about-us-2 .the-mercer-club-nlxkfa {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.28px;
+  line-height: 23px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+.border-1px-cararra {
+  border: 1px solid var(--cararra);
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.border-3px-black {
+  border: 3px solid var(--black);
+}
+.nunitosans-normal-silver-10px {
+  color: var(--silver);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 400;
+}
+.overpass-black-black-23px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 900;
+}
+.overpass-bold-black-15px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-20px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-fire-bush-12px {
+  color: var(--fire-bush);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-normal-fire-bush-20px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica;
+  font-size: 20px;
+}
+.overpass-normal-gravel-15px {
+  color: var(--gravel);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gravel-15px-2 {
+  color: var(--gravel);
+  font-family: "Overpass", Helvetica;
+  font-size: 15px;
+}
+.overpass-normal-gray-12px {
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-15px {
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --black-haze: rgba(247,247,247,1.0);
+  --cararra: rgba(235,235,235,1.0);
+  --dove-gray: rgba(112,112,112,1.0);
+  --fire-bush: rgba(231,148,42,1.0);
+  --gravel: rgba(74,74,74,1.0);
+  --gray: rgba(126,126,126,1.0);
+  --silver: rgba(192,192,192,1.0);
+  --white: rgba(255,255,255,1.0);
+}
+@media screen and (max-width: 1079px) {
+  .about-us { 
+    display: none;
+   }
+  .about-us-1 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1080px) and (max-width: 1919px) {
+  .about-us { 
+    display: none;
+   }
+  .about-us-2 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .about-us-1 { 
+    display: none;
+   }
+  .about-us-2 { 
+    display: none;
+   }
+}

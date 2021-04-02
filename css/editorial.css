@@ -1,0 +1,2803 @@
+/* screen - editorial */
+
+.border-1px-cararra {
+  border: 1px solid var(--cararra);
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.border-3px-black {
+  border: 3px solid var(--black);
+}
+.editorial {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 2569px;
+  justify-content: flex-start;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+.editorial .about-us-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 51px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial .browse-BxCq5y {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial .browse-bh6aaC {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  left: calc(43.07% - 22px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 50px;
+}
+.editorial .component-22-1-dsfOTe {
+  background-color: transparent;
+  height: 19px;
+  left: 224px;
+  position: absolute;
+  top: calc(45.00% - 9px);
+  width: 522px;
+}
+.editorial .contact-us-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 7px;
+  min-height: 18px;
+  min-width: 60px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial .customer-service954-787-0304-mhxJRz {
+  background-color: transparent;
+  color: var(--gray);
+  font-family: "Overpass", Helvetica;
+  font-size: 12px;
+  height: 59px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 161px;
+}
+.editorial .design-in-stree-wearfear-of-god-GyJUNH {
+  background-color: transparent;
+  color: var(--gray);
+  flex-shrink: 1;
+  font-family: "Overpass", Helvetica;
+  font-size: 15px;
+  height: 44px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-left: 18px;
+  min-height: 44px;
+  position: relative;
+  text-align: center;
+  width: 202px;
+}
+.editorial .editorial-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 7px;
+  min-height: 18px;
+  min-width: 45px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial .editorial-O40pOL {
+  background-color: transparent;
+  color: var(--black-haze);
+  font-family: 'Overpass', Helvetica;
+  font-size: 200px;
+  font-style: normal;
+  font-weight: 900;
+  height: 479px;
+  left: 0px;
+  letter-spacing: 1.60px;
+  line-height: 184px;
+  opacity: 0.7;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 1869px;
+}
+.editorial .editorial-bh6aaC {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(43.21% - 24px);
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+.editorial .editorial-photo-1-xpmbvu {
+  align-self: center;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 413px;
+  margin-left: 12.0px;
+  object-fit: cover;
+  position: relative;
+  width: 1514px;
+}
+.editorial .email-UUN2Rc {
+  background-color: transparent;
+  height: 84.21%;
+  left: 5.45%;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 26.32%;
+  white-space: nowrap;
+  width: 15.76%;
+}
+.editorial .email-subscription-bGjsiT {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Overpass', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 798px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 136px;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial .fa-qs-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 29px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial .finding-the-face-mask-for-you-O40pOL {
+  background-color: transparent;
+  height: auto;
+  left: 438px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 35px;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial .finding-the-face-mask-for-you-v6Glvx {
+  background-color: transparent;
+  height: 52px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 202px;
+}
+.editorial .flex-col-0xy0vn {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 64px;
+  min-height: 1668px;
+  position: relative;
+  width: 1938px;
+}
+.editorial .flex-col-C61RwL {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: -27px;
+  min-height: 2052px;
+  position: relative;
+  width: 1938px;
+}
+.editorial .flex-col-Xi618D {
+  align-items: flex-start;
+  align-self: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: 46.0px;
+  margin-left: 222px;
+  min-height: 70px;
+  position: relative;
+  width: 106px;
+}
+.editorial .flex-col-dXBp89 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 174px;
+  position: relative;
+  width: 218px;
+}
+.editorial .flex-col-ycScJA {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 334px;
+  margin-top: 19.85px;
+  min-height: 79px;
+  position: relative;
+  width: 175px;
+}
+.editorial .flex-row-0xy0vn {
+  align-items: flex-start;
+  align-self: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 56px;
+  justify-content: flex-start;
+  margin-left: 17.87px;
+  margin-top: 184px;
+  min-width: 1140px;
+  position: relative;
+  width: auto;
+}
+.editorial .flex-row-C61RwL {
+  align-items: flex-start;
+  align-self: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 174px;
+  justify-content: flex-start;
+  margin-right: 43.0px;
+  margin-top: 190px;
+  min-width: 1055px;
+  position: relative;
+  width: auto;
+}
+.editorial .given-the-curre-ngs-for-the-pub-O40pOL {
+  background-color: transparent;
+  height: 132px;
+  left: 1098px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 92px;
+  width: 642px;
+}
+.editorial .given-the-incre-facial-gear-has-O40pOL {
+  background-color: transparent;
+  height: 220px;
+  left: 438px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 90px;
+  width: 642px;
+}
+.editorial .group-163-gfJS31 {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 100%;
+  left: 68.09%;
+  position: absolute;
+  top: 0px;
+  width: 31.91%;
+}
+.editorial .group-164-gfJS31 {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 100%;
+  left: 34.04%;
+  position: absolute;
+  top: 0px;
+  width: 31.91%;
+}
+.editorial .group-172-W7FO1N {
+  background-color: transparent;
+  height: 100%;
+  left: 102.49%;
+  position: relative;
+  top: 0px;
+  width: 99.04%;
+}
+.editorial .group-174-gfJS31 {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31.91%;
+}
+.editorial .group-179-dsfOTe {
+  background-color: var(--white);
+  box-shadow: -5px 0px 15px rgba(0,0,0,0.051);;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.editorial .group-5-2LyrUC {
+  background-color: transparent;
+  background-image: url(../img/path-27@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 1px);
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 12px;
+}
+.editorial .group-6-2LyrUC {
+  background-color: transparent;
+  background-image: url(../img/path-28@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 1px);
+  left: calc(34.59% - 4px);
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+.editorial .group-7-2LyrUC {
+  background-color: transparent;
+  background-image: url(../img/path-30@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 100%;
+  position: absolute;
+  right: calc(32.50% - 4px);
+  top: 1px;
+  width: 12px;
+}
+.editorial .group-8-9HOxau {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 12px;
+  margin-left: 0.0px;
+  position: relative;
+  width: 79px;
+}
+.editorial .ivan-ipstaff-writer-O40pOL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Overpass", Helvetica;
+  font-size: 15px;
+  height: auto;
+  left: 438px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 320px;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial .line-4-v6Glvx {
+  background-color: transparent;
+  height: 5px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 51px;
+  width: 126px;
+}
+.editorial .log-in-dsfOTe {
+  background-color: transparent;
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(40.55% - 17px);
+  text-align: left;
+  top: calc(47.54% - 9px);
+  white-space: nowrap;
+  width: 41px;
+}
+.editorial .mask-group-1-i6k3g4 {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: calc(50.00% - 10px);
+  width: 522px;
+}
+.editorial .membership-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 7px;
+  min-height: 18px;
+  min-width: 69px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial .membership-bh6aaC {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  left: calc(49.89% - 42px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 85px;
+}
+.editorial .name-1gLiB8 {
+  background-color: transparent;
+  height: 84.21%;
+  left: 5.45%;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 26.32%;
+  white-space: nowrap;
+  width: 16.97%;
+}
+.editorial .nav-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 79px;
+  position: relative;
+  width: 1920px;
+}
+.editorial .overlap-group-xpmbvu {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 479px;
+  margin-top: 40px;
+  position: relative;
+  width: 1869px;
+}
+.editorial .overlap-group1-GyJUNH {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 56px;
+  margin-left: 18px;
+  position: relative;
+  width: 202px;
+}
+.editorial .overlap-group2-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 47px;
+  position: relative;
+  width: 218px;
+}
+.editorial .overlap-group3-9HOxau {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 65px;
+  margin-top: 1px;
+  position: relative;
+  width: 175px;
+}
+.editorial .overlap-group4-xpmbvu {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 413px;
+  margin-top: 305px;
+  position: relative;
+  width: 1920px;
+}
+.editorial .password-FEsKyc {
+  background-color: transparent;
+  height: 84.21%;
+  left: 5.45%;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 26.32%;
+  white-space: nowrap;
+  width: 27.88%;
+}
+.editorial .path-13-2LyrUC {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+.editorial .path-292-dsfOTe {
+  background-color: transparent;
+  bottom: calc(12.57% - 1px);
+  height: 7px;
+  left: calc(50.00% - 7px);
+  object-fit: cover;
+  position: absolute;
+  width: 13px;
+}
+.editorial .path-31-OnRYQe {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: calc(100.00% - 5px);
+}
+.editorial .path-32-OnRYQe {
+  background-color: transparent;
+  height: 3px;
+  left: calc(49.94% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(49.94% - 2px);
+  width: 3px;
+}
+.editorial .path-37-GyJUNH {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 17px;
+  margin-top: 7.76px;
+  object-fit: cover;
+  position: relative;
+  width: 11px;
+}
+.editorial .path-38-GyJUNH {
+  align-self: center;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 17px;
+  margin-bottom: 17.31px;
+  margin-left: 16px;
+  object-fit: cover;
+  position: relative;
+  width: 11px;
+}
+.editorial .placeholder-person-dsfOTe {
+  background-color: transparent;
+  border-radius: 14.5px;
+  height: 29px;
+  object-fit: cover;
+  position: absolute;
+  right: 205px;
+  top: calc(50.00% - 14px);
+  width: 29px;
+}
+.editorial .posted-10222020-xpmbvu {
+  background-color: transparent;
+  color: var(--silver);
+  flex-shrink: 1;
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-left: 438px;
+  margin-top: 0px;
+  min-height: 18px;
+  min-width: 102px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial .privacy-policy-y0eQTV {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 73px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial .rectangle-24-bGjsiT {
+  background-color: var(--black);
+  height: 413px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.editorial .rectangle-255-dsfOTe {
+  background-color: var(--white);
+  box-shadow: -5px 0px 15px rgba(0,0,0,0.051);;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.editorial .rectangle-57-bGjsiT {
+  background-color: var(--white);
+  border-radius: 27px;
+  height: 53px;
+  left: 496px;
+  position: absolute;
+  top: 208px;
+  width: 928px;
+}
+.editorial .rectangle-58-bGjsiT {
+  background-color: var(--fire-bush);
+  border-radius: 24px;
+  height: 41px;
+  left: 1218px;
+  position: absolute;
+  top: 214px;
+  width: 199px;
+}
+.editorial .rental-policy-y0eQTV {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  min-height: 18px;
+  min-width: 69px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial .safety-is-fashion-GyJUNH {
+  align-self: center;
+  background-color: transparent;
+  color: var(--gray);
+  flex-shrink: 1;
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  margin-bottom: 13.0px;
+  margin-left: 18px;
+  min-height: 29px;
+  position: relative;
+  text-align: center;
+  width: 202px;
+}
+.editorial .sign-up-dsfOTe {
+  background-color: transparent;
+  height: 18px;
+  left: calc(40.19% - 20px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: calc(47.54% - 9px);
+  white-space: nowrap;
+  width: 49px;
+}
+.editorial .sign-up-for-membership-bGjsiT {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 1237px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 229px;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial .span0-1i1Nof {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.editorial .span0-NpmFu0 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.editorial .span0-WZlM2O {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -0.28px;
+}
+.editorial .span1-1i1Nof {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: italic;
+  font-weight: 400;
+}
+.editorial .span1-NpmFu0 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: italic;
+  font-weight: 400;
+}
+.editorial .span1-WZlM2O {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.editorial .star-with-your-email-bGjsiT {
+  background-color: transparent;
+  color: var(--silver);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 15px;
+  font-style: italic;
+  font-weight: 300;
+  height: auto;
+  left: 539px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 228px;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial .supportthemercerclubnyccom-mhxJRz {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 47px;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial .terms-conditions-y0eQTV {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 106px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial .the-history-of-he-air-jordan-1-GyJUNH {
+  background-color: transparent;
+  color: var(--gray);
+  flex-shrink: 1;
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  height: 44px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-left: 18px;
+  min-height: 44px;
+  position: relative;
+  text-align: center;
+  width: 202px;
+}
+.editorial .the-mercer-club-BxCq5y {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.28px;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial .the-mercer-club-dsfOTe {
+  background-color: transparent;
+  bottom: calc(47.83% - 16px);
+  height: 33px;
+  letter-spacing: 0.28px;
+  line-height: 23px;
+  position: absolute;
+  right: calc(49.94% - 109px);
+  text-align: center;
+  white-space: nowrap;
+  width: 218px;
+}
+.editorial .unique-mediums-on-the-runway-GyJUNH {
+  background-color: transparent;
+  color: var(--gray);
+  flex-shrink: 1;
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  height: 44px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-left: 18px;
+  min-height: 44px;
+  position: relative;
+  text-align: center;
+  width: 202px;
+}
+.nunitosans-normal-gray-12px {
+  color: var(--gray);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.nunitosans-normal-silver-10px {
+  color: var(--silver);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 400;
+}
+.overpass-black-black-23px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 900;
+}
+.overpass-bold-black-15px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-20px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-fire-bush-12px {
+  color: var(--fire-bush);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-normal-fire-bush-20px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica;
+  font-size: 20px;
+}
+.overpass-normal-gravel-15px {
+  color: var(--gravel);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-12px {
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-15px {
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --black-haze: rgba(247,247,247,1.0);
+  --cararra: rgba(235,235,235,1.0);
+  --dove-gray: rgba(112,112,112,1.0);
+  --fire-bush: rgba(231,148,42,1.0);
+  --gravel: rgba(74,74,74,1.0);
+  --gray: rgba(126,126,126,1.0);
+  --silver: rgba(192,192,192,1.0);
+  --white: rgba(255,255,255,1.0);
+}
+/* screen - editorial-1 */
+
+.border-1px-cararra {
+  border: 1px solid var(--cararra);
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.border-3px-black {
+  border: 3px solid var(--black);
+}
+.editorial-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 2569px;
+  justify-content: flex-start;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1080px;
+}
+.editorial-1 .about-us-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 51px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial-1 .browse-BxCq5y {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial-1 .browse-bh6aaC {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  left: calc(43.11% - 22px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 50px;
+}
+.editorial-1 .contact-us-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 60px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial-1 .customer-service954-787-0304-mhxJRz {
+  background-color: transparent;
+  color: var(--gray);
+  font-family: "Overpass", Helvetica;
+  font-size: 12px;
+  height: 59px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 161px;
+}
+.editorial-1 .design-in-stree-wearfear-of-god-ZXfK6V {
+  background-color: transparent;
+  color: var(--gray);
+  font-family: "Overpass", Helvetica;
+  font-size: 15px;
+  height: 44px;
+  left: 346px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 202px;
+}
+.editorial-1 .editorial-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 45px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial-1 .editorial-NG5cxJ {
+  background-color: transparent;
+  color: var(--black-haze);
+  font-family: 'Overpass', Helvetica;
+  font-size: 200px;
+  font-style: normal;
+  font-weight: 900;
+  height: 479px;
+  left: 0px;
+  letter-spacing: 1.60px;
+  line-height: 184px;
+  opacity: 0.7;
+  position: absolute;
+  text-align: left;
+  top: 308px;
+  width: 1869px;
+}
+.editorial-1 .editorial-bh6aaC {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(43.16% - 24px);
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+.editorial-1 .editorial-photo-1-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 413px;
+  margin-left: 52px;
+  margin-top: 103px;
+  object-fit: cover;
+  position: relative;
+  width: 987px;
+}
+.editorial-1 .email-subscription-NG5cxJ {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Overpass', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 394px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 822px;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial-1 .fa-qs-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 29px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial-1 .finding-the-face-mask-for-you-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-left: 94px;
+  margin-top: 102px;
+  min-height: 29px;
+  min-width: 291px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial-1 .finding-the-face-mask-for-you-ZXfK6V {
+  background-color: transparent;
+  height: 52px;
+  left: 170px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 202px;
+}
+.editorial-1 .flex-col-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 1995px;
+  position: relative;
+  width: 1869px;
+}
+.editorial-1 .flex-col-Xi618D {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: 48.0px;
+  margin-left: 126px;
+  min-height: 70px;
+  position: relative;
+  width: 106px;
+}
+.editorial-1 .flex-col-dXBp89 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 178px;
+  position: relative;
+  width: 218px;
+}
+.editorial-1 .flex-col-ycScJA {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: 41.15px;
+  margin-left: 206px;
+  min-height: 79px;
+  position: relative;
+  width: 175px;
+}
+.editorial-1 .flex-row-0xy0vn {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 56px;
+  justify-content: flex-start;
+  margin-left: 68.07px;
+  margin-top: 109px;
+  min-width: 951px;
+  position: relative;
+  width: auto;
+}
+.editorial-1 .flex-row-C61RwL {
+  align-items: center;
+  align-self: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 178px;
+  justify-content: flex-start;
+  margin-right: 47.0px;
+  margin-top: 103px;
+  min-width: 831px;
+  position: relative;
+  width: auto;
+}
+.editorial-1 .given-the-curre-ngs-for-the-pub-NG5cxJ {
+  background-color: transparent;
+  height: 304px;
+  left: 615px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  width: 403px;
+}
+.editorial-1 .given-the-incre-facial-gear-has-NG5cxJ {
+  background-color: transparent;
+  height: 272px;
+  left: 94px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 488px;
+}
+.editorial-1 .group-179-dsfOTe {
+  background-color: var(--white);
+  box-shadow: -5px 0px 15px rgba(0,0,0,0.051);;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.editorial-1 .group-5-2LyrUC {
+  background-color: transparent;
+  background-image: url(../img/path-27@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 1px);
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 12px;
+}
+.editorial-1 .group-6-2LyrUC {
+  background-color: transparent;
+  background-image: url(../img/path-28@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 1px);
+  left: calc(34.59% - 4px);
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+.editorial-1 .group-7-2LyrUC {
+  background-color: transparent;
+  background-image: url(../img/path-30@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 100%;
+  position: absolute;
+  right: calc(32.50% - 4px);
+  top: 1px;
+  width: 12px;
+}
+.editorial-1 .group-8-9HOxau {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 12px;
+  margin-left: 0.0px;
+  position: relative;
+  width: 79px;
+}
+.editorial-1 .ivan-ipstaff-writer-NG5cxJ {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Overpass", Helvetica;
+  font-size: 15px;
+  height: auto;
+  left: 85px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 292px;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial-1 .line-4-ZXfK6V {
+  background-color: transparent;
+  height: 5px;
+  left: 204px;
+  object-fit: cover;
+  position: absolute;
+  top: 51px;
+  width: 126px;
+}
+.editorial-1 .log-in-dsfOTe {
+  background-color: transparent;
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(32.63% - 13px);
+  text-align: left;
+  top: calc(47.54% - 9px);
+  white-space: nowrap;
+  width: 41px;
+}
+.editorial-1 .membership-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 69px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial-1 .membership-bh6aaC {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  left: calc(49.94% - 42px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 85px;
+}
+.editorial-1 .nav-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 79px;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 1080px;
+}
+.editorial-1 .nav-0xy0vn:hover {
+
+transform: translate(0, -5px);
+}
+.editorial-1 .overlap-group-GyJUNH {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 56px;
+  margin-left: 27px;
+  position: relative;
+  width: 884px;
+}
+.editorial-1 .overlap-group1-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1042px;
+  margin-top: 36px;
+  position: relative;
+  width: 1869px;
+}
+.editorial-1 .overlap-group2-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 48px;
+  position: relative;
+  width: 218px;
+}
+.editorial-1 .overlap-group3-9HOxau {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 65px;
+  margin-top: 1px;
+  position: relative;
+  width: 175px;
+}
+.editorial-1 .path-13-2LyrUC {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+.editorial-1 .path-292-dsfOTe {
+  background-color: transparent;
+  bottom: calc(12.57% - 1px);
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 7px);
+  width: 13px;
+}
+.editorial-1 .path-31-OnRYQe {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: calc(100.00% - 5px);
+}
+.editorial-1 .path-32-OnRYQe {
+  background-color: transparent;
+  height: 3px;
+  left: calc(49.94% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(49.94% - 2px);
+  width: 3px;
+}
+.editorial-1 .path-37-GyJUNH {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 17px;
+  margin-top: 7.76px;
+  object-fit: cover;
+  position: relative;
+  width: 11px;
+}
+.editorial-1 .path-38-GyJUNH {
+  align-self: center;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 17px;
+  margin-bottom: 17.31px;
+  margin-left: 16px;
+  object-fit: cover;
+  position: relative;
+  width: 11px;
+}
+.editorial-1 .path-851-NG5cxJ {
+  background-color: transparent;
+  height: 413px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 628px;
+  width: 1080px;
+}
+.editorial-1 .path-852-NG5cxJ {
+  background-color: transparent;
+  height: 41px;
+  left: 766px;
+  object-fit: cover;
+  position: absolute;
+  top: 890px;
+  width: 199px;
+}
+.editorial-1 .placeholder-person-dsfOTe {
+  background-color: transparent;
+  border-radius: 14.5px;
+  height: 29px;
+  object-fit: cover;
+  position: absolute;
+  right: 80px;
+  top: calc(50.00% - 14px);
+  width: 29px;
+}
+.editorial-1 .posted-10222020-0xy0vn {
+  background-color: transparent;
+  color: var(--silver);
+  flex-shrink: 1;
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-left: 100px;
+  margin-top: 7px;
+  min-height: 18px;
+  min-width: 102px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial-1 .privacy-policy-y0eQTV {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 73px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial-1 .rectangle-255-dsfOTe {
+  background-color: var(--white);
+  border-radius: 40px;
+  box-shadow: -5px 0px 15px rgba(0,0,0,0.051);;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.editorial-1 .rectangle-57-NG5cxJ {
+  background-color: var(--white);
+  border-radius: 27px;
+  height: 53px;
+  left: 94px;
+  position: absolute;
+  top: 884px;
+  width: 882px;
+}
+.editorial-1 .rental-policy-y0eQTV {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  min-height: 18px;
+  min-width: 69px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial-1 .safety-is-fashion-ZXfK6V {
+  background-color: transparent;
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  height: 29px;
+  left: 521px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  width: 202px;
+}
+.editorial-1 .sign-up-dsfOTe {
+  background-color: transparent;
+  height: 18px;
+  left: calc(31.13% - 15px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: calc(49.18% - 9px);
+  white-space: nowrap;
+  width: 49px;
+}
+.editorial-1 .sign-up-for-membership-NG5cxJ {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 792px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 906px;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial-1 .span0-1i1Nof {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.editorial-1 .span0-XYxM0x {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -0.28px;
+}
+.editorial-1 .span0-cyFVtx {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.editorial-1 .span1-1i1Nof {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: italic;
+  font-weight: 400;
+}
+.editorial-1 .span1-XYxM0x {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.editorial-1 .span1-cyFVtx {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: italic;
+  font-weight: 400;
+}
+.editorial-1 .supportthemercerclubnyccom-mhxJRz {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 47px;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial-1 .terms-conditions-y0eQTV {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 106px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial-1 .the-history-of-he-air-jordan-1-ZXfK6V {
+  background-color: transparent;
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  height: 44px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 202px;
+}
+.editorial-1 .the-mercer-club-BxCq5y {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.28px;
+  line-height: 23px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial-1 .the-mercer-club-dsfOTe {
+  background-color: transparent;
+  bottom: calc(47.83% - 16px);
+  height: 33px;
+  left: calc(49.42% - 108px);
+  letter-spacing: 0.28px;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 218px;
+}
+.editorial-1 .unique-mediums-on-the-runway-ZXfK6V {
+  background-color: transparent;
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  height: 44px;
+  left: 682px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 202px;
+}
+.nunitosans-normal-gray-12px {
+  color: var(--gray);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.nunitosans-normal-silver-10px {
+  color: var(--silver);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 400;
+}
+.overpass-black-black-23px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 900;
+}
+.overpass-bold-black-15px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-20px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-fire-bush-12px {
+  color: var(--fire-bush);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-normal-fire-bush-20px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica;
+  font-size: 20px;
+}
+.overpass-normal-gravel-15px {
+  color: var(--gravel);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-12px {
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-15px {
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --black-haze: rgba(247,247,247,1.0);
+  --cararra: rgba(235,235,235,1.0);
+  --dove-gray: rgba(112,112,112,1.0);
+  --fire-bush: rgba(231,148,42,1.0);
+  --gravel: rgba(74,74,74,1.0);
+  --gray: rgba(126,126,126,1.0);
+  --silver: rgba(192,192,192,1.0);
+  --white: rgba(255,255,255,1.0);
+}
+/* screen - editorial-2 */
+
+.border-1px-cararra {
+  border: 1px solid var(--cararra);
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.border-3px-black {
+  border: 3px solid var(--black);
+}
+.editorial-2 {
+  align-items: center;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 2395px;
+  justify-content: flex-start;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 600px;
+}
+.editorial-2 .about-us-5AJyKP {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  min-height: 18px;
+  min-width: 51px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial-2 .browse-UxZZfc {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial-2 .browse-bh6aaC {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  left: calc(43.19% - 22px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 50px;
+}
+.editorial-2 .contact-us-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 60px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial-2 .customer-service954-787-0304-prdjcR {
+  background-color: transparent;
+  color: var(--gray);
+  font-family: "Overpass", Helvetica;
+  font-size: 12px;
+  height: 59px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 161px;
+}
+.editorial-2 .design-in-stree-wearfear-of-god-CwiSGc {
+  background-color: transparent;
+  color: var(--gray);
+  font-family: "Overpass", Helvetica;
+  font-size: 15px;
+  height: 44px;
+  left: 340px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 202px;
+}
+.editorial-2 .editorial-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 8px;
+  min-height: 18px;
+  min-width: 45px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial-2 .editorial-bh6aaC {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(43.01% - 24px);
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+.editorial-2 .editorial-photo-1-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 338px;
+  margin-left: 5.0px;
+  margin-top: 34px;
+  object-fit: cover;
+  position: relative;
+  width: 529px;
+}
+.editorial-2 .email-subscription-NG5cxJ {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Overpass', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 154px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 174px;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial-2 .fa-qs-Bx5qIC {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  min-height: 18px;
+  min-width: 29px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial-2 .finding-the-face-mask-for-you-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-left: 3.0px;
+  margin-top: 123px;
+  min-height: 29px;
+  min-width: 291px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial-2 .finding-the-face-mask-for-you-CwiSGc {
+  background-color: transparent;
+  height: 52px;
+  left: 185px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: 202px;
+}
+.editorial-2 .flex-col-C61RwL {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 2034px;
+  position: relative;
+  width: 600px;
+}
+.editorial-2 .flex-col-Xi618D {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: 21.15px;
+  margin-left: 44px;
+  min-height: 79px;
+  position: relative;
+  width: 175px;
+}
+.editorial-2 .flex-col-dXBp89 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 178px;
+  position: relative;
+  width: 307px;
+}
+.editorial-2 .flex-row-0PZcXW {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 24px;
+  justify-content: flex-start;
+  margin-top: 2px;
+  min-width: 307px;
+  position: relative;
+  width: auto;
+}
+.editorial-2 .flex-row-0xy0vn {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 55px;
+  justify-content: flex-start;
+  margin-left: 9.34px;
+  margin-top: 86px;
+  min-width: 556px;
+  position: relative;
+  width: auto;
+}
+.editorial-2 .flex-row-C61RwL {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 178px;
+  justify-content: flex-start;
+  margin-left: 20.0px;
+  margin-top: 38px;
+  min-width: 526px;
+  position: relative;
+  width: auto;
+}
+.editorial-2 .flex-row-gNHDIV {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 24px;
+  justify-content: flex-start;
+  margin-top: 2px;
+  min-width: 274px;
+  position: relative;
+  width: auto;
+}
+.editorial-2 .flex-row-oV5UrE {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 45px;
+  justify-content: flex-start;
+  margin-left: 38.0px;
+  margin-top: 7px;
+  min-width: 438px;
+  position: relative;
+  width: auto;
+}
+.editorial-2 .given-the-curre-ngs-for-the-pub-GW1jy1 {
+  background-color: transparent;
+  height: 304px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 403px;
+}
+.editorial-2 .given-the-incre-facial-gear-ha-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 357px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  margin-left: 2.0px;
+  margin-top: 30px;
+  min-height: 357px;
+  position: relative;
+  text-align: left;
+  width: 488px;
+}
+.editorial-2 .group-179-dsfOTe {
+  background-color: var(--white);
+  box-shadow: -5px 0px 15px rgba(0,0,0,0.051);;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.editorial-2 .group-5-tlDSyd {
+  background-color: transparent;
+  background-image: url(../img/path-27@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 1px);
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 12px;
+}
+.editorial-2 .group-6-tlDSyd {
+  background-color: transparent;
+  background-image: url(../img/path-28@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 1px);
+  left: calc(34.59% - 4px);
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+.editorial-2 .group-7-tlDSyd {
+  background-color: transparent;
+  background-image: url(../img/path-30@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 100%;
+  position: absolute;
+  right: calc(32.50% - 4px);
+  top: 1px;
+  width: 12px;
+}
+.editorial-2 .group-8-y0eQTV {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 12px;
+  margin-left: 0.0px;
+  position: relative;
+  width: 79px;
+}
+.editorial-2 .ivan-ipstaff-writer-GW1jy1 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Overpass", Helvetica;
+  font-size: 15px;
+  height: auto;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 256px;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial-2 .line-4-CwiSGc {
+  background-color: transparent;
+  height: 6px;
+  left: 234px;
+  object-fit: cover;
+  position: absolute;
+  top: 50px;
+  width: 99px;
+}
+.editorial-2 .log-in-dsfOTe {
+  background-color: transparent;
+  bottom: calc(45.90% - 8px);
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(20.93% - 9px);
+  text-align: left;
+  white-space: nowrap;
+  width: 41px;
+}
+.editorial-2 .membership-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 2px;
+  min-height: 18px;
+  min-width: 69px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial-2 .membership-bh6aaC {
+  background-color: transparent;
+  bottom: calc(28.07% - 6px);
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(49.97% - 42px);
+  text-align: left;
+  white-space: nowrap;
+  width: 85px;
+}
+.editorial-2 .nav-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 79px;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 600px;
+}
+.editorial-2 .nav-0xy0vn:hover {
+
+transform: translate(0, -5px);
+}
+.editorial-2 .overlap-group-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 54px;
+  position: relative;
+  width: 270px;
+}
+.editorial-2 .overlap-group1-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 413px;
+  margin-top: 89px;
+  position: relative;
+  width: 600px;
+}
+.editorial-2 .overlap-group2-GyJUNH {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 55px;
+  position: relative;
+  width: 542px;
+}
+.editorial-2 .overlap-group3-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 304px;
+  margin-right: 83.0px;
+  margin-top: 9px;
+  position: relative;
+  width: 403px;
+}
+.editorial-2 .overlap-group4-y0eQTV {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 65px;
+  margin-top: 1px;
+  position: relative;
+  width: 175px;
+}
+.editorial-2 .path-13-tlDSyd {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+.editorial-2 .path-292-dsfOTe {
+  background-color: transparent;
+  bottom: calc(12.57% - 1px);
+  height: 7px;
+  left: calc(50.00% - 7px);
+  object-fit: cover;
+  position: absolute;
+  width: 13px;
+}
+.editorial-2 .path-31-xIdHR0 {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: calc(100.00% - 5px);
+}
+.editorial-2 .path-32-xIdHR0 {
+  background-color: transparent;
+  height: 3px;
+  left: calc(49.94% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(49.94% - 2px);
+  width: 3px;
+}
+.editorial-2 .path-37-CwiSGc {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 11px;
+}
+.editorial-2 .path-38-GyJUNH {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 17px;
+  margin-bottom: 12.84px;
+  margin-left: 2px;
+  object-fit: cover;
+  position: relative;
+  width: 11px;
+}
+.editorial-2 .path-851-NG5cxJ {
+  background-color: transparent;
+  height: 413px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 600px;
+}
+.editorial-2 .path-852-NG5cxJ {
+  background-color: transparent;
+  height: 36px;
+  left: 371px;
+  object-fit: cover;
+  position: absolute;
+  top: 231px;
+  width: 199px;
+}
+.editorial-2 .posted-10222020-0xy0vn {
+  align-self: flex-start;
+  background-color: transparent;
+  color: var(--silver);
+  flex-shrink: 1;
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-left: 38px;
+  margin-top: 15px;
+  min-height: 18px;
+  min-width: 102px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial-2 .privacy-policy-Bx5qIC {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-left: 172px;
+  min-height: 18px;
+  min-width: 73px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial-2 .rectangle-255-dsfOTe {
+  background-color: var(--white);
+  border-radius: 40px;
+  box-shadow: -5px 0px 15px rgba(0,0,0,0.051);;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.editorial-2 .rectangle-57-NG5cxJ {
+  background-color: var(--white);
+  border-radius: 27px;
+  height: 53px;
+  left: 18px;
+  position: absolute;
+  top: 222px;
+  width: 559px;
+}
+.editorial-2 .rental-policy-UxZZfc {
+  background-color: transparent;
+  height: auto;
+  left: 201px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial-2 .safety-is-fashion-QkTteQ {
+  background-color: transparent;
+  color: var(--gray);
+  flex-shrink: 1;
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  margin-left: 34px;
+  min-height: 29px;
+  position: relative;
+  text-align: center;
+  width: 202px;
+}
+.editorial-2 .sign-up-dsfOTe {
+  background-color: transparent;
+  bottom: calc(45.90% - 8px);
+  height: 18px;
+  left: calc(16.52% - 8px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 49px;
+}
+.editorial-2 .sign-up-for-membership-NG5cxJ {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 398px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 243px;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial-2 .span0-FTHPPe {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -0.28px;
+}
+.editorial-2 .span0-tiiPNG {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.editorial-2 .span0-ztrVG7 {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.editorial-2 .span1-FTHPPe {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.editorial-2 .span1-tiiPNG {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: italic;
+  font-weight: 400;
+}
+.editorial-2 .span1-ztrVG7 {
+  color: rgba(126,126,126,1.0);
+  font-family: 'Overpass', Helvetica;
+  font-style: italic;
+  font-weight: 400;
+}
+.editorial-2 .supportthemercerclubnyccom-prdjcR {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 47px;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial-2 .terms-conditions-5AJyKP {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-left: 150px;
+  min-height: 18px;
+  min-width: 106px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial-2 .the-history-of-he-air-jordan-1-CwiSGc {
+  background-color: transparent;
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  height: 44px;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 202px;
+}
+.editorial-2 .the-mercer-club-UxZZfc {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.28px;
+  line-height: 23px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+.editorial-2 .the-mercer-club-dsfOTe {
+  background-color: transparent;
+  bottom: calc(39.13% - 13px);
+  height: 33px;
+  left: calc(47.64% - 104px);
+  letter-spacing: 0.28px;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 218px;
+}
+.editorial-2 .unique-mediums-on-the-runway-QkTteQ {
+  align-self: flex-end;
+  background-color: transparent;
+  color: var(--gray);
+  flex-shrink: 1;
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  height: 44px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  min-height: 44px;
+  position: relative;
+  text-align: center;
+  width: 202px;
+}
+.nunitosans-normal-gray-12px {
+  color: var(--gray);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.nunitosans-normal-silver-10px {
+  color: var(--silver);
+  font-family: 'Nunito Sans', Helvetica;
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 400;
+}
+.overpass-black-black-23px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 900;
+}
+.overpass-bold-black-15px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-20px {
+  color: var(--black);
+  font-family: 'Overpass', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-fire-bush-12px {
+  color: var(--fire-bush);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-normal-fire-bush-20px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica;
+  font-size: 20px;
+}
+.overpass-normal-gravel-15px {
+  color: var(--gravel);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-12px {
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-15px {
+  color: var(--gray);
+  font-family: 'Overpass', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --black-haze: rgba(247,247,247,1.0);
+  --cararra: rgba(235,235,235,1.0);
+  --dove-gray: rgba(112,112,112,1.0);
+  --fire-bush: rgba(231,148,42,1.0);
+  --gravel: rgba(74,74,74,1.0);
+  --gray: rgba(126,126,126,1.0);
+  --silver: rgba(192,192,192,1.0);
+  --white: rgba(255,255,255,1.0);
+}
+@media screen and (max-width: 1079px) {
+  .editorial { 
+    display: none;
+   }
+  .editorial-1 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1080px) and (max-width: 1919px) {
+  .editorial { 
+    display: none;
+   }
+  .editorial-2 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .editorial-1 { 
+    display: none;
+   }
+  .editorial-2 { 
+    display: none;
+   }
+}

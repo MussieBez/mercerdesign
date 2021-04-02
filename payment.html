@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/payment.css" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100;0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap"
+      rel="stylesheet"
+    />
+    <title>Payment</title>
+  </head>
+  <body>
+    <header class="container">
+      <nav class="grid-nav-container">
+        <a class="SIGN-UP" href="#">SIGN-UP</a>
+        <h1 class="logo">
+          <a class="brand-name" href="#">THE MERCER CLUB</a>
+        </h1>
+        <a class="LOG-IN" href="#">LOG-IN</a>
+        <a class="profile-icon" href="dashboard.html"
+          ><img src="img/placeholder-person@1x.png" alt="profile icon"
+        /></a>
+      </nav>
+      <div class="navMenu">
+        <div class="dropdown">
+          <button class="dropbtn">
+            <img class="nav-arrow" src="img/path-292-1@1x.png" alt="arrow" />
+          </button>
+          <div class="dropdown-content">
+            <a href="browse.html#">Browse</a><a href="#">Membership</a>
+            <a href="editorial.html">Editorial</a>
+          </div>
+        </div>
+      </div>
+    </header>
+    <main class="container1">
+      <div class="grid-main-container">
+        <div class="user-links">
+            <div class="user-links-div">
+                <h3 class="title">Cart Items</h3>
+                <hr/>
+                <ul class="user-links-ul">
+                    <li><a href="cart.html">Item 1</a></li>
+                    <li><a href="favorites.html">Item 2</a></li>
+                    <li><a href="order-history.html">Item 3</a></li>
+                    <li><a href="gallery.html">Item 4</a></li>
+                    <li>Total Amount ...</li>
+                </ul>
+            </div>
+        </div>
+        <div class="second-column">
+            <div class="user-info">
+                <h3 class="card-header">Payment methods</h3>
+                <hr/>
+                <ul class="list-group">
+                  <li class="list-group-item" id="userName">Credit Card</li>
+                  <li class="list-group-item" id="userEmail">Debit Card</li>
+                  </li>
+                </ul>
+              </div>
+        </div>  
+      </div>
+    </main>
+    <div class="email-sub">
+      <h2>EMAIL SUBSCRIPTION</h2>
+      <form action="browse.html" method="get">
+        <input
+          type="email"
+          id="user-email"
+          placeholder="START WITH YOUR EMAIL"
+          name="user_email"
+        />
+        <button class="submit-btn">SIGN-UP FOR NEWSLETTER</button>
+      </form>
+      >
+    </div>
+    <footer>
+      <div class="grid-footer-container container">
+        <div class="col-1">
+          <ul>
+            <li><a class="brand-name" href="#">THE MERCER CLUB</a></li>
+            <li><a href="#">Browse</a></li>
+            <li><a href="about-us.html">About Us</a></li>
+            <li><a href="faq.html">FAQs</a></li>
+            <li><a href="#">Membership</a></li>
+            <li><a href="editorial.html">Editorial</a></li>
+            <li><a href="">Contact Us</a></li>
+          </ul>
+        </div>
+        <div class="col-2">
+          <ul>
+            <li><a href="rental-policy.html">Rental Policy</a></li>
+            <li><a href="terms-conditions.html">Terms & Condition</a></li>
+            <li><a href="privacy-policy.html">Privacy Policy</a></li>
+          </ul>
+        </div>
+        <div class="col-3">
+          <a href="https://twitter.com/themercerclub/"
+            ><img src="img/path-13@1x.png" alt="twitter icon"
+          /></a>
+          <a href="https://www.facebook.com/TheMercerClub/"
+            ><img src="img/path-28@1x.png" alt="facebook icon"
+          /></a>
+          <a href="https://www.instagram.com/themercerclub/"
+            ><img src="img/path-31@1x.png" alt="instagram icon"
+          /></a>
+          <a href="https://www.linkedin.com/company/the-mercer-club"
+            ><img src="img/path-27@1x.png" alt="linkedin icon"
+          /></a>
+          <p>Customer Service</p>
+          <p><em>(954)787-0304</em></p>
+          <a href="mailto:support@themercerclubnyc.com"
+            >support@themercerclubnyc.com</a
+          >
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
